@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/05: **[New]** Chemists can now craft soap and advanced regenerative meshes. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8643](https://github.com/unitystation/unitystation/pull/8643)
 * 2022/05/05: **[Fix]** Re-added the ablative trenchcoat, hypospray, secret docs, imperator, and justitia steal objectives by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8649](https://github.com/unitystation/unitystation/pull/8649)
 * 2021/08/15: **[Improvement]** Processing raw meat now produces multiple raw meatballs instead of one cooked meatball. by [PetMudstone](https://github.com/PetMudstone) in PR #[7269](https://github.com/unitystation/unitystation/pull/7269)
 * 2021/08/15: **[New]** Using rolling pins on raw meatballs now creates raw patties. Burger recipes now use cooked patties instead of steaks where applicable. by [PetMudstone](https://github.com/PetMudstone) in PR #[7269](https://github.com/unitystation/unitystation/pull/7269)
