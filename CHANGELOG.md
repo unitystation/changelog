@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/06: **[New]** - Admins can now revoke the ability for cargonia to make purchases from their admin tool. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8658](https://github.com/unitystation/unitystation/pull/8658)
 * 2022/05/05: **[New]** Chemists can now craft soap and advanced regenerative meshes. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8643](https://github.com/unitystation/unitystation/pull/8643)
 * 2022/05/05: **[Fix]** Re-added the ablative trenchcoat, hypospray, secret docs, imperator, and justitia steal objectives by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8649](https://github.com/unitystation/unitystation/pull/8649)
 * 2021/08/15: **[Improvement]** Processing raw meat now produces multiple raw meatballs instead of one cooked meatball. by [PetMudstone](https://github.com/PetMudstone) in PR #[7269](https://github.com/unitystation/unitystation/pull/7269)
