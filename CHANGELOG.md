@@ -2,6 +2,8 @@
 ---
 
 
+* 2022/05/08: **[New]** Added the Fire Axe by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8662](https://github.com/unitystation/unitystation/pull/8662)
+* 2022/05/08: **[Improvement]** Bone Axes can now be worn in the back slot. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8662](https://github.com/unitystation/unitystation/pull/8662)
 * 2022/05/08: **[Fix]** - Bombs can once again receive signals by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8665](https://github.com/unitystation/unitystation/pull/8665)
 * 2022/05/06: **[New]** - Admins can now revoke the ability for cargonia to make purchases from their admin tool. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8658](https://github.com/unitystation/unitystation/pull/8658)
 * 2022/05/05: **[New]** Chemists can now craft soap and advanced regenerative meshes. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8643](https://github.com/unitystation/unitystation/pull/8643)
