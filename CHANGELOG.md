@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/08: **[Fix]** - Bombs can once again receive signals by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8665](https://github.com/unitystation/unitystation/pull/8665)
 * 2022/05/06: **[New]** - Admins can now revoke the ability for cargonia to make purchases from their admin tool. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8658](https://github.com/unitystation/unitystation/pull/8658)
 * 2022/05/05: **[New]** Chemists can now craft soap and advanced regenerative meshes. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8643](https://github.com/unitystation/unitystation/pull/8643)
 * 2022/05/05: **[Fix]** Re-added the ablative trenchcoat, hypospray, secret docs, imperator, and justitia steal objectives by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8649](https://github.com/unitystation/unitystation/pull/8649)
