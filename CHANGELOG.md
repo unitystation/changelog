@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Fix]** SMES and Microwave can now be deconstructed by [JustinTrotter](https://github.com/JustinTrotter) in PR #[7584](https://github.com/unitystation/unitystation/pull/7584)
 * 2022/05/09: **[Fix]** Fixed restart vote. by [ThatDan123](https://github.com/ThatDan123) in PR #[7510](https://github.com/unitystation/unitystation/pull/7510)
 * 2022/05/09: **[Fix]** Fixed interactions with bursted and grown xeno eggs. by [tomasfrankovic](https://github.com/tomasfrankovic) in PR #[7511](https://github.com/unitystation/unitystation/pull/7511)
 * 2022/05/09: **[Improvement]** Maps ACUs on Square, engineering. by [NoooneyDude](https://github.com/NoooneyDude) in PR #[7513](https://github.com/unitystation/unitystation/pull/7513)
