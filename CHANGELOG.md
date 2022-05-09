@@ -2,6 +2,8 @@
 ---
 
 
+* 2022/05/09: **[Improvement]** placing ID inside PDA has text feedback. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7764](https://github.com/unitystation/unitystation/pull/7764)
+* 2022/05/09: **[Improvement]** player list now shows player ping. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7764](https://github.com/unitystation/unitystation/pull/7764)
 * 2022/05/09: **[Fix]** Fixes radiation thread not being terminated. by [Bod9001](https://github.com/Bod9001) in PR #[7768](https://github.com/unitystation/unitystation/pull/7768)
 * 2022/05/09: **[Improvement]** improved memory performance of Atmospherics. by [Bod9001](https://github.com/Bod9001) in PR #[7768](https://github.com/unitystation/unitystation/pull/7768)
 * 2022/05/09: **[Fix]** fixed right click radial again. by [Bod9001](https://github.com/Bod9001) in PR #[7769](https://github.com/unitystation/unitystation/pull/7769)
