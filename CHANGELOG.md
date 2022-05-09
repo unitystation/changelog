@@ -2,6 +2,8 @@
 ---
 
 
+* 2022/05/09: **[Fix]** Fixes people getting electrocuted with insulated gloves on by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8064](https://github.com/unitystation/unitystation/pull/8064)
+* 2022/05/09: **[Improvement]** adds in feedback for people touching doors with insulated gloves by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8064](https://github.com/unitystation/unitystation/pull/8064)
 * 2022/05/09: **[Fix]** fixed a critical error with players interacting with floors. by [Bod9001](https://github.com/Bod9001) in PR #[8004](https://github.com/unitystation/unitystation/pull/8004)
 * 2022/05/09: **[New]** Some items are wieldable in two hands now for enhanced damage. by [IlinMihail](https://github.com/IlinMihail) in PR #[8006](https://github.com/unitystation/unitystation/pull/8006)
 * 2022/05/09: **[New]** Some items are wieldable in two hands now. by [IlinMihail](https://github.com/IlinMihail) in PR #[8006](https://github.com/unitystation/unitystation/pull/8006)
