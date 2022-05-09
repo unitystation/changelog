@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Improvement]** optimzed hacking code by removing 9 unneeded game objects. by [Bod9001](https://github.com/Bod9001) in PR #[7686](https://github.com/unitystation/unitystation/pull/7686)
 * 2022/05/09: **[Improvement]** All-In-One Grinders now have machine boards which can be used to construct them. Circuit Imprinters can be used to create these boards, under the Misc. category. by [PetMudstone](https://github.com/PetMudstone) in PR #[7691](https://github.com/unitystation/unitystation/pull/7691)
 * 2022/05/09: **[Fix]** Fixes projectiles fired by clients always hitting on the chest by [Aranclanos](https://github.com/Aranclanos) in PR #[7692](https://github.com/unitystation/unitystation/pull/7692)
 * 2022/05/09: **[Fix]** Fixes build girders and other constructable objects spawning incorrectly if two different players were building at the same time by [Aranclanos](https://github.com/Aranclanos) in PR #[7700](https://github.com/unitystation/unitystation/pull/7700)
