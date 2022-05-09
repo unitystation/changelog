@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Fix]** large performance increase for player movement when player is *not* actively moving (92% improvement). by [Aranclanos](https://github.com/Aranclanos) in PR #[7709](https://github.com/unitystation/unitystation/pull/7709)
 * 2022/05/09: **[Fix]** Fixes ghosts being hit by thrown objects freezing all players by [Aranclanos](https://github.com/Aranclanos) in PR #[7710](https://github.com/unitystation/unitystation/pull/7710)
 * 2022/05/09: **[Fix]** fixed blob readapt strain kicking the player from the server. by [ThatDan123](https://github.com/ThatDan123) in PR #[7715](https://github.com/unitystation/unitystation/pull/7715)
 * 2022/05/09: **[Fix]** fixed explosion distant sound being global by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7633](https://github.com/unitystation/unitystation/pull/7633)
