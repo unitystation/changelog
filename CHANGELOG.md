@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[New]** Added Ministation to the map rotation. by [ThatDan123](https://github.com/ThatDan123) in PR #[8227](https://github.com/unitystation/unitystation/pull/8227)
 * 2022/05/09: **[New]** Added Ministation, a low-pop map. by [AtnerNT](https://github.com/AtnerNT) in PR #[8178](https://github.com/unitystation/unitystation/pull/8178)
 * 2022/05/09: **[Fix]** fixed a case where splitting a stack of resources was causing players to get kicked. by [ThatDan123](https://github.com/ThatDan123) in PR #[8224](https://github.com/unitystation/unitystation/pull/8224)
 * 2022/05/09: **[New]** Admins can add/remove mentorship from players by [ThatDan123](https://github.com/ThatDan123) in PR #[8218](https://github.com/unitystation/unitystation/pull/8218)
