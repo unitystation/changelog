@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Fix]** fixed an exploit that allowed mimes to force open closed doors with the invisible wall spell. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7816](https://github.com/unitystation/unitystation/pull/7816)
 * 2022/05/09: **[Fix]** Fixed server-side visualization of space floating by [Aranclanos](https://github.com/Aranclanos) in PR #[7851](https://github.com/unitystation/unitystation/pull/7851)
 * 2022/05/09: **[Fix]** Fixed players being thrown off from the shuttles on rotation. by [Aranclanos](https://github.com/Aranclanos) in PR #[7852](https://github.com/unitystation/unitystation/pull/7852)
 * 2022/05/09: **[New]** Drinking an entire bottle of salt will now cause a heart attack by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7848](https://github.com/unitystation/unitystation/pull/7848)
