@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Fix]** fixed UI mousedrop objects interacting with themselves if the origin slot is used for the drop. by [Aranclanos](https://github.com/Aranclanos) in PR #[7420](https://github.com/unitystation/unitystation/pull/7420)
 * 2022/05/09: **[Fix]** Fixed emag not using charges by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7480](https://github.com/unitystation/unitystation/pull/7480)
 * 2022/05/09: **[Fix]** fixed lighters not emitting light by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7487](https://github.com/unitystation/unitystation/pull/7487)
 * 2022/05/09: **[Fix]** Fixed Conveyor belts having animated sprites at round start by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7488](https://github.com/unitystation/unitystation/pull/7488)
