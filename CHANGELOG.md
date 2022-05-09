@@ -2,6 +2,9 @@
 ---
 
 
+* 2022/05/09: **[Fix]** Gas containers wont error any more by [ThatDan123](https://github.com/ThatDan123) in PR #[7991](https://github.com/unitystation/unitystation/pull/7991)
+* 2022/05/09: **[Fix]** Singularity can be made again now as the particle accelerator bullets should hit it again by [ThatDan123](https://github.com/ThatDan123) in PR #[7991](https://github.com/unitystation/unitystation/pull/7991)
+* 2022/05/09: **[Fix]** Fixed Enter button opening chat when using dev spawner by [ThatDan123](https://github.com/ThatDan123) in PR #[7991](https://github.com/unitystation/unitystation/pull/7991)
 * 2022/05/09: **[Fix]** Fixed the door button linking missing from the inspector. by [Aranclanos](https://github.com/Aranclanos) in PR #[7955](https://github.com/unitystation/unitystation/pull/7955)
 * 2022/05/09: **[New]** Station bound radios have been added and all their variables can be configured and messed with by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7922](https://github.com/unitystation/unitystation/pull/7922)
 * 2022/05/09: **[Improvement]** You can change the encryption key by unscrewing the SBR and dropping the existing one via a right click option or altclicking on the radio then adding the new one. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7922](https://github.com/unitystation/unitystation/pull/7922)
