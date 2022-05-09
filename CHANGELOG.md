@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Fix]** fixed random item spawners not despawning correctly when placed inside lockers. by [Bod9001](https://github.com/Bod9001) in PR #[8060](https://github.com/unitystation/unitystation/pull/8060)
 * 2022/05/09: **[Fix]** fixed spears disconnecting client when dropped. by [Bod9001](https://github.com/Bod9001) in PR #[8062](https://github.com/unitystation/unitystation/pull/8062)
 * 2022/05/09: **[Fix]** fixed pushing window tiles around. by [Bod9001](https://github.com/Bod9001) in PR #[8063](https://github.com/unitystation/unitystation/pull/8063)
 * 2022/05/09: **[Fix]** Fixes people getting electrocuted with insulated gloves on by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8064](https://github.com/unitystation/unitystation/pull/8064)
