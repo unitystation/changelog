@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Fix]** fixed bullets not appearing on clients. by [Aranclanos](https://github.com/Aranclanos) in PR #[7422](https://github.com/unitystation/unitystation/pull/7422)
 * 2022/05/09: **[Fix]** fixed escape objective checking whether it's possible to accomplish before assigning. by [ThatDan123](https://github.com/ThatDan123) in PR #[7307](https://github.com/unitystation/unitystation/pull/7307)
 * 2022/05/09: **[Fix]** Fixed being unable to pick up atmos analyzer (again). by [ThatDan123](https://github.com/ThatDan123) in PR #[7308](https://github.com/unitystation/unitystation/pull/7308)
 * 2022/05/09: **[Fix]** fixed door bolt card not bolting doors by [ThatDan123](https://github.com/ThatDan123) in PR #[7309](https://github.com/unitystation/unitystation/pull/7309)
