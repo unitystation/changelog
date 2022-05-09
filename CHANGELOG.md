@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Fix]** fixed 2 issues with freezers and heaters. by [Bod9001](https://github.com/Bod9001) in PR #[8161](https://github.com/unitystation/unitystation/pull/8161)
 * 2022/05/09: **[Fix]** fixed field generators by [Bod9001](https://github.com/Bod9001) in PR #[8160](https://github.com/unitystation/unitystation/pull/8160)
 * 2022/05/09: **[Fix]** Fixed Directional windows not starting secured by [ThatDan123](https://github.com/ThatDan123) in PR #[8153](https://github.com/unitystation/unitystation/pull/8153)
 * 2022/05/09: **[Fix]** fixed an issue with items appearing in the wrong place when rejoining a round. by [Bod9001](https://github.com/Bod9001) in PR #[8152](https://github.com/unitystation/unitystation/pull/8152)
