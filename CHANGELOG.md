@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Fix]** fixed clients seeing light tubes and other sprites with wrong rotations. by [Aranclanos](https://github.com/Aranclanos) in PR #[7647](https://github.com/unitystation/unitystation/pull/7647)
 * 2022/05/09: **[Fix]** fixed the gateway failing to work after a period of time. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7651](https://github.com/unitystation/unitystation/pull/7651)
 * 2022/05/09: **[Improvement]** Supply console will now play a sound when your credits update. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7651](https://github.com/unitystation/unitystation/pull/7651)
 * 2022/05/09: **[Improvement]** The pilot's shuttle will now play a sound upon items entering the radars' range. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7651](https://github.com/unitystation/unitystation/pull/7651)
