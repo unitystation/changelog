@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Fix]** fixed another case of right click radial not working. by [Bod9001](https://github.com/Bod9001) in PR #[8015](https://github.com/unitystation/unitystation/pull/8015)
 * 2022/05/09: **[New]** adds partially working longbows and arrows. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8020](https://github.com/unitystation/unitystation/pull/8020)
 * 2022/05/09: **[Fix]** fixed Quatumn pad teleporting themselves (lol). by [ThatDan123](https://github.com/ThatDan123) in PR #[8021](https://github.com/unitystation/unitystation/pull/8021)
 * 2022/05/09: **[Fix]** fixed quantum pads teleporting themselves attempt 2. by [ThatDan123](https://github.com/ThatDan123) in PR #[8023](https://github.com/unitystation/unitystation/pull/8023)
