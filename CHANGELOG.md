@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Fix]** fixed an issue with radios receiving messages. by [ThatDan123](https://github.com/ThatDan123) in PR #[8124](https://github.com/unitystation/unitystation/pull/8124)
 * 2022/05/09: **[Fix]** fixed some engine parts that were not pushable by [ThatDan123](https://github.com/ThatDan123) in PR #[8122](https://github.com/unitystation/unitystation/pull/8122)
 * 2022/05/09: **[New]** added Electromagnetic Pulses and EMP grenades by [IlinMihail](https://github.com/IlinMihail) in PR #[8120](https://github.com/unitystation/unitystation/pull/8120)
 * 2022/05/09: **[New]** added Electromagnetic Pulses by [IlinMihail](https://github.com/IlinMihail) in PR #[8120](https://github.com/unitystation/unitystation/pull/8120)
