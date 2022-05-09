@@ -2,6 +2,8 @@
 ---
 
 
+* 2022/05/09: **[Improvement]** added new sprites for mortar and pestle, hypospray, surgical tools, bananas, cleavers, kitchen knives, spoons, forks, grey and green lamps, fire axe, and banana lamp by [PetMudstone](https://github.com/PetMudstone) in PR #[7279](https://github.com/unitystation/unitystation/pull/7279)
+* 2022/05/09: **[Improvement]** Each kind of banana peel now has three random sprites to choose from. by [PetMudstone](https://github.com/PetMudstone) in PR #[7279](https://github.com/unitystation/unitystation/pull/7279)
 * 2022/05/09: **[Fix]** Donuts now have a proper nutrition reagent and apple donuts no longer make no sounds. by [PetMudstone](https://github.com/PetMudstone) in PR #[7283](https://github.com/unitystation/unitystation/pull/7283)
 * 2022/05/09: **[Improvement]** Food and drink sounds now have randomized pitches, to reduce monotony. by [PetMudstone](https://github.com/PetMudstone) in PR #[7283](https://github.com/unitystation/unitystation/pull/7283)
 * 2022/05/09: **[Improvement]** New sprites for stools by Twaticus and AdipemDragon. They have directions. by [PetMudstone](https://github.com/PetMudstone) in PR #[7289](https://github.com/unitystation/unitystation/pull/7289)
