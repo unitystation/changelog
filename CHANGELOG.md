@@ -2,6 +2,9 @@
 ---
 
 
+* 2022/05/09: **[Fix]** Removes deprecated scrubbers, vents from all remaining scenes, and deletes the prefabs. by [NoooneyDude](https://github.com/NoooneyDude) in PR #[7373](https://github.com/unitystation/unitystation/pull/7373)
+* 2022/05/09: **[Fix]** Replaces vents and the old injectors in the modified maps' atmospherics tanks with the new injectors. by [NoooneyDude](https://github.com/NoooneyDude) in PR #[7373](https://github.com/unitystation/unitystation/pull/7373)
+* 2022/05/09: **[Fix]** Fixes Device Linker changes not persisting. by [NoooneyDude](https://github.com/NoooneyDude) in PR #[7373](https://github.com/unitystation/unitystation/pull/7373)
 * 2022/05/09: **[Fix]** Fixed operating tables teleporting to the middle of space by [Aranclanos](https://github.com/Aranclanos) in PR #[7370](https://github.com/unitystation/unitystation/pull/7370)
 * 2022/05/09: **[Fix]** Fixed objects without pushpull not registering their position properly by [Aranclanos](https://github.com/Aranclanos) in PR #[7370](https://github.com/unitystation/unitystation/pull/7370)
 * 2022/05/09: **[Fix]** Fixed Atmos devices broken on staging by [Aranclanos](https://github.com/Aranclanos) in PR #[7370](https://github.com/unitystation/unitystation/pull/7370)
