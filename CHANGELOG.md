@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Improvement]** stackable items of the same type merge together when placed on the same tile. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8230](https://github.com/unitystation/unitystation/pull/8230)
 * 2022/05/09: **[Fix]** Fixed a case of cuffing not working by [ThatDan123](https://github.com/ThatDan123) in PR #[8232](https://github.com/unitystation/unitystation/pull/8232)
 * 2022/05/09: **[Fix]** Fixed blob factories not spawning spores by [ThatDan123](https://github.com/ThatDan123) in PR #[8232](https://github.com/unitystation/unitystation/pull/8232)
 * 2022/05/09: **[Fix]** Disabled sub inventory checking for examination (You shouldn't be able to open someone's bag without having it in hand) by [ThatDan123](https://github.com/ThatDan123) in PR #[8232](https://github.com/unitystation/unitystation/pull/8232)
