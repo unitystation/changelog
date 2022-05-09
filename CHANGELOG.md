@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Fix]** Fixes projectiles fired by clients always hitting on the chest by [Aranclanos](https://github.com/Aranclanos) in PR #[7692](https://github.com/unitystation/unitystation/pull/7692)
 * 2022/05/09: **[Fix]** Fixes build girders and other constructable objects spawning incorrectly if two different players were building at the same time by [Aranclanos](https://github.com/Aranclanos) in PR #[7700](https://github.com/unitystation/unitystation/pull/7700)
 * 2022/05/09: **[Fix]** fixed another case of players being stuck preparing to join a server. by [Aranclanos](https://github.com/Aranclanos) in PR #[7702](https://github.com/unitystation/unitystation/pull/7702)
 * 2022/05/09: **[Fix]** large performance increase for player movement when player is *not* actively moving (92% improvement). by [Aranclanos](https://github.com/Aranclanos) in PR #[7709](https://github.com/unitystation/unitystation/pull/7709)
