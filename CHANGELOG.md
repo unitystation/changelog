@@ -2,6 +2,8 @@
 ---
 
 
+* 2022/05/09: **[Fix]** Fixes spacewalking misbehaving on asteroids and other matrixes that aren't the station. by [Aranclanos](https://github.com/Aranclanos) in PR #[7773](https://github.com/unitystation/unitystation/pull/7773)
+* 2022/05/09: **[Fix]** improved performance of hostile AI movement behaviour by separating space from the mainstation matrix (50% performance improvement) by [Aranclanos](https://github.com/Aranclanos) in PR #[7773](https://github.com/unitystation/unitystation/pull/7773)
 * 2022/05/09: **[Improvement]** players can now put seed packets back into the seed extractor. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7673](https://github.com/unitystation/unitystation/pull/7673)
 * 2022/05/09: **[Fix]** fixed blob spawning blob structures improperly. by [Bod9001](https://github.com/Bod9001) in PR #[7677](https://github.com/unitystation/unitystation/pull/7677)
 * 2022/05/09: **[Fix]** fixed blob randomized damage actually causing no damage. by [Bod9001](https://github.com/Bod9001) in PR #[7677](https://github.com/unitystation/unitystation/pull/7677)
