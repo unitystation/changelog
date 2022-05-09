@@ -2,6 +2,9 @@
 ---
 
 
+* 2022/05/09: **[New]** Added C4 explosive by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7777](https://github.com/unitystation/unitystation/pull/7777)
+* 2022/05/09: **[New]** Added X4 explosive by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7777](https://github.com/unitystation/unitystation/pull/7777)
+* 2022/05/09: **[New]** C4 and X4 are now purchasable from the syndicate uplink by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7777](https://github.com/unitystation/unitystation/pull/7777)
 * 2022/05/09: **[New]** added fermenting of produce. A number of plants can now be fermented into various reagents by [MoonTheBird](https://github.com/MoonTheBird) in PR #[7789](https://github.com/unitystation/unitystation/pull/7789)
 * 2022/05/09: **[New]** fermenting barrels can be made with 8 wood planks by [MoonTheBird](https://github.com/MoonTheBird) in PR #[7789](https://github.com/unitystation/unitystation/pull/7789)
 * 2022/05/09: **[Improvement]** adds a use sound to the grinder so you can actually tell that it's done something and makes it so you can't put a beaker inside if there's already one in it by [MoonTheBird](https://github.com/MoonTheBird) in PR #[7789](https://github.com/unitystation/unitystation/pull/7789)
