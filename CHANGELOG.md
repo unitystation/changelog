@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Fix]** Fixes antag changes using only the online players rather than everyone who joined the round to calculate its chances. by [Aranclanos](https://github.com/Aranclanos) in PR #[7729](https://github.com/unitystation/unitystation/pull/7729)
 * 2022/05/09: **[Fix]** Fixes body parts Not being burnt off properly by [Bod9001](https://github.com/Bod9001) in PR #[7738](https://github.com/unitystation/unitystation/pull/7738)
 * 2022/05/09: **[Fix]** Increases performance in MatrixManager helpers. 50% CPU usage reduction for player and mob movement. by [Aranclanos](https://github.com/Aranclanos) in PR #[7741](https://github.com/unitystation/unitystation/pull/7741)
 * 2022/05/09: **[New]** added mousetraps by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7743](https://github.com/unitystation/unitystation/pull/7743)
