@@ -2,6 +2,8 @@
 ---
 
 
+* 2022/05/09: **[Fix]** Fixed disposal bins not spawning with uninstalled sprite if not over a pipe terminal. Partially solves #6568. by [NoooneyDude](https://github.com/NoooneyDude) in PR #[7535](https://github.com/unitystation/unitystation/pull/7535)
+* 2022/05/09: **[Fix]** Fixes disposal bin hand interaction not working. Closes #7014. by [NoooneyDude](https://github.com/NoooneyDude) in PR #[7535](https://github.com/unitystation/unitystation/pull/7535)
 * 2022/05/09: **[Fix]** fixed clients loading mid-round scenes twice. by [Aranclanos](https://github.com/Aranclanos) in PR #[7539](https://github.com/unitystation/unitystation/pull/7539)
 * 2022/05/09: **[New]** added an assorted fruits crate to the cargo console by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8672](https://github.com/unitystation/unitystation/pull/8672)
 * 2022/05/09: **[New]** added the box of fruit by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8672](https://github.com/unitystation/unitystation/pull/8672)
