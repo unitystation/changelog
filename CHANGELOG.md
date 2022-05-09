@@ -2,6 +2,8 @@
 ---
 
 
+* 2022/05/09: **[Fix]** fixed matrix collision issues by [Bod9001](https://github.com/Bod9001) in PR #[7886](https://github.com/unitystation/unitystation/pull/7886)
+* 2022/05/09: **[Fix]** fixed matrix construction ( it was funny in some directions due to annoying offset stuff ) by [Bod9001](https://github.com/Bod9001) in PR #[7886](https://github.com/unitystation/unitystation/pull/7886)
 * 2022/05/09: **[Improvement]** Ovens have a smoke particle effect when cooking. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7881](https://github.com/unitystation/unitystation/pull/7881)
 * 2022/05/09: **[Improvement]** improved mouse trap customization and functionality. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7880](https://github.com/unitystation/unitystation/pull/7880)
 * 2022/05/09: **[Fix]** fixes and improves sounds for food processors by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7877](https://github.com/unitystation/unitystation/pull/7877)
