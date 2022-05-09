@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Fix]** Fixes spells. Closes #7805. by [NoooneyDude](https://github.com/NoooneyDude) in PR #[7807](https://github.com/unitystation/unitystation/pull/7807)
 * 2022/05/09: **[Fix]** Fixes mice eating all the wires because of low initial mood by [IlinMihail](https://github.com/IlinMihail) in PR #[7809](https://github.com/unitystation/unitystation/pull/7809)
 * 2022/05/09: **[New]** Adds ability to produce quantum keys on autolathe by [IlinMihail](https://github.com/IlinMihail) in PR #[7809](https://github.com/unitystation/unitystation/pull/7809)
 * 2022/05/09: **[New]** Adds S.U.P.E.R.P.A.C.M.A.N. generator by [IlinMihail](https://github.com/IlinMihail) in PR #[7809](https://github.com/unitystation/unitystation/pull/7809)
