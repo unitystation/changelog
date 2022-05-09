@@ -2,6 +2,9 @@
 ---
 
 
+* 2022/05/09: **[New]** added like a bajillion foods and drinks and all their recipes by [MoonTheBird](https://github.com/MoonTheBird) in PR #[7776](https://github.com/unitystation/unitystation/pull/7776)
+* 2022/05/09: **[Improvement]** refactors the grinder so it isn't shit and adds like fifty recipes so you can grind or juice to your heart's content by [MoonTheBird](https://github.com/MoonTheBird) in PR #[7776](https://github.com/unitystation/unitystation/pull/7776)
+* 2022/05/09: **[New]** added drying racks which you can make with wood planks and are used to cure headcheese and blood sausages and make firm cheese by [MoonTheBird](https://github.com/MoonTheBird) in PR #[7776](https://github.com/unitystation/unitystation/pull/7776)
 * 2022/05/09: **[New]** Added C4 explosive by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7777](https://github.com/unitystation/unitystation/pull/7777)
 * 2022/05/09: **[New]** Added X4 explosive by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7777](https://github.com/unitystation/unitystation/pull/7777)
 * 2022/05/09: **[New]** C4 and X4 are now purchasable from the syndicate uplink by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7777](https://github.com/unitystation/unitystation/pull/7777)
