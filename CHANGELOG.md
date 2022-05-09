@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[New]** added power sinks by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8181](https://github.com/unitystation/unitystation/pull/8181)
 * 2022/05/09: **[Fix]** refactored the object rotation system to be less buggy and easier to work with. by [Bod9001](https://github.com/Bod9001) in PR #[8179](https://github.com/unitystation/unitystation/pull/8179)
 * 2022/05/09: **[Fix]** fixed APC frames being pulled from walls. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8173](https://github.com/unitystation/unitystation/pull/8173)
 * 2022/05/09: **[Fix]** fixed explosives UI not working on headless servers by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8170](https://github.com/unitystation/unitystation/pull/8170)
