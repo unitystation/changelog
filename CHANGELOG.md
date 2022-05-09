@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Fix]** fixed toxins inside gas tanks not hurting people using them as internals. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7667](https://github.com/unitystation/unitystation/pull/7667)
 * 2022/05/09: **[Fix]** Fixes shuttles not being able to be recalled. by [Aranclanos](https://github.com/Aranclanos) in PR #[7670](https://github.com/unitystation/unitystation/pull/7670)
 * 2022/05/09: **[Fix]** Fixes the escape shuttle time being wrong on code blue. by [Aranclanos](https://github.com/Aranclanos) in PR #[7670](https://github.com/unitystation/unitystation/pull/7670)
 * 2022/05/09: **[Fix]** Fixes status display not returning to its original channel once the shuttle is recalled. by [Aranclanos](https://github.com/Aranclanos) in PR #[7670](https://github.com/unitystation/unitystation/pull/7670)
