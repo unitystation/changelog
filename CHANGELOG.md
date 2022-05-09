@@ -2,6 +2,9 @@
 ---
 
 
+* 2022/05/09: **[New]** Station bound radios have been added and all their variables can be configured and messed with by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7922](https://github.com/unitystation/unitystation/pull/7922)
+* 2022/05/09: **[Improvement]** You can change the encryption key by unscrewing the SBR and dropping the existing one via a right click option or altclicking on the radio then adding the new one. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7922](https://github.com/unitystation/unitystation/pull/7922)
+* 2022/05/09: **[Fix]** Added a missing script to screwdrivers by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7922](https://github.com/unitystation/unitystation/pull/7922)
 * 2022/05/09: **[Fix]** Fixed RCS getting players stuck in position. by [Aranclanos](https://github.com/Aranclanos) in PR #[7933](https://github.com/unitystation/unitystation/pull/7933)
 * 2022/05/09: **[Fix]** fixed status effects not showing for players by [Aranclanos](https://github.com/Aranclanos) in PR #[7934](https://github.com/unitystation/unitystation/pull/7934)
 * 2022/05/09: **[Fix]** Fixes admin panel disconnecting players by [Aranclanos](https://github.com/Aranclanos) in PR #[7938](https://github.com/unitystation/unitystation/pull/7938)
