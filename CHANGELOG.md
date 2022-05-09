@@ -2,6 +2,9 @@
 ---
 
 
+* 2022/05/09: **[Fix]** Fixed a case of cuffing not working by [ThatDan123](https://github.com/ThatDan123) in PR #[8232](https://github.com/unitystation/unitystation/pull/8232)
+* 2022/05/09: **[Fix]** Fixed blob factories not spawning spores by [ThatDan123](https://github.com/ThatDan123) in PR #[8232](https://github.com/unitystation/unitystation/pull/8232)
+* 2022/05/09: **[Fix]** Disabled sub inventory checking for examination (You shouldn't be able to open someone's bag without having it in hand) by [ThatDan123](https://github.com/ThatDan123) in PR #[8232](https://github.com/unitystation/unitystation/pull/8232)
 * 2022/05/09: **[Fix]** fixed several consoles across many maps not being connected to power correctly. by [AtnerNT](https://github.com/AtnerNT) in PR #[8237](https://github.com/unitystation/unitystation/pull/8237)
 * 2022/05/09: **[Fix]** fixed several consoles across many maps not being connected to power. by [AtnerNT](https://github.com/AtnerNT) in PR #[8237](https://github.com/unitystation/unitystation/pull/8237)
 * 2022/05/09: **[Fix]** windoors and firelocks refactored to reduce unstable behaviour. by [ThatDan123](https://github.com/ThatDan123) in PR #[8244](https://github.com/unitystation/unitystation/pull/8244)
