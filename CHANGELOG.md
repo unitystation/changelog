@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Improvement]** random item spawners now work with cargo crates, the syndicate uplink, and admin spawn tools. by [MoonTheBird](https://github.com/MoonTheBird) in PR #[7492](https://github.com/unitystation/unitystation/pull/7492)
 * 2022/05/09: **[Fix]** re-added the missing dough recipe to the craft menu by [PetMudstone](https://github.com/PetMudstone) in PR #[7497](https://github.com/unitystation/unitystation/pull/7497)
 * 2022/05/09: **[Fix]** fixed infinite vending supply restocking. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7500](https://github.com/unitystation/unitystation/pull/7500)
 * 2022/05/09: **[Improvement]** The player that starts a restart vote automatically votes yes by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7501](https://github.com/unitystation/unitystation/pull/7501)
