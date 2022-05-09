@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Improvement]** Bleeding now uses "bleedstacks" similar to firestacks. In addition, a bleeding indicator shows up to show how badly you're bleeding. by [MoonTheBird](https://github.com/MoonTheBird) in PR #[7663](https://github.com/unitystation/unitystation/pull/7663)
 * 2022/05/09: **[Fix]** Secured objects, such as conveyors, are no longer considered cargo and so won't be sold. by [NoooneyDude](https://github.com/NoooneyDude) in PR #[7664](https://github.com/unitystation/unitystation/pull/7664)
 * 2022/05/09: **[Fix]** Fixes being unable to enter closets with magboots enabled (closes #7617). by [NoooneyDude](https://github.com/NoooneyDude) in PR #[7664](https://github.com/unitystation/unitystation/pull/7664)
 * 2022/05/09: **[Fix]** Fixes AIs not being able to track living forms on clients. by [Aranclanos](https://github.com/Aranclanos) in PR #[7666](https://github.com/unitystation/unitystation/pull/7666)
