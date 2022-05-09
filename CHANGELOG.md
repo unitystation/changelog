@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Fix]** fixed Immovable rods not actually being spawned by the immovable rod event. by [PetMudstone](https://github.com/PetMudstone) in PR #[7980](https://github.com/unitystation/unitystation/pull/7980)
 * 2022/05/09: **[Fix]** Fixed case where removing gas would cause error by [Bod9001](https://github.com/Bod9001) in PR #[7990](https://github.com/unitystation/unitystation/pull/7990)
 * 2022/05/09: **[Fix]** Gas containers wont error any more by [ThatDan123](https://github.com/ThatDan123) in PR #[7991](https://github.com/unitystation/unitystation/pull/7991)
 * 2022/05/09: **[Fix]** Singularity can be made again now as the particle accelerator bullets should hit it again by [ThatDan123](https://github.com/ThatDan123) in PR #[7991](https://github.com/unitystation/unitystation/pull/7991)
