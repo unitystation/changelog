@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Fix]** fixed medium to low transformers not actually transforming by [MoonTheBird](https://github.com/MoonTheBird) in PR #[7600](https://github.com/unitystation/unitystation/pull/7600)
 * 2022/05/09: **[Fix]** Fixes ACU sensors sampling the air at the sensor's spawn position. by [NoooneyDude](https://github.com/NoooneyDude) in PR #[7599](https://github.com/unitystation/unitystation/pull/7599)
 * 2022/05/09: **[Fix]** fixed black gloves not protecting from touching heat sources. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7596](https://github.com/unitystation/unitystation/pull/7596)
 * 2022/05/09: **[Improvement]** Reimplements breathing toxic gasses damaging you by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7545](https://github.com/unitystation/unitystation/pull/7545)
