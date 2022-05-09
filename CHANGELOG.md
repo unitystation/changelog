@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[New]** added an assorted fruits crate to the cargo console by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8672](https://github.com/unitystation/unitystation/pull/8672)
 * 2022/05/08: **[New]** Added the Fire Axe by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8662](https://github.com/unitystation/unitystation/pull/8662)
 * 2022/05/08: **[Improvement]** Bone Axes can now be worn in the back slot. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8662](https://github.com/unitystation/unitystation/pull/8662)
 * 2022/05/08: **[Fix]** - Bombs can once again receive signals by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8665](https://github.com/unitystation/unitystation/pull/8665)
