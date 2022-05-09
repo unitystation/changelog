@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Fix]** Fix missing reference to emote manager. by [NoooneyDude](https://github.com/NoooneyDude) in PR #[7889](https://github.com/unitystation/unitystation/pull/7889)
 * 2022/05/09: **[Fix]** fixed matrix collision issues by [Bod9001](https://github.com/Bod9001) in PR #[7886](https://github.com/unitystation/unitystation/pull/7886)
 * 2022/05/09: **[Fix]** fixed matrix construction ( it was funny in some directions due to annoying offset stuff ) by [Bod9001](https://github.com/Bod9001) in PR #[7886](https://github.com/unitystation/unitystation/pull/7886)
 * 2022/05/09: **[Improvement]** Ovens have a smoke particle effect when cooking. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7881](https://github.com/unitystation/unitystation/pull/7881)
