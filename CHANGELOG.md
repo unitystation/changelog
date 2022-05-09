@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[New]** Drinking an entire bottle of salt will now cause a heart attack by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7848](https://github.com/unitystation/unitystation/pull/7848)
 * 2022/05/09: **[Improvement]** Improves player feedback for when items can't go into an inventory slot/when the storage is full by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7846](https://github.com/unitystation/unitystation/pull/7846)
 * 2022/05/09: **[Fix]** substantial improvement to how player bodies handle internal reagents. 20% performance gain and it consumes less memory by [Aranclanos](https://github.com/Aranclanos) in PR #[7844](https://github.com/unitystation/unitystation/pull/7844)
 * 2022/05/09: **[New]** plants now can produce reagents and put it into the reagent container of the food, #7841 is opened so all content is converted over to plant data instead of initial contents, by [Bod9001](https://github.com/Bod9001) in PR #[7843](https://github.com/unitystation/unitystation/pull/7843)
