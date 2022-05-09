@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Fix]** Fixed ores not being generated on asteroids. by [Aranclanos](https://github.com/Aranclanos) in PR #[7348](https://github.com/unitystation/unitystation/pull/7348)
 * 2022/05/09: **[Fix]** Fixes belt defibrillator not working. by [Aranclanos](https://github.com/Aranclanos) in PR #[7349](https://github.com/unitystation/unitystation/pull/7349)
 * 2022/05/09: **[Fix]** Fixes defibrillators not reviving the target. by [Aranclanos](https://github.com/Aranclanos) in PR #[7349](https://github.com/unitystation/unitystation/pull/7349)
 * 2022/05/09: **[Improvement]** added new sprites for mortar and pestle, hypospray, surgical tools, bananas, cleavers, kitchen knives, spoons, forks, grey and green lamps, fire axe, and banana lamp by [PetMudstone](https://github.com/PetMudstone) in PR #[7279](https://github.com/unitystation/unitystation/pull/7279)
