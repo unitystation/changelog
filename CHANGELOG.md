@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Fix]** fixed several consoles across many maps not being connected to power. by [AtnerNT](https://github.com/AtnerNT) in PR #[8237](https://github.com/unitystation/unitystation/pull/8237)
 * 2022/05/09: **[Fix]** windoors and firelocks refactored to reduce unstable behaviour. by [ThatDan123](https://github.com/ThatDan123) in PR #[8244](https://github.com/unitystation/unitystation/pull/8244)
 * 2022/05/09: **[Fix]** fixed atmospheric devices (vents, scrubbers) having weird rotations when unwrenched. by [Bod9001](https://github.com/Bod9001) in PR #[8247](https://github.com/unitystation/unitystation/pull/8247)
 * 2022/05/09: **[Fix]** fixed an issue where sparks were causing lag. by [ThatDan123](https://github.com/ThatDan123) in PR #[8284](https://github.com/unitystation/unitystation/pull/8284)
