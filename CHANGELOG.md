@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Fix]** fixed an issue with chat bubbles not being fully sanitized of image tags. by [ThatDan123](https://github.com/ThatDan123) in PR #[8117](https://github.com/unitystation/unitystation/pull/8117)
 * 2022/05/09: **[Fix]** fixed tesla coils by [AtnerNT](https://github.com/AtnerNT) in PR #[8116](https://github.com/unitystation/unitystation/pull/8116)
 * 2022/05/09: **[Fix]** fixed a bug causing inventory slots to duplicate when first spawning. by [Bod9001](https://github.com/Bod9001) in PR #[8109](https://github.com/unitystation/unitystation/pull/8109)
 * 2022/05/09: **[Fix]** fixed a bug where footstep sfx were playing adjacent to players when walking along the x axis. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8108](https://github.com/unitystation/unitystation/pull/8108)
