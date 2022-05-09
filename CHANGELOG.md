@@ -3,6 +3,9 @@
 
 
 * 2022/05/09: **[Fix]** fixed a case of pipes losing their coloration by [Bod9001](https://github.com/Bod9001) in PR #[7749](https://github.com/unitystation/unitystation/pull/7749)
+* 2022/05/09: **[Fix]** fixed select this character button not selecting character by [Bod9001](https://github.com/Bod9001) in PR #[7749](https://github.com/unitystation/unitystation/pull/7749)
+* 2022/05/09: **[Improvement]** added indication to player that they are obese. by [Bod9001](https://github.com/Bod9001) in PR #[7749](https://github.com/unitystation/unitystation/pull/7749)
+* 2022/05/09: **[Fix]** fixed a case of pipes losing their coloration by [Bod9001](https://github.com/Bod9001) in PR #[7749](https://github.com/unitystation/unitystation/pull/7749)
 * 2022/05/09: **[Improvement]** placing ID inside PDA has text feedback. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7764](https://github.com/unitystation/unitystation/pull/7764)
 * 2022/05/09: **[Improvement]** player list now shows player ping. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7764](https://github.com/unitystation/unitystation/pull/7764)
 * 2022/05/09: **[Fix]** Fixes radiation thread not being terminated. by [Bod9001](https://github.com/Bod9001) in PR #[7768](https://github.com/unitystation/unitystation/pull/7768)
