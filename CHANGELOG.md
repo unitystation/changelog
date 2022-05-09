@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[New]** added mousetraps by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7743](https://github.com/unitystation/unitystation/pull/7743)
 * 2022/05/09: **[Fix]** fixed a case of pipes losing their coloration by [Bod9001](https://github.com/Bod9001) in PR #[7749](https://github.com/unitystation/unitystation/pull/7749)
 * 2022/05/09: **[Fix]** fixed select this character button not selecting character by [Bod9001](https://github.com/Bod9001) in PR #[7749](https://github.com/unitystation/unitystation/pull/7749)
 * 2022/05/09: **[Improvement]** added indication to player that they are obese. by [Bod9001](https://github.com/Bod9001) in PR #[7749](https://github.com/unitystation/unitystation/pull/7749)
