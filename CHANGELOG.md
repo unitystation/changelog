@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Fix]** fixed black gloves not protecting from touching heat sources. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7596](https://github.com/unitystation/unitystation/pull/7596)
 * 2022/05/09: **[Improvement]** Reimplements breathing toxic gasses damaging you by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7545](https://github.com/unitystation/unitystation/pull/7545)
 * 2022/05/09: **[Fix]** Fixed the inability to craft anything but simple meals by [MoonTheBird](https://github.com/MoonTheBird) in PR #[7560](https://github.com/unitystation/unitystation/pull/7560)
 * 2022/05/09: **[Fix]** fixed missing grenade sounds. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7563](https://github.com/unitystation/unitystation/pull/7563)
