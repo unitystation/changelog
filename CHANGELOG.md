@@ -2,6 +2,9 @@
 ---
 
 
+* 2022/05/09: **[Fix]** fixed lizard spikes don't show up from the front or only show up from the front by [MoonTheBird](https://github.com/MoonTheBird) in PR #[7810](https://github.com/unitystation/unitystation/pull/7810)
+* 2022/05/09: **[Fix]** fixed spikes render under tails by [MoonTheBird](https://github.com/MoonTheBird) in PR #[7810](https://github.com/unitystation/unitystation/pull/7810)
+* 2022/05/09: **[Fix]** fixed unnamed options when creating a lizard by [MoonTheBird](https://github.com/MoonTheBird) in PR #[7810](https://github.com/unitystation/unitystation/pull/7810)
 * 2022/05/09: **[Fix]** fixed bleeding out way too fast when losing a limb by [MoonTheBird](https://github.com/MoonTheBird) in PR #[7811](https://github.com/unitystation/unitystation/pull/7811)
 * 2022/05/09: **[Fix]** fixed bleeding when you cut off a beard or hair or other similar part by [MoonTheBird](https://github.com/MoonTheBird) in PR #[7811](https://github.com/unitystation/unitystation/pull/7811)
 * 2022/05/09: **[Fix]** Hopefully fix lavaland tiles (again again) by [ThatDan123](https://github.com/ThatDan123) in PR #[7719](https://github.com/unitystation/unitystation/pull/7719)
