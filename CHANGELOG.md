@@ -2,6 +2,11 @@
 ---
 
 
+* 2022/05/09: **[New]** Adds light pulser, and adds it to SuperMatter and nest by [ThatDan123](https://github.com/ThatDan123) in PR #[8085](https://github.com/unitystation/unitystation/pull/8085)
+* 2022/05/09: **[Improvement]** Update lavaland with new area, adds random mob spawning too by [ThatDan123](https://github.com/ThatDan123) in PR #[8085](https://github.com/unitystation/unitystation/pull/8085)
+* 2022/05/09: **[New]** Adds Ashwalker ghost role by [ThatDan123](https://github.com/ThatDan123) in PR #[8085](https://github.com/unitystation/unitystation/pull/8085)
+* 2022/05/09: **[New]** Adds some items that only ashwalkers can craft. by [ThatDan123](https://github.com/ThatDan123) in PR #[8085](https://github.com/unitystation/unitystation/pull/8085)
+* 2022/05/09: **[Fix]** Fixed Inventory interfaces not being called when adding to inventory by populators by [ThatDan123](https://github.com/ThatDan123) in PR #[8085](https://github.com/unitystation/unitystation/pull/8085)
 * 2022/05/09: **[Improvement]** added feedback for when players fail to crowbar a door. by [Bod9001](https://github.com/Bod9001) in PR #[8075](https://github.com/unitystation/unitystation/pull/8075)
 * 2022/05/09: **[New]** you can now swap bodies by swapping brains from one body to another. by [Bod9001](https://github.com/Bod9001) in PR #[8091](https://github.com/unitystation/unitystation/pull/8091)
 * 2022/05/09: **[Fix]** fixed light fixture deconstruction. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8098](https://github.com/unitystation/unitystation/pull/8098)
