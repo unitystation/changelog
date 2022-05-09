@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Fix]** fixed explosion distant sound being global by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7633](https://github.com/unitystation/unitystation/pull/7633)
 * 2022/05/09: **[Improvement]** Allows multikeying on local servers or if you are an admin. by [NoooneyDude](https://github.com/NoooneyDude) in PR #[7643](https://github.com/unitystation/unitystation/pull/7643)
 * 2022/05/09: **[Fix]** Partial fix for #7642 - closet locking. Locking by alt-click is still broken. by [NoooneyDude](https://github.com/NoooneyDude) in PR #[7644](https://github.com/unitystation/unitystation/pull/7644)
 * 2022/05/09: **[Fix]** Fix admins getting kicked from too many admin info updates by making the network messages more efficient. Might still occur in the future, which will require a refactor, but let's see if that's required. by [NoooneyDude](https://github.com/NoooneyDude) in PR #[7645](https://github.com/unitystation/unitystation/pull/7645)
