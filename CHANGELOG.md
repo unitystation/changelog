@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Improvement]** Chemical reactions that would create food are now also crafting recipes. This is so that players can know the exact requirements for them and also be aware that they exist. by [PetMudstone](https://github.com/PetMudstone) in PR #[7346](https://github.com/unitystation/unitystation/pull/7346)
 * 2022/05/09: **[Improvement]** full size gas tanks and jetpacks now have worn sprites. by [PetMudstone](https://github.com/PetMudstone) in PR #[7347](https://github.com/unitystation/unitystation/pull/7347)
 * 2022/05/09: **[Fix]** Fixed belt defibrillator not working. by [Aranclanos](https://github.com/Aranclanos) in PR #[7349](https://github.com/unitystation/unitystation/pull/7349)
 * 2022/05/09: **[Fix]** Fixed defibrillators not reviving the target. by [Aranclanos](https://github.com/Aranclanos) in PR #[7349](https://github.com/unitystation/unitystation/pull/7349)
