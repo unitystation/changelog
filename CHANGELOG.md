@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Fix]** Fixed pipe bursting logic for reactor by [Bod9001](https://github.com/Bod9001) in PR #[7578](https://github.com/unitystation/unitystation/pull/7578)
 * 2022/05/09: **[Fix]** SMES and Microwave can now be deconstructed by [JustinTrotter](https://github.com/JustinTrotter) in PR #[7584](https://github.com/unitystation/unitystation/pull/7584)
 * 2022/05/09: **[Fix]** SMES and Microwave can now be deconstructed by [JustinTrotter](https://github.com/JustinTrotter) in PR #[7584](https://github.com/unitystation/unitystation/pull/7584)
 * 2022/05/09: **[Fix]** Fixed restart vote. by [ThatDan123](https://github.com/ThatDan123) in PR #[7510](https://github.com/unitystation/unitystation/pull/7510)
