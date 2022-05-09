@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Fix]** Fixed emag not using charges by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7480](https://github.com/unitystation/unitystation/pull/7480)
 * 2022/05/09: **[Fix]** fixed lighters not emitting light by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7487](https://github.com/unitystation/unitystation/pull/7487)
 * 2022/05/09: **[Fix]** Fixed Conveyor belts having animated sprites at round start by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7488](https://github.com/unitystation/unitystation/pull/7488)
 * 2022/05/09: **[Fix]** Fixes players having the chance of getting stuck in a teleport loop when using a teleport pad to and from lavaland. by [Aranclanos](https://github.com/Aranclanos) in PR #[7489](https://github.com/unitystation/unitystation/pull/7489)
