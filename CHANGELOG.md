@@ -2,6 +2,9 @@
 ---
 
 
+* 2022/05/09: **[Fix]** unable to craft a large portion of the recipes by [MoonTheBird](https://github.com/MoonTheBird) in PR #[7949](https://github.com/unitystation/unitystation/pull/7949)
+* 2022/05/09: **[Fix]** can't make potato wedges by [MoonTheBird](https://github.com/MoonTheBird) in PR #[7949](https://github.com/unitystation/unitystation/pull/7949)
+* 2022/05/09: **[Fix]** can't make tea by [MoonTheBird](https://github.com/MoonTheBird) in PR #[7949](https://github.com/unitystation/unitystation/pull/7949)
 * 2022/05/09: **[Fix]** comprehensive health optimizations (should improve server fps significantly). by [Bod9001](https://github.com/Bod9001) in PR #[7947](https://github.com/unitystation/unitystation/pull/7947)
 * 2022/05/09: **[Fix]** added 5 second cooldown to admin trigger event button by [Pottingmix](https://github.com/Pottingmix) in PR #[7945](https://github.com/unitystation/unitystation/pull/7945)
 * 2022/05/09: **[Fix]** Fixes food not being able to be consumed by players who went under surgery by [Aranclanos](https://github.com/Aranclanos) in PR #[7941](https://github.com/unitystation/unitystation/pull/7941)
