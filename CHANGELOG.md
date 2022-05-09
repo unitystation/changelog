@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Fix]** fixed quantum pads teleporting themselves attempt 2. by [ThatDan123](https://github.com/ThatDan123) in PR #[8023](https://github.com/unitystation/unitystation/pull/8023)
 * 2022/05/09: **[Fix]** fixed quantum pads teleporting themselves (lol). by [ThatDan123](https://github.com/ThatDan123) in PR #[8023](https://github.com/unitystation/unitystation/pull/8023)
 * 2022/05/09: **[Fix]** Fixes windows being initially secured when disassembled by [Bod9001](https://github.com/Bod9001) in PR #[8024](https://github.com/unitystation/unitystation/pull/8024)
 * 2022/05/09: **[Fix]** fixed an exploit that allowed mimes to force open closed doors with the invisible wall spell. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7816](https://github.com/unitystation/unitystation/pull/7816)
