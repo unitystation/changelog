@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Fix]** Centcom will pay for gas sold in the cargo shuttle correctly. Also added bounty completed message (#7550) by [Ahion](https://github.com/Ahion) in PR #[7632](https://github.com/unitystation/unitystation/pull/7632)
 * 2022/05/09: **[Improvement]** NPC mobs can now be stored in morgues, cremators. by [NoooneyDude](https://github.com/NoooneyDude) in PR #[7630](https://github.com/unitystation/unitystation/pull/7630)
 * 2022/05/09: **[Fix]** Fixed chem explosions from triggering with really low units. by [Aranclanos](https://github.com/Aranclanos) in PR #[7628](https://github.com/unitystation/unitystation/pull/7628)
 * 2022/05/09: **[Fix]** Fixes text rendering behind status displays. by [Aranclanos](https://github.com/Aranclanos) in PR #[7625](https://github.com/unitystation/unitystation/pull/7625)
