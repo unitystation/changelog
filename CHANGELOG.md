@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Fix]** Fixed ore boxes not being draggable by [Bod9001](https://github.com/Bod9001) in PR #[8035](https://github.com/unitystation/unitystation/pull/8035)
 * 2022/05/09: **[Fix]** Fixed cable placement on main stations by [Bod9001](https://github.com/Bod9001) in PR #[8038](https://github.com/unitystation/unitystation/pull/8038)
 * 2022/05/09: **[Fix]** fixed some issues with reagent reactions in body, including clonexadone causing damage instead of healing damage by [Bod9001](https://github.com/Bod9001) in PR #[8041](https://github.com/unitystation/unitystation/pull/8041)
 * 2022/05/09: **[Fix]** fixed Disposal pipe deconstruction by [Bod9001](https://github.com/Bod9001) in PR #[8042](https://github.com/unitystation/unitystation/pull/8042)
