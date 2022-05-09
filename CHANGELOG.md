@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Fix]** Fixed brute hits on chest gibbing all bodyparts. by [Aranclanos](https://github.com/Aranclanos) in PR #[7417](https://github.com/unitystation/unitystation/pull/7417)
 * 2022/05/09: **[Fix]** Fixes machine connector sprites not rendering appropriately for adjacent machines. by [NoooneyDude](https://github.com/NoooneyDude) in PR #[7416](https://github.com/unitystation/unitystation/pull/7416)
 * 2022/05/09: **[Fix]** Fixes machine connectors being invisible in inventory. by [NoooneyDude](https://github.com/NoooneyDude) in PR #[7416](https://github.com/unitystation/unitystation/pull/7416)
 * 2022/05/09: **[Improvement]** Machine connectors now spawn a little offset when cut to help indicate current state, and will play a sound when hand activated. by [NoooneyDude](https://github.com/NoooneyDude) in PR #[7416](https://github.com/unitystation/unitystation/pull/7416)
