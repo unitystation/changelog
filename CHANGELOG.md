@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Improvement]** the round start countdown won't start until at least 1 player has readied. by [Abhijnan-Bajpai](https://github.com/Abhijnan-Bajpai) in PR #[8139](https://github.com/unitystation/unitystation/pull/8139)
 * 2022/05/09: **[Fix]** fixed ghost orbit rotation animation. by [ThatDan123](https://github.com/ThatDan123) in PR #[8129](https://github.com/unitystation/unitystation/pull/8129)
 * 2022/05/09: **[Fix]** fixed chemistry reactions. by [Bod9001](https://github.com/Bod9001) in PR #[8127](https://github.com/unitystation/unitystation/pull/8127)
 * 2022/05/09: **[Fix]** fixed an issue with radios receiving messages. by [ThatDan123](https://github.com/ThatDan123) in PR #[8124](https://github.com/unitystation/unitystation/pull/8124)
