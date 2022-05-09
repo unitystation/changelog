@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Fix]** _another_ fix for right click radial breaking. by [Bod9001](https://github.com/Bod9001) in PR #[8013](https://github.com/unitystation/unitystation/pull/8013)
 * 2022/05/09: **[Fix]** Fixed guns shooting in the wrong direction on rotated matrices by [Bod9001](https://github.com/Bod9001) in PR #[8014](https://github.com/unitystation/unitystation/pull/8014)
 * 2022/05/09: **[Fix]** fixed another case of right click radial not working. by [Bod9001](https://github.com/Bod9001) in PR #[8015](https://github.com/unitystation/unitystation/pull/8015)
 * 2022/05/09: **[New]** adds partially working longbows and arrows. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8020](https://github.com/unitystation/unitystation/pull/8020)
