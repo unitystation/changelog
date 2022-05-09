@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Improvement]** gibbing has been visually improved. Organs now scatter from the body and unequip associated clothing. by [Bod9001](https://github.com/Bod9001) in PR #[7833](https://github.com/unitystation/unitystation/pull/7833)
 * 2022/05/09: **[New]** seasonal christmas tree event added. Trees appear on December 1st and drop christmas gifts from December 24th to 28th. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7831](https://github.com/unitystation/unitystation/pull/7831)
 * 2022/05/09: **[Fix]** Fixed matrixes world bounds from being incorrect. by [Aranclanos](https://github.com/Aranclanos) in PR #[7826](https://github.com/unitystation/unitystation/pull/7826)
 * 2022/05/09: **[Fix]** world bounds will now be caches. Improves performance for player movement between matrixes by approximately 75% by [Aranclanos](https://github.com/Aranclanos) in PR #[7826](https://github.com/unitystation/unitystation/pull/7826)
