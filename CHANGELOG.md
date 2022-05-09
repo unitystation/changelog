@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Fix]** fixed infinite vending supply restocking. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7500](https://github.com/unitystation/unitystation/pull/7500)
 * 2022/05/09: **[Improvement]** The player that starts a restart vote automatically votes yes by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7501](https://github.com/unitystation/unitystation/pull/7501)
 * 2022/05/09: **[Fix]** Players revived by the defibrillator will now return to their bodies if they're a ghost by [Aranclanos](https://github.com/Aranclanos) in PR #[7421](https://github.com/unitystation/unitystation/pull/7421)
 * 2022/05/09: **[Fix]** fixed bullets not appearing on clients. by [Aranclanos](https://github.com/Aranclanos) in PR #[7422](https://github.com/unitystation/unitystation/pull/7422)
