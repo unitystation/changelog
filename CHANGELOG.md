@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Fix]** fixes and improves sounds for food processors by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7877](https://github.com/unitystation/unitystation/pull/7877)
 * 2022/05/09: **[Fix]** Fixes clients failing access checks when the ID is inside a PDA. by [Aranclanos](https://github.com/Aranclanos) in PR #[7875](https://github.com/unitystation/unitystation/pull/7875)
 * 2022/05/09: **[Fix]** Fixes ID-locked guns projectiles being invisible for the shooter. by [Aranclanos](https://github.com/Aranclanos) in PR #[7875](https://github.com/unitystation/unitystation/pull/7875)
 * 2022/05/09: **[Fix]** Fixes office chairs not moving the buckled player properly by [Aranclanos](https://github.com/Aranclanos) in PR #[7871](https://github.com/unitystation/unitystation/pull/7871)
