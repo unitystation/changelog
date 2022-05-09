@@ -2,6 +2,10 @@
 ---
 
 
+* 2022/05/09: **[Fix]** fixed missing grenade sounds. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7563](https://github.com/unitystation/unitystation/pull/7563)
+* 2022/05/09: **[Fix]** fixed clearance denied sound on airlocks. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7563](https://github.com/unitystation/unitystation/pull/7563)
+* 2022/05/09: **[Fix]** fixed pickaxes and drills not making sounds. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7563](https://github.com/unitystation/unitystation/pull/7563)
+* 2022/05/09: **[Fix]** fixed explosions only playing distant explosion sfx. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7563](https://github.com/unitystation/unitystation/pull/7563)
 * 2022/05/09: **[Fix]** fixed Fire Locks hiding behind a Doors by [Bod9001](https://github.com/Bod9001) in PR #[7569](https://github.com/unitystation/unitystation/pull/7569)
 * 2022/05/09: **[Fix]** Potentially fixed Key binding issue by [Bod9001](https://github.com/Bod9001) in PR #[7569](https://github.com/unitystation/unitystation/pull/7569)
 * 2022/05/09: **[Fix]** there are now door buttons to get inside the fall syndicate shuttle by [PerfectTangent](https://github.com/PerfectTangent) in PR #[7572](https://github.com/unitystation/unitystation/pull/7572)
