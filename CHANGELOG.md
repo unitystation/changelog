@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Fix]** Partial fix for #7642 - closet locking. Locking by alt-click is still broken. by [NoooneyDude](https://github.com/NoooneyDude) in PR #[7644](https://github.com/unitystation/unitystation/pull/7644)
 * 2022/05/09: **[Fix]** Fix admins getting kicked from too many admin info updates by making the network messages more efficient. Might still occur in the future, which will require a refactor, but let's see if that's required. by [NoooneyDude](https://github.com/NoooneyDude) in PR #[7645](https://github.com/unitystation/unitystation/pull/7645)
 * 2022/05/09: **[Fix]** fixed clients seeing light tubes and other sprites with wrong rotations. by [Aranclanos](https://github.com/Aranclanos) in PR #[7647](https://github.com/unitystation/unitystation/pull/7647)
 * 2022/05/09: **[Fix]** fixed the gateway failing to work after a period of time. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7651](https://github.com/unitystation/unitystation/pull/7651)
