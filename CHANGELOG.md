@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Fix]** Fixed server-side visualization of space floating by [Aranclanos](https://github.com/Aranclanos) in PR #[7851](https://github.com/unitystation/unitystation/pull/7851)
 * 2022/05/09: **[Fix]** Fixed players being thrown off from the shuttles on rotation. by [Aranclanos](https://github.com/Aranclanos) in PR #[7852](https://github.com/unitystation/unitystation/pull/7852)
 * 2022/05/09: **[New]** Drinking an entire bottle of salt will now cause a heart attack by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7848](https://github.com/unitystation/unitystation/pull/7848)
 * 2022/05/09: **[Improvement]** Improves player feedback for when items can't go into an inventory slot/when the storage is full by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7846](https://github.com/unitystation/unitystation/pull/7846)
