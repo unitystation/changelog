@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Fix]** fixed an issue where sparks were causing lag. by [ThatDan123](https://github.com/ThatDan123) in PR #[8284](https://github.com/unitystation/unitystation/pull/8284)
 * 2022/05/09: **[Fix]** fixed captain's spare ID reading as NULL by [ThatDan123](https://github.com/ThatDan123) in PR #[8299](https://github.com/unitystation/unitystation/pull/8299)
 * 2022/05/09: **[Fix]** Fixed windows being secured on spawn. by [ThatDan123](https://github.com/ThatDan123) in PR #[8142](https://github.com/unitystation/unitystation/pull/8142)
 * 2022/05/09: **[New]** Adds skull helmet crafting recipe to ashwalkers by [ThatDan123](https://github.com/ThatDan123) in PR #[8142](https://github.com/unitystation/unitystation/pull/8142)
