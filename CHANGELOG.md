@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Fix]** fixed some issues with reagent reactions in body, including clonexadone causing damage instead of healing damage by [Bod9001](https://github.com/Bod9001) in PR #[8041](https://github.com/unitystation/unitystation/pull/8041)
 * 2022/05/09: **[Fix]** fixed Disposal pipe deconstruction by [Bod9001](https://github.com/Bod9001) in PR #[8042](https://github.com/unitystation/unitystation/pull/8042)
 * 2022/05/09: **[Fix]** Fixed an error with client joining by [Bod9001](https://github.com/Bod9001) in PR #[8043](https://github.com/unitystation/unitystation/pull/8043)
 * 2022/05/09: **[Fix]** Fixed Disposal machines being initially wrenched when spawned In pipe dispenser by [Bod9001](https://github.com/Bod9001) in PR #[8047](https://github.com/unitystation/unitystation/pull/8047)
