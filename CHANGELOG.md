@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Fix]** Increases performance in MatrixManager helpers. 50% CPU usage reduction for player and mob movement. by [Aranclanos](https://github.com/Aranclanos) in PR #[7741](https://github.com/unitystation/unitystation/pull/7741)
 * 2022/05/09: **[New]** added mousetraps by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7743](https://github.com/unitystation/unitystation/pull/7743)
 * 2022/05/09: **[Fix]** fixed a case of pipes losing their coloration by [Bod9001](https://github.com/Bod9001) in PR #[7749](https://github.com/unitystation/unitystation/pull/7749)
 * 2022/05/09: **[Fix]** fixed select this character button not selecting character by [Bod9001](https://github.com/Bod9001) in PR #[7749](https://github.com/unitystation/unitystation/pull/7749)
