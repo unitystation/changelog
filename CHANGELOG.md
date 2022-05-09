@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[New]** you can now pull tails. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8065](https://github.com/unitystation/unitystation/pull/8065)
 * 2022/05/09: **[Fix]** fixed antagonists not getting greentext for objectives if they were hiding in closets. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8031](https://github.com/unitystation/unitystation/pull/8031)
 * 2022/05/09: **[New]** orbiting has been added. As a ghost, Double-click on an object to follow it and the orbit button will show you a list of all players you can orbit. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8032](https://github.com/unitystation/unitystation/pull/8032)
 * 2022/05/09: **[Fix]** Fixed ore boxes not being draggable by [Bod9001](https://github.com/Bod9001) in PR #[8035](https://github.com/unitystation/unitystation/pull/8035)
