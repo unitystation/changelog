@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Fix]** Fixes players having the chance of getting stuck in a teleport loop when using a teleport pad to and from lavaland. by [Aranclanos](https://github.com/Aranclanos) in PR #[7489](https://github.com/unitystation/unitystation/pull/7489)
 * 2022/05/09: **[Fix]** Fixes the spritehandler resetting the sprites from directionals. by [Aranclanos](https://github.com/Aranclanos) in PR #[7491](https://github.com/unitystation/unitystation/pull/7491)
 * 2022/05/09: **[Fix]** Fixes all sprite directions for light bulbs and tubes across all maps (again). by [Aranclanos](https://github.com/Aranclanos) in PR #[7491](https://github.com/unitystation/unitystation/pull/7491)
 * 2022/05/09: **[Improvement]** random item spawners now work with cargo crates, the syndicate uplink, and admin spawn tools. by [MoonTheBird](https://github.com/MoonTheBird) in PR #[7492](https://github.com/unitystation/unitystation/pull/7492)
