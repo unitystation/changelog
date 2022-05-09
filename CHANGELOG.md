@@ -2,6 +2,9 @@
 ---
 
 
+* 2022/05/09: **[Fix]** fixed the gateway failing to work after a period of time. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7651](https://github.com/unitystation/unitystation/pull/7651)
+* 2022/05/09: **[Improvement]** Supply console will now play a sound when your credits update. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7651](https://github.com/unitystation/unitystation/pull/7651)
+* 2022/05/09: **[Improvement]** The pilot's shuttle will now play a sound upon items entering the radars' range. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7651](https://github.com/unitystation/unitystation/pull/7651)
 * 2022/05/09: **[Fix]** Fixes clients being stuck on preparing by [Aranclanos](https://github.com/Aranclanos) in PR #[7658](https://github.com/unitystation/unitystation/pull/7658)
 * 2022/05/09: **[Improvement]** traitor uplink code shortened to one word+### by [Daxam12](https://github.com/Daxam12) in PR #[7661](https://github.com/unitystation/unitystation/pull/7661)
 * 2022/05/09: **[Improvement]** Bleeding now uses "bleedstacks" similar to firestacks. In addition, a bleeding indicator shows up to show how badly you're bleeding. by [MoonTheBird](https://github.com/MoonTheBird) in PR #[7663](https://github.com/unitystation/unitystation/pull/7663)
