@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Fix]** fixed atmospheric devices (vents, scrubbers) having weird rotations when unwrenched. by [Bod9001](https://github.com/Bod9001) in PR #[8247](https://github.com/unitystation/unitystation/pull/8247)
 * 2022/05/09: **[Fix]** fixed an issue where sparks were causing lag. by [ThatDan123](https://github.com/ThatDan123) in PR #[8284](https://github.com/unitystation/unitystation/pull/8284)
 * 2022/05/09: **[Fix]** fixed captain's spare ID reading as NULL by [ThatDan123](https://github.com/ThatDan123) in PR #[8299](https://github.com/unitystation/unitystation/pull/8299)
 * 2022/05/09: **[Fix]** Fixed windows being secured on spawn. by [ThatDan123](https://github.com/ThatDan123) in PR #[8142](https://github.com/unitystation/unitystation/pull/8142)
