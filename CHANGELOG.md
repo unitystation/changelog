@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[New]** added Electromagnetic Pulses by [IlinMihail](https://github.com/IlinMihail) in PR #[8120](https://github.com/unitystation/unitystation/pull/8120)
 * 2022/05/09: **[Fix]** fixed an issue with chat bubbles and the comms console not being fully sanitized of richtext tags. by [ThatDan123](https://github.com/ThatDan123) in PR #[8117](https://github.com/unitystation/unitystation/pull/8117)
 * 2022/05/09: **[Fix]** fixed an issue with chat bubbles not being fully sanitized of image tags. by [ThatDan123](https://github.com/ThatDan123) in PR #[8117](https://github.com/unitystation/unitystation/pull/8117)
 * 2022/05/09: **[Fix]** fixed tesla coils by [AtnerNT](https://github.com/AtnerNT) in PR #[8116](https://github.com/unitystation/unitystation/pull/8116)
