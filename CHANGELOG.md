@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Improvement]** matrix get at point optimized (90% improvement) by [Bod9001](https://github.com/Bod9001) in PR #[7685](https://github.com/unitystation/unitystation/pull/7685)
 * 2022/05/09: **[Improvement]** optimized hacking code a bit by removing 9 unneeded game objects. by [Bod9001](https://github.com/Bod9001) in PR #[7686](https://github.com/unitystation/unitystation/pull/7686)
 * 2022/05/09: **[Improvement]** optimzed hacking code by removing 9 unneeded game objects. by [Bod9001](https://github.com/Bod9001) in PR #[7686](https://github.com/unitystation/unitystation/pull/7686)
 * 2022/05/09: **[Improvement]** All-In-One Grinders now have machine boards which can be used to construct them. Circuit Imprinters can be used to create these boards, under the Misc. category. by [PetMudstone](https://github.com/PetMudstone) in PR #[7691](https://github.com/unitystation/unitystation/pull/7691)
