@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Improvement]** closets, crates etc. will now allow you to place items with an offset. by [NoooneyDude](https://github.com/NoooneyDude) in PR #[7624](https://github.com/unitystation/unitystation/pull/7624)
 * 2022/05/09: **[Fix]** Fixes random items not being added to cargo crate orders. by [NoooneyDude](https://github.com/NoooneyDude) in PR #[7623](https://github.com/unitystation/unitystation/pull/7623)
 * 2022/05/09: **[Fix]** fixed a bug with space walking by [Bod9001](https://github.com/Bod9001) in PR #[7621](https://github.com/unitystation/unitystation/pull/7621)
 * 2022/05/09: **[Fix]** fixed console emagging by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7615](https://github.com/unitystation/unitystation/pull/7615)
