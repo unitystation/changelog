@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Fix]** Fixed servers having the chance of not sending object data to new logged in clients. by [Aranclanos](https://github.com/Aranclanos) in PR #[7575](https://github.com/unitystation/unitystation/pull/7575)
 * 2022/05/09: **[Fix]** Fixed pipe bursting logic for reactor by [Bod9001](https://github.com/Bod9001) in PR #[7578](https://github.com/unitystation/unitystation/pull/7578)
 * 2022/05/09: **[Fix]** SMES and Microwave can now be deconstructed by [JustinTrotter](https://github.com/JustinTrotter) in PR #[7584](https://github.com/unitystation/unitystation/pull/7584)
 * 2022/05/09: **[Fix]** SMES and Microwave can now be deconstructed by [JustinTrotter](https://github.com/JustinTrotter) in PR #[7584](https://github.com/unitystation/unitystation/pull/7584)
