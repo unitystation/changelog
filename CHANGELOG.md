@@ -2,6 +2,8 @@
 ---
 
 
+* 2022/05/09: **[Fix]** Fixed the health scanner showing the wrong value for oxy damage by [Aranclanos](https://github.com/Aranclanos) in PR #[7418](https://github.com/unitystation/unitystation/pull/7418)
+* 2022/05/09: **[Fix]** Fixed "catperson" string appearing in the health scanner output by [Aranclanos](https://github.com/Aranclanos) in PR #[7418](https://github.com/unitystation/unitystation/pull/7418)
 * 2022/05/09: **[Fix]** Fixed brute hits on chest gibbing all bodyparts. by [Aranclanos](https://github.com/Aranclanos) in PR #[7417](https://github.com/unitystation/unitystation/pull/7417)
 * 2022/05/09: **[Fix]** Fixes machine connector sprites not rendering appropriately for adjacent machines. by [NoooneyDude](https://github.com/NoooneyDude) in PR #[7416](https://github.com/unitystation/unitystation/pull/7416)
 * 2022/05/09: **[Fix]** Fixes machine connectors being invisible in inventory. by [NoooneyDude](https://github.com/NoooneyDude) in PR #[7416](https://github.com/unitystation/unitystation/pull/7416)
