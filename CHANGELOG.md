@@ -2,6 +2,8 @@
 ---
 
 
+* 2022/05/09: **[Fix]** Fixes clients not seeing ores on lavaland and some asteroids by [Aranclanos](https://github.com/Aranclanos) in PR #[7727](https://github.com/unitystation/unitystation/pull/7727)
+* 2022/05/09: **[Fix]** Fixes clients requesting for tile and sprite updates before the matrixes were ready. by [Aranclanos](https://github.com/Aranclanos) in PR #[7727](https://github.com/unitystation/unitystation/pull/7727)
 * 2022/05/09: **[Fix]** VV hierarchy optimized by [Bod9001](https://github.com/Bod9001) in PR #[7728](https://github.com/unitystation/unitystation/pull/7728)
 * 2022/05/09: **[Fix]** Fixes antag changes using only the online players rather than everyone who joined the round to calculate its chances. by [Aranclanos](https://github.com/Aranclanos) in PR #[7729](https://github.com/unitystation/unitystation/pull/7729)
 * 2022/05/09: **[Fix]** Fixes body parts Not being burnt off properly by [Bod9001](https://github.com/Bod9001) in PR #[7738](https://github.com/unitystation/unitystation/pull/7738)
