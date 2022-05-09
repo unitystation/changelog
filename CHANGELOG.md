@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Fix]** Fixes objects spawned from the pipe dispenser not spawning with the requested colour. by [NoooneyDude](https://github.com/NoooneyDude) in PR #[7681](https://github.com/unitystation/unitystation/pull/7681)
 * 2022/05/09: **[Improvement]** matrix get at point optimized (90% improvement) by [Bod9001](https://github.com/Bod9001) in PR #[7685](https://github.com/unitystation/unitystation/pull/7685)
 * 2022/05/09: **[Improvement]** optimized hacking code a bit by removing 9 unneeded game objects. by [Bod9001](https://github.com/Bod9001) in PR #[7686](https://github.com/unitystation/unitystation/pull/7686)
 * 2022/05/09: **[Improvement]** optimzed hacking code by removing 9 unneeded game objects. by [Bod9001](https://github.com/Bod9001) in PR #[7686](https://github.com/unitystation/unitystation/pull/7686)
