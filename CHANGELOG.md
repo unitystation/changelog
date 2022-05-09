@@ -2,6 +2,8 @@
 ---
 
 
+* 2022/05/09: **[Fix]** Fixes the pressure for one atmosphere being slightly off. by [NoooneyDude](https://github.com/NoooneyDude) in PR #[7725](https://github.com/unitystation/unitystation/pull/7725)
+* 2022/05/09: **[Improvement]** Enterable objects now store their own gas mix which the player interacts with. This means you can hide in a morgue to escape a raging fire (though be careful you don't suffocate) or use a welded locker as a ghetto escape pod, provided you can figure out a means to shove off. Fixes issue 13 and feature H of #4654 (though you now take some high-pressure damage, and disposal intakes will be in vacuum). by [NoooneyDude](https://github.com/NoooneyDude) in PR #[7725](https://github.com/unitystation/unitystation/pull/7725)
 * 2022/05/09: **[Fix]** Fixes clients not seeing ores on lavaland and some asteroids by [Aranclanos](https://github.com/Aranclanos) in PR #[7727](https://github.com/unitystation/unitystation/pull/7727)
 * 2022/05/09: **[Fix]** Fixes clients requesting for tile and sprite updates before the matrixes were ready. by [Aranclanos](https://github.com/Aranclanos) in PR #[7727](https://github.com/unitystation/unitystation/pull/7727)
 * 2022/05/09: **[Fix]** VV hierarchy optimized by [Bod9001](https://github.com/Bod9001) in PR #[7728](https://github.com/unitystation/unitystation/pull/7728)
