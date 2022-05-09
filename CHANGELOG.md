@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Fix]** Fixes random items not being added to cargo crate orders. by [NoooneyDude](https://github.com/NoooneyDude) in PR #[7623](https://github.com/unitystation/unitystation/pull/7623)
 * 2022/05/09: **[Fix]** fixed a bug with space walking by [Bod9001](https://github.com/Bod9001) in PR #[7621](https://github.com/unitystation/unitystation/pull/7621)
 * 2022/05/09: **[Fix]** fixed console emagging by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7615](https://github.com/unitystation/unitystation/pull/7615)
 * 2022/05/09: **[Fix]** Fixed aHealing from disconnecting the admin if the target was an AI. by [Aranclanos](https://github.com/Aranclanos) in PR #[7607](https://github.com/unitystation/unitystation/pull/7607)
