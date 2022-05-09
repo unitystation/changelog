@@ -2,6 +2,8 @@
 ---
 
 
+* 2022/05/09: **[Fix]** Secured objects, such as conveyors, are no longer considered cargo and so won't be sold. by [NoooneyDude](https://github.com/NoooneyDude) in PR #[7664](https://github.com/unitystation/unitystation/pull/7664)
+* 2022/05/09: **[Fix]** Fixes being unable to enter closets with magboots enabled (closes #7617). by [NoooneyDude](https://github.com/NoooneyDude) in PR #[7664](https://github.com/unitystation/unitystation/pull/7664)
 * 2022/05/09: **[Fix]** Fixes AIs not being able to track living forms on clients. by [Aranclanos](https://github.com/Aranclanos) in PR #[7666](https://github.com/unitystation/unitystation/pull/7666)
 * 2022/05/09: **[Fix]** Fixes electrocution toggle on doors not working. by [Aranclanos](https://github.com/Aranclanos) in PR #[7666](https://github.com/unitystation/unitystation/pull/7666)
 * 2022/05/09: **[Fix]** fixed toxins inside gas tanks not hurting people using them as internals. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7667](https://github.com/unitystation/unitystation/pull/7667)
