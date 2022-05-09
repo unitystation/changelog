@@ -2,6 +2,8 @@
 ---
 
 
+* 2022/05/09: **[Fix]** fixed issue where moving and then implanting same body part would lose its Surface customisation by [Bod9001](https://github.com/Bod9001) in PR #[8102](https://github.com/unitystation/unitystation/pull/8102)
+* 2022/05/09: **[Fix]** fixes issue with sprites not being cleaned up properly by [Bod9001](https://github.com/Bod9001) in PR #[8102](https://github.com/unitystation/unitystation/pull/8102)
 * 2022/05/09: **[New]** Added functional jetpacks by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8191](https://github.com/unitystation/unitystation/pull/8191)
 * 2022/05/09: **[Fix]** added missing xenobiology and library access to the captain's spare ID by [AtnerNT](https://github.com/AtnerNT) in PR #[8190](https://github.com/unitystation/unitystation/pull/8190)
 * 2022/05/09: **[Fix]** fixed a number of issues with Ministation by [AtnerNT](https://github.com/AtnerNT) in PR #[8189](https://github.com/unitystation/unitystation/pull/8189)
