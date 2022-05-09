@@ -2,6 +2,8 @@
 ---
 
 
+* 2022/05/09: **[Improvement]** New sprites for stools by Twaticus and AdipemDragon. They have directions. by [PetMudstone](https://github.com/PetMudstone) in PR #[7289](https://github.com/unitystation/unitystation/pull/7289)
+* 2022/05/09: **[Fix]** fixed directional sprites for tanks by [PetMudstone](https://github.com/PetMudstone) in PR #[7289](https://github.com/unitystation/unitystation/pull/7289)
 * 2022/05/09: **[Fix]** fixed player gibbing by [Aranclanos](https://github.com/Aranclanos) in PR #[7291](https://github.com/unitystation/unitystation/pull/7291)
 * 2022/05/09: **[Fix]** fixed blobs not spawning by [Aranclanos](https://github.com/Aranclanos) in PR #[7291](https://github.com/unitystation/unitystation/pull/7291)
 * 2022/05/09: **[Fix]** fixed blob spawn message not appearing by [Aranclanos](https://github.com/Aranclanos) in PR #[7291](https://github.com/unitystation/unitystation/pull/7291)
