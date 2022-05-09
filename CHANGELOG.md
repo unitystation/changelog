@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Fix]** Fixes objects failing to be secured down at random places by [Aranclanos](https://github.com/Aranclanos) in PR #[7795](https://github.com/unitystation/unitystation/pull/7795)
 * 2022/05/09: **[New]** shuttle matrixes can now be expanded. by [Aranclanos](https://github.com/Aranclanos) in PR #[7800](https://github.com/unitystation/unitystation/pull/7800)
 * 2022/05/09: **[Fix]** Fixes spells. Closes #7805. by [NoooneyDude](https://github.com/NoooneyDude) in PR #[7807](https://github.com/unitystation/unitystation/pull/7807)
 * 2022/05/09: **[Fix]** Fixes mice eating all the wires because of low initial mood by [IlinMihail](https://github.com/IlinMihail) in PR #[7809](https://github.com/unitystation/unitystation/pull/7809)
