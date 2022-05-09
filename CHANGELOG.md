@@ -2,6 +2,10 @@
 ---
 
 
+* 2022/05/09: **[Fix]** Fixed windows being secured on spawn. by [ThatDan123](https://github.com/ThatDan123) in PR #[8142](https://github.com/unitystation/unitystation/pull/8142)
+* 2022/05/09: **[New]** Adds skull helmet crafting recipe to ashwalkers by [ThatDan123](https://github.com/ThatDan123) in PR #[8142](https://github.com/unitystation/unitystation/pull/8142)
+* 2022/05/09: **[New]** Adds goliath hood and cloak crafting recipe to everyone by [ThatDan123](https://github.com/ThatDan123) in PR #[8142](https://github.com/unitystation/unitystation/pull/8142)
+* 2022/05/09: **[Fix]** Fixed cameras being put into morgue drawers when on the same tile by [ThatDan123](https://github.com/ThatDan123) in PR #[8142](https://github.com/unitystation/unitystation/pull/8142)
 * 2022/05/09: **[Fix]** fixed field generators again. by [ThatDan123](https://github.com/ThatDan123) in PR #[8140](https://github.com/unitystation/unitystation/pull/8140)
 * 2022/05/09: **[Improvement]** the round start countdown won't start until at least 1 player has readied. by [Abhijnan-Bajpai](https://github.com/Abhijnan-Bajpai) in PR #[8139](https://github.com/unitystation/unitystation/pull/8139)
 * 2022/05/09: **[Fix]** fixed ghost orbit rotation animation. by [ThatDan123](https://github.com/ThatDan123) in PR #[8129](https://github.com/unitystation/unitystation/pull/8129)
