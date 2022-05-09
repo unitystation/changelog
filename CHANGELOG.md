@@ -2,6 +2,8 @@
 ---
 
 
+* 2022/05/09: **[Fix]** fixed assassination objective by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7940](https://github.com/unitystation/unitystation/pull/7940)
+* 2022/05/09: **[Fix]** fixed black gloves not protecting hands from heat by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7940](https://github.com/unitystation/unitystation/pull/7940)
 * 2022/05/09: **[New]** added like a bajillion foods and drinks and all their recipes by [MoonTheBird](https://github.com/MoonTheBird) in PR #[7776](https://github.com/unitystation/unitystation/pull/7776)
 * 2022/05/09: **[Improvement]** refactors the grinder so it isn't shit and adds like fifty recipes so you can grind or juice to your heart's content by [MoonTheBird](https://github.com/MoonTheBird) in PR #[7776](https://github.com/unitystation/unitystation/pull/7776)
 * 2022/05/09: **[New]** added drying racks which you can make with wood planks and are used to cure headcheese and blood sausages and make firm cheese by [MoonTheBird](https://github.com/MoonTheBird) in PR #[7776](https://github.com/unitystation/unitystation/pull/7776)
