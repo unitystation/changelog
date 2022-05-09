@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Fix]** hotfixes various broken sounds by regenerating the sound asset bundle. by [Bod9001](https://github.com/Bod9001) in PR #[8334](https://github.com/unitystation/unitystation/pull/8334)
 * 2022/05/09: **[Fix]** fixed C4 being uninteractable by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8337](https://github.com/unitystation/unitystation/pull/8337)
 * 2022/05/09: **[Fix]** Fixed desynchronization of Items on asteroids by [Bod9001](https://github.com/Bod9001) in PR #[8338](https://github.com/unitystation/unitystation/pull/8338)
 * 2022/05/09: **[Fix]** - Fixed accumulating ability icons (Fixes #7441) by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8340](https://github.com/unitystation/unitystation/pull/8340)
