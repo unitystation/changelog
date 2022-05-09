@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Fix]** Hopefully fix lavaland tiles by [ThatDan123](https://github.com/ThatDan123) in PR #[7719](https://github.com/unitystation/unitystation/pull/7719)
 * 2022/05/09: **[Improvement]** atmospheric analysers can now be used on items inside player inventories by [ThatDan123](https://github.com/ThatDan123) in PR #[7720](https://github.com/unitystation/unitystation/pull/7720)
 * 2022/05/09: **[Fix]** Fixes the pressure for one atmosphere being slightly off. by [NoooneyDude](https://github.com/NoooneyDude) in PR #[7725](https://github.com/unitystation/unitystation/pull/7725)
 * 2022/05/09: **[Improvement]** Enterable objects now store their own gas mix which the player interacts with. This means you can hide in a morgue to escape a raging fire (though be careful you don't suffocate) or use a welded locker as a ghetto escape pod, provided you can figure out a means to shove off. Fixes issue 13 and feature H of #4654 (though you now take some high-pressure damage, and disposal intakes will be in vacuum). by [NoooneyDude](https://github.com/NoooneyDude) in PR #[7725](https://github.com/unitystation/unitystation/pull/7725)
