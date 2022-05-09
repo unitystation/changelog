@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Fix]** Players revived by the defibrillator will now return to their bodies if they're a ghost by [Aranclanos](https://github.com/Aranclanos) in PR #[7421](https://github.com/unitystation/unitystation/pull/7421)
 * 2022/05/09: **[Fix]** fixed bullets not appearing on clients. by [Aranclanos](https://github.com/Aranclanos) in PR #[7422](https://github.com/unitystation/unitystation/pull/7422)
 * 2022/05/09: **[Fix]** fixed escape objective checking whether it's possible to accomplish before assigning. by [ThatDan123](https://github.com/ThatDan123) in PR #[7307](https://github.com/unitystation/unitystation/pull/7307)
 * 2022/05/09: **[Fix]** Fixed being unable to pick up atmos analyzer (again). by [ThatDan123](https://github.com/ThatDan123) in PR #[7308](https://github.com/unitystation/unitystation/pull/7308)
