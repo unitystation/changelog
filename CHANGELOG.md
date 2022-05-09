@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Fix]** Fixed new lavaland scrubbers and vents being uninteractable. by [Aranclanos](https://github.com/Aranclanos) in PR #[7380](https://github.com/unitystation/unitystation/pull/7380)
 * 2022/05/09: **[Fix]** fixed Players and mobs become incapable of taking damage on the second round and beyond. by [Aranclanos](https://github.com/Aranclanos) in PR #[7374](https://github.com/unitystation/unitystation/pull/7374)
 * 2022/05/09: **[Fix]** fixed emitters not shooting on staging by [Aranclanos](https://github.com/Aranclanos) in PR #[7374](https://github.com/unitystation/unitystation/pull/7374)
 * 2022/05/09: **[Fix]** fixed Gas canisters not releasing gas when opened unless you insert a gas tank. by [Aranclanos](https://github.com/Aranclanos) in PR #[7374](https://github.com/unitystation/unitystation/pull/7374)
