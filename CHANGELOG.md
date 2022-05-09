@@ -2,6 +2,8 @@
 ---
 
 
+* 2022/05/09: **[Fix]** Fixed Mobs moving while Dead/Unconscious by [ThatDan123](https://github.com/ThatDan123) in PR #[8054](https://github.com/unitystation/unitystation/pull/8054)
+* 2022/05/09: **[Fix]** Fixed hitting enter key opening chat when using dev spawner by [ThatDan123](https://github.com/ThatDan123) in PR #[8054](https://github.com/unitystation/unitystation/pull/8054)
 * 2022/05/09: **[Improvement]** Mobs which are on fire will now continue to burn after death and eventually go out. by [ThatDan123](https://github.com/ThatDan123) in PR #[8056](https://github.com/unitystation/unitystation/pull/8056)
 * 2022/05/09: **[New]** Bodies older than 2 minutes produce miasma unless they are below -10°C or are in a container by [ThatDan123](https://github.com/ThatDan123) in PR #[8056](https://github.com/unitystation/unitystation/pull/8056)
 * 2022/05/09: **[New]** Adds smoke gas by [ThatDan123](https://github.com/ThatDan123) in PR #[8059](https://github.com/unitystation/unitystation/pull/8059)
