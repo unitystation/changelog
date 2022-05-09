@@ -2,6 +2,8 @@
 ---
 
 
+* 2022/05/09: **[Fix]** Fixes Wrapped Crates and Lockers not being able to be pushed nor pulled. by [AtnerNT](https://github.com/AtnerNT) in PR #[8303](https://github.com/unitystation/unitystation/pull/8303)
+* 2022/05/09: **[Fix]** Players are no longer able to wrap items that are equipped like backpacks, instead they must be taken off to be wrapped, fixing the annoying issue of wrapping your backpack when trying to stow items. by [AtnerNT](https://github.com/AtnerNT) in PR #[8303](https://github.com/unitystation/unitystation/pull/8303)
 * 2022/05/09: **[Fix]** Fixed a bug where setting in game volume to 0 would cause it to jump to 100% by [Nianmi](https://github.com/Nianmi) in PR #[8310](https://github.com/unitystation/unitystation/pull/8310)
 * 2022/05/09: **[Fix]** fixed an issue with station bounced radios causing recursive messages, leading to a lot of lag. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8313](https://github.com/unitystation/unitystation/pull/8313)
 * 2022/05/09: **[Fix]** Fixed characters Underwear not rotating ( being Parented to the wrong thing ) by [Bod9001](https://github.com/Bod9001) in PR #[8316](https://github.com/unitystation/unitystation/pull/8316)
