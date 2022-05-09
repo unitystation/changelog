@@ -2,6 +2,8 @@
 ---
 
 
+* 2022/05/09: **[Fix]** fixed bleeding 5x more than you should by [MoonTheBird](https://github.com/MoonTheBird) in PR #[7820](https://github.com/unitystation/unitystation/pull/7820)
+* 2022/05/09: **[Fix]** fixed continuing to bleed forever until you apply gauze by [MoonTheBird](https://github.com/MoonTheBird) in PR #[7820](https://github.com/unitystation/unitystation/pull/7820)
 * 2022/05/09: **[New]** Glass tables have a 90% chance to break upon climbing on them by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7818](https://github.com/unitystation/unitystation/pull/7818)
 * 2022/05/09: **[Fix]** the cow and several other NPC mobs will no longer eat anything and everything that exists by [MoonTheBird](https://github.com/MoonTheBird) in PR #[7817](https://github.com/unitystation/unitystation/pull/7817)
 * 2022/05/09: **[Fix]** Fix missing reference to emote manager. by [NoooneyDude](https://github.com/NoooneyDude) in PR #[7889](https://github.com/unitystation/unitystation/pull/7889)
