@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Fix]** Fixed machine frame and console construction and deconstruction by [Aranclanos](https://github.com/Aranclanos) in PR #[7292](https://github.com/unitystation/unitystation/pull/7292)
 * 2022/05/09: **[Fix]** fixed a case of random item spawners spawning at the center of the map. by [Aranclanos](https://github.com/Aranclanos) in PR #[7302](https://github.com/unitystation/unitystation/pull/7302)
 * 2022/05/09: **[New]** added an assorted fruits crate to the cargo console by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8672](https://github.com/unitystation/unitystation/pull/8672)
 * 2022/05/08: **[New]** Added the Fire Axe by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8662](https://github.com/unitystation/unitystation/pull/8662)
