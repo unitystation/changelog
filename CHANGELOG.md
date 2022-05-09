@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Fix]** fixed explosives UI not working on headless servers by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8170](https://github.com/unitystation/unitystation/pull/8170)
 * 2022/05/09: **[Fix]** fixed blob resource nodes. by [ThatDan123](https://github.com/ThatDan123) in PR #[8168](https://github.com/unitystation/unitystation/pull/8168)
 * 2022/05/09: **[Fix]** fixed an issue that was causing the reactor to endlessly explode after a rounded ended, even carrying over into the next round. by [Bod9001](https://github.com/Bod9001) in PR #[8162](https://github.com/unitystation/unitystation/pull/8162)
 * 2022/05/09: **[Fix]** fixed 2 issues with freezers and heaters. by [Bod9001](https://github.com/Bod9001) in PR #[8161](https://github.com/unitystation/unitystation/pull/8161)
