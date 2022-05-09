@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Fix]** fixed right click radial again. by [Bod9001](https://github.com/Bod9001) in PR #[7769](https://github.com/unitystation/unitystation/pull/7769)
 * 2022/05/09: **[Fix]** Fixes spacewalking misbehaving on asteroids and other matrixes that aren't the station. by [Aranclanos](https://github.com/Aranclanos) in PR #[7773](https://github.com/unitystation/unitystation/pull/7773)
 * 2022/05/09: **[Fix]** improved performance of hostile AI movement behaviour by separating space from the mainstation matrix (50% performance improvement) by [Aranclanos](https://github.com/Aranclanos) in PR #[7773](https://github.com/unitystation/unitystation/pull/7773)
 * 2022/05/09: **[Improvement]** players can now put seed packets back into the seed extractor. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7673](https://github.com/unitystation/unitystation/pull/7673)
