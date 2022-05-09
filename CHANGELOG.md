@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Fix]** fixed ghost orbit rotation animation. by [ThatDan123](https://github.com/ThatDan123) in PR #[8129](https://github.com/unitystation/unitystation/pull/8129)
 * 2022/05/09: **[Fix]** fixed chemistry reactions. by [Bod9001](https://github.com/Bod9001) in PR #[8127](https://github.com/unitystation/unitystation/pull/8127)
 * 2022/05/09: **[Fix]** fixed an issue with radios receiving messages. by [ThatDan123](https://github.com/ThatDan123) in PR #[8124](https://github.com/unitystation/unitystation/pull/8124)
 * 2022/05/09: **[Fix]** fixed some engine parts that were not pushable by [ThatDan123](https://github.com/ThatDan123) in PR #[8122](https://github.com/unitystation/unitystation/pull/8122)
