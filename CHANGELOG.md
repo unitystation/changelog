@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Fix]** fixed turret and AI core construction. by [ThatDan123](https://github.com/ThatDan123) in PR #[7320](https://github.com/unitystation/unitystation/pull/7320)
 * 2022/05/09: **[Fix]** Fixed the disappearing service bell bug. by [Lizurt](https://github.com/Lizurt) in PR #[7332](https://github.com/unitystation/unitystation/pull/7332)
 * 2022/05/09: **[Fix]** Increased performance by being more strict on objects getting stuck in a never ending synchronization loop. by [Aranclanos](https://github.com/Aranclanos) in PR #[7341](https://github.com/unitystation/unitystation/pull/7341)
 * 2022/05/09: **[Improvement]** Chemical reactions that would create food are now also crafting recipes. This is so that players can know the exact requirements for them and also be aware that they exist. by [PetMudstone](https://github.com/PetMudstone) in PR #[7346](https://github.com/unitystation/unitystation/pull/7346)
