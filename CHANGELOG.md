@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Fix]** substantial improvement to how player bodies handle internal reagents. 20% performance gain and it consumes less memory by [Aranclanos](https://github.com/Aranclanos) in PR #[7844](https://github.com/unitystation/unitystation/pull/7844)
 * 2022/05/09: **[New]** plants now can produce reagents and put it into the reagent container of the food, #7841 is opened so all content is converted over to plant data instead of initial contents, by [Bod9001](https://github.com/Bod9001) in PR #[7843](https://github.com/unitystation/unitystation/pull/7843)
 * 2022/05/09: **[Fix]** fixed a case of radiation thread failing. by [Bod9001](https://github.com/Bod9001) in PR #[7843](https://github.com/unitystation/unitystation/pull/7843)
 * 2022/05/09: **[Fix]** fixed explosion utility sounds by [ThatDan123](https://github.com/ThatDan123) in PR #[7839](https://github.com/unitystation/unitystation/pull/7839)
