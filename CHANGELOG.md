@@ -2,6 +2,8 @@
 ---
 
 
+* 2022/05/09: **[Fix]** Made radiation work across matrices by [Bod9001](https://github.com/Bod9001) in PR #[7859](https://github.com/unitystation/unitystation/pull/7859)
+* 2022/05/09: **[Fix]** Made explosions Work across matrices by [Bod9001](https://github.com/Bod9001) in PR #[7859](https://github.com/unitystation/unitystation/pull/7859)
 * 2022/05/09: **[Fix]** unable to craft a large portion of the recipes by [MoonTheBird](https://github.com/MoonTheBird) in PR #[7949](https://github.com/unitystation/unitystation/pull/7949)
 * 2022/05/09: **[Fix]** can't make potato wedges by [MoonTheBird](https://github.com/MoonTheBird) in PR #[7949](https://github.com/unitystation/unitystation/pull/7949)
 * 2022/05/09: **[Fix]** can't make tea by [MoonTheBird](https://github.com/MoonTheBird) in PR #[7949](https://github.com/unitystation/unitystation/pull/7949)
