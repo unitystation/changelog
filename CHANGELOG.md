@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Fix]** the cow and several other NPC mobs will no longer eat anything and everything that exists by [MoonTheBird](https://github.com/MoonTheBird) in PR #[7817](https://github.com/unitystation/unitystation/pull/7817)
 * 2022/05/09: **[Fix]** Fix missing reference to emote manager. by [NoooneyDude](https://github.com/NoooneyDude) in PR #[7889](https://github.com/unitystation/unitystation/pull/7889)
 * 2022/05/09: **[Fix]** fixed matrix collision issues by [Bod9001](https://github.com/Bod9001) in PR #[7886](https://github.com/unitystation/unitystation/pull/7886)
 * 2022/05/09: **[Fix]** fixed matrix construction ( it was funny in some directions due to annoying offset stuff ) by [Bod9001](https://github.com/Bod9001) in PR #[7886](https://github.com/unitystation/unitystation/pull/7886)
