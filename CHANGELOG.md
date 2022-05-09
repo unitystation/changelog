@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[New]** seasonal christmas tree event added. Trees appear on December 1st and drop christmas gifts from December 24th to 28th. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7831](https://github.com/unitystation/unitystation/pull/7831)
 * 2022/05/09: **[Fix]** Fixed matrixes world bounds from being incorrect. by [Aranclanos](https://github.com/Aranclanos) in PR #[7826](https://github.com/unitystation/unitystation/pull/7826)
 * 2022/05/09: **[Fix]** world bounds will now be caches. Improves performance for player movement between matrixes by approximately 75% by [Aranclanos](https://github.com/Aranclanos) in PR #[7826](https://github.com/unitystation/unitystation/pull/7826)
 * 2022/05/09: **[Fix]** fixed bleeding 5x more than you should by [MoonTheBird](https://github.com/MoonTheBird) in PR #[7820](https://github.com/unitystation/unitystation/pull/7820)
