@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Fix]** Fixed desynchronization of Items on asteroids by [Bod9001](https://github.com/Bod9001) in PR #[8338](https://github.com/unitystation/unitystation/pull/8338)
 * 2022/05/09: **[Fix]** - Fixed accumulating ability icons (Fixes #7441) by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8340](https://github.com/unitystation/unitystation/pull/8340)
 * 2022/05/09: **[Improvement]** stackable items of the same type merge together when placed on the same tile. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8230](https://github.com/unitystation/unitystation/pull/8230)
 * 2022/05/09: **[Fix]** Fixed a case of cuffing not working by [ThatDan123](https://github.com/ThatDan123) in PR #[8232](https://github.com/unitystation/unitystation/pull/8232)
