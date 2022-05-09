@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Fix]** Fixed Disposal machines being initially wrenched when spawned In pipe dispenser by [Bod9001](https://github.com/Bod9001) in PR #[8047](https://github.com/unitystation/unitystation/pull/8047)
 * 2022/05/09: **[Fix]** fixed the scrubber surge random event. by [Bod9001](https://github.com/Bod9001) in PR #[8048](https://github.com/unitystation/unitystation/pull/8048)
 * 2022/05/09: **[Fix]** Fixed Mobs moving while Dead/Unconscious by [ThatDan123](https://github.com/ThatDan123) in PR #[8054](https://github.com/unitystation/unitystation/pull/8054)
 * 2022/05/09: **[Fix]** Fixed hitting enter key opening chat when using dev spawner by [ThatDan123](https://github.com/ThatDan123) in PR #[8054](https://github.com/unitystation/unitystation/pull/8054)
