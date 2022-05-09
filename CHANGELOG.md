@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Improvement]** Ovens have a smoke particle effect when cooking. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7881](https://github.com/unitystation/unitystation/pull/7881)
 * 2022/05/09: **[Improvement]** improved mouse trap customization and functionality. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7880](https://github.com/unitystation/unitystation/pull/7880)
 * 2022/05/09: **[Fix]** fixes and improves sounds for food processors by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7877](https://github.com/unitystation/unitystation/pull/7877)
 * 2022/05/09: **[Fix]** Fixes clients failing access checks when the ID is inside a PDA. by [Aranclanos](https://github.com/Aranclanos) in PR #[7875](https://github.com/unitystation/unitystation/pull/7875)
