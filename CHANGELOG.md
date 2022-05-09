@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Fix]** Fixed being unable to pick up atmos analyzer (again). by [ThatDan123](https://github.com/ThatDan123) in PR #[7308](https://github.com/unitystation/unitystation/pull/7308)
 * 2022/05/09: **[Fix]** fixed door bolt card not bolting doors by [ThatDan123](https://github.com/ThatDan123) in PR #[7309](https://github.com/unitystation/unitystation/pull/7309)
 * 2022/05/09: **[Fix]** fixed Emag door interaction on v2 doors by [ThatDan123](https://github.com/ThatDan123) in PR #[7309](https://github.com/unitystation/unitystation/pull/7309)
 * 2022/05/09: **[Fix]** fixed emitters being not being wrenchable by [ThatDan123](https://github.com/ThatDan123) in PR #[7309](https://github.com/unitystation/unitystation/pull/7309)
