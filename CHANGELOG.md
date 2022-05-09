@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[New]** Added functional jetpacks by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8191](https://github.com/unitystation/unitystation/pull/8191)
 * 2022/05/09: **[Fix]** added missing xenobiology and library access to the captain's spare ID by [AtnerNT](https://github.com/AtnerNT) in PR #[8190](https://github.com/unitystation/unitystation/pull/8190)
 * 2022/05/09: **[Fix]** fixed a number of issues with Ministation by [AtnerNT](https://github.com/AtnerNT) in PR #[8189](https://github.com/unitystation/unitystation/pull/8189)
 * 2022/05/09: **[Fix]** fixed an issue with cargo crates spawning on the wrong matrix. by [Bod9001](https://github.com/Bod9001) in PR #[8188](https://github.com/unitystation/unitystation/pull/8188)
