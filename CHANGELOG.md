@@ -2,6 +2,9 @@
 ---
 
 
+* 2022/05/09: **[Fix]** Fixes mice eating all the wires because of low initial mood by [IlinMihail](https://github.com/IlinMihail) in PR #[7809](https://github.com/unitystation/unitystation/pull/7809)
+* 2022/05/09: **[New]** Adds ability to produce quantum keys on autolathe by [IlinMihail](https://github.com/IlinMihail) in PR #[7809](https://github.com/unitystation/unitystation/pull/7809)
+* 2022/05/09: **[New]** Adds S.U.P.E.R.P.A.C.M.A.N. generator by [IlinMihail](https://github.com/IlinMihail) in PR #[7809](https://github.com/unitystation/unitystation/pull/7809)
 * 2022/05/09: **[Fix]** fixed lizard spikes don't show up from the front or only show up from the front by [MoonTheBird](https://github.com/MoonTheBird) in PR #[7810](https://github.com/unitystation/unitystation/pull/7810)
 * 2022/05/09: **[Fix]** fixed spikes render under tails by [MoonTheBird](https://github.com/MoonTheBird) in PR #[7810](https://github.com/unitystation/unitystation/pull/7810)
 * 2022/05/09: **[Fix]** fixed unnamed options when creating a lizard by [MoonTheBird](https://github.com/MoonTheBird) in PR #[7810](https://github.com/unitystation/unitystation/pull/7810)
