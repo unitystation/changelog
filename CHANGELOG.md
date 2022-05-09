@@ -2,6 +2,8 @@
 ---
 
 
+* 2022/05/09: **[Fix]** fixed bleeding out way too fast when losing a limb by [MoonTheBird](https://github.com/MoonTheBird) in PR #[7811](https://github.com/unitystation/unitystation/pull/7811)
+* 2022/05/09: **[Fix]** fixed bleeding when you cut off a beard or hair or other similar part by [MoonTheBird](https://github.com/MoonTheBird) in PR #[7811](https://github.com/unitystation/unitystation/pull/7811)
 * 2022/05/09: **[Fix]** Hopefully fix lavaland tiles (again again) by [ThatDan123](https://github.com/ThatDan123) in PR #[7719](https://github.com/unitystation/unitystation/pull/7719)
 * 2022/05/09: **[Fix]** Hopefully fix lavaland tiles by [ThatDan123](https://github.com/ThatDan123) in PR #[7719](https://github.com/unitystation/unitystation/pull/7719)
 * 2022/05/09: **[Improvement]** atmospheric analysers can now be used on items inside player inventories by [ThatDan123](https://github.com/ThatDan123) in PR #[7720](https://github.com/unitystation/unitystation/pull/7720)
