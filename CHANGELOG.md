@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Fix]** fixed a bug with space walking by [Bod9001](https://github.com/Bod9001) in PR #[7621](https://github.com/unitystation/unitystation/pull/7621)
 * 2022/05/09: **[Fix]** fixed console emagging by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7615](https://github.com/unitystation/unitystation/pull/7615)
 * 2022/05/09: **[Fix]** Fixed aHealing from disconnecting the admin if the target was an AI. by [Aranclanos](https://github.com/Aranclanos) in PR #[7607](https://github.com/unitystation/unitystation/pull/7607)
 * 2022/05/09: **[Fix]** aHealing will now return ghosts to their bodies. by [Aranclanos](https://github.com/Aranclanos) in PR #[7607](https://github.com/unitystation/unitystation/pull/7607)
