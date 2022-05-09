@@ -2,6 +2,8 @@
 ---
 
 
+* 2022/05/09: **[Fix]** fixed Fire Locks hiding behind a Doors by [Bod9001](https://github.com/Bod9001) in PR #[7569](https://github.com/unitystation/unitystation/pull/7569)
+* 2022/05/09: **[Fix]** Potentially fixed Key binding issue by [Bod9001](https://github.com/Bod9001) in PR #[7569](https://github.com/unitystation/unitystation/pull/7569)
 * 2022/05/09: **[Fix]** there are now door buttons to get inside the fall syndicate shuttle by [PerfectTangent](https://github.com/PerfectTangent) in PR #[7572](https://github.com/unitystation/unitystation/pull/7572)
 * 2022/05/09: **[Fix]** Fixed declaring war not counting down by [MoonTheBird](https://github.com/MoonTheBird) in PR #[7573](https://github.com/unitystation/unitystation/pull/7573)
 * 2022/05/09: **[Fix]** Fixed syndies being unable to shoot their guns by [MoonTheBird](https://github.com/MoonTheBird) in PR #[7573](https://github.com/unitystation/unitystation/pull/7573)
