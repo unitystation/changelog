@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Fix]** Fixed injectors ignoring pipe pressure. Closes #7529. by [NoooneyDude](https://github.com/NoooneyDude) in PR #[7533](https://github.com/unitystation/unitystation/pull/7533)
 * 2022/05/09: **[Fix]** Fixed chat stack icons being positioned poorly and an erroneous client error. by [NoooneyDude](https://github.com/NoooneyDude) in PR #[7534](https://github.com/unitystation/unitystation/pull/7534)
 * 2022/05/09: **[Fix]** Fixed disposal bins not spawning with uninstalled sprite if not over a pipe terminal. Partially solves #6568. by [NoooneyDude](https://github.com/NoooneyDude) in PR #[7535](https://github.com/unitystation/unitystation/pull/7535)
 * 2022/05/09: **[Fix]** Fixes disposal bin hand interaction not working. Closes #7014. by [NoooneyDude](https://github.com/NoooneyDude) in PR #[7535](https://github.com/unitystation/unitystation/pull/7535)
