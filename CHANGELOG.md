@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Fix]** Fixes office chairs not moving the buckled player properly by [Aranclanos](https://github.com/Aranclanos) in PR #[7871](https://github.com/unitystation/unitystation/pull/7871)
 * 2022/05/09: **[Fix]** Fixes items being pulled accepting server positions while at the same time predicting its position. Pulling items should be less laggy, now. by [Aranclanos](https://github.com/Aranclanos) in PR #[7868](https://github.com/unitystation/unitystation/pull/7868)
 * 2022/05/09: **[Fix]** Fixes items being pulled accepting server positions while at the same time predicting its position. by [Aranclanos](https://github.com/Aranclanos) in PR #[7868](https://github.com/unitystation/unitystation/pull/7868)
 * 2022/05/09: **[Fix]** Fixes objects that spawn in 0,0 being non interactable by clients. by [Aranclanos](https://github.com/Aranclanos) in PR #[7867](https://github.com/unitystation/unitystation/pull/7867)
