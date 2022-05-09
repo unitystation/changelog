@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Fix]** Fixes objects that spawn in 0,0 being non interactable by clients. by [Aranclanos](https://github.com/Aranclanos) in PR #[7867](https://github.com/unitystation/unitystation/pull/7867)
 * 2022/05/09: **[Fix]** Fixed an error where the status text in C4 would print out `dangerColor` instead of the actual status of the C4 when someone checks it for the first time. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7862](https://github.com/unitystation/unitystation/pull/7862)
 * 2022/05/09: **[Fix]** Timer Text is now much more readable on the X4 GUI. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7862](https://github.com/unitystation/unitystation/pull/7862)
 * 2022/05/09: **[Fix]** When putting an explosive on a surface that it can't support it will now refer to it as "Explosive" rather than "C4" all the time. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7862](https://github.com/unitystation/unitystation/pull/7862)
