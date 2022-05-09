@@ -2,6 +2,12 @@
 ---
 
 
+* 2022/05/09: **[Fix]** fixed Players and mobs become incapable of taking damage on the second round and beyond. by [Aranclanos](https://github.com/Aranclanos) in PR #[7374](https://github.com/unitystation/unitystation/pull/7374)
+* 2022/05/09: **[Fix]** fixed emitters not shooting on staging by [Aranclanos](https://github.com/Aranclanos) in PR #[7374](https://github.com/unitystation/unitystation/pull/7374)
+* 2022/05/09: **[Fix]** fixed Gas canisters not releasing gas when opened unless you insert a gas tank. by [Aranclanos](https://github.com/Aranclanos) in PR #[7374](https://github.com/unitystation/unitystation/pull/7374)
+* 2022/05/09: **[Fix]** fixed Quantum pads no longer teleporting you automatically when you step on them. by [Aranclanos](https://github.com/Aranclanos) in PR #[7374](https://github.com/unitystation/unitystation/pull/7374)
+* 2022/05/09: **[Fix]** fixed Conveyor belts no longer moving things when turned on. by [Aranclanos](https://github.com/Aranclanos) in PR #[7374](https://github.com/unitystation/unitystation/pull/7374)
+* 2022/05/09: **[Fix]** Fixed using lit welding tools on fuel tanks not making them explode from the second round onwards. by [Aranclanos](https://github.com/Aranclanos) in PR #[7374](https://github.com/unitystation/unitystation/pull/7374)
 * 2022/05/09: **[Fix]** Removes deprecated scrubbers, vents from all remaining scenes, and deletes the prefabs. by [NoooneyDude](https://github.com/NoooneyDude) in PR #[7373](https://github.com/unitystation/unitystation/pull/7373)
 * 2022/05/09: **[Fix]** Replaces vents and the old injectors in the modified maps' atmospherics tanks with the new injectors. by [NoooneyDude](https://github.com/NoooneyDude) in PR #[7373](https://github.com/unitystation/unitystation/pull/7373)
 * 2022/05/09: **[Fix]** Fixes Device Linker changes not persisting. by [NoooneyDude](https://github.com/NoooneyDude) in PR #[7373](https://github.com/unitystation/unitystation/pull/7373)
