@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Fix]** Fixed clients being unable to interact with pipes by [Aranclanos](https://github.com/Aranclanos) in PR #[7440](https://github.com/unitystation/unitystation/pull/7440)
 * 2022/05/09: **[Fix]** Fixed pipe construction overriding the rotation to south by [Aranclanos](https://github.com/Aranclanos) in PR #[7438](https://github.com/unitystation/unitystation/pull/7438)
 * 2022/05/09: **[Fix]** Hotfixes players being disconnecting themselves after a removed limb is reattached through surgery. by [Aranclanos](https://github.com/Aranclanos) in PR #[7436](https://github.com/unitystation/unitystation/pull/7436)
 * 2022/05/09: **[Fix]** Fixed Lavaland's missing floors once again. by [PetMudstone](https://github.com/PetMudstone) in PR #[7433](https://github.com/unitystation/unitystation/pull/7433)
