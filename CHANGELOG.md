@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Fix]** fixed light fixture deconstruction. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8098](https://github.com/unitystation/unitystation/pull/8098)
 * 2022/05/09: **[Fix]** Fix Ghost Orbit not disabling on clients due to Target not being synced by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8100](https://github.com/unitystation/unitystation/pull/8100)
 * 2022/05/09: **[Improvement]** hitting the objective reminder action button now shows traitors and nuclear operatives their uplink codes. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8101](https://github.com/unitystation/unitystation/pull/8101)
 * 2022/05/09: **[New]** you can now pull tails. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8065](https://github.com/unitystation/unitystation/pull/8065)
