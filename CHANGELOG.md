@@ -2,6 +2,10 @@
 ---
 
 
+* 2022/05/09: **[Fix]** Fixed an error where the status text in C4 would print out `dangerColor` instead of the actual status of the C4 when someone checks it for the first time. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7862](https://github.com/unitystation/unitystation/pull/7862)
+* 2022/05/09: **[Fix]** Timer Text is now much more readable on the X4 GUI. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7862](https://github.com/unitystation/unitystation/pull/7862)
+* 2022/05/09: **[Fix]** When putting an explosive on a surface that it can't support it will now refer to it as "Explosive" rather than "C4" all the time. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7862](https://github.com/unitystation/unitystation/pull/7862)
+* 2022/05/09: **[Fix]** Fixed an issue where people can just drag bombs off walls once they're armed (lol) by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7862](https://github.com/unitystation/unitystation/pull/7862)
 * 2022/05/09: **[Fix]** Fixes clients being unable to move inside moving shuttles. by [Aranclanos](https://github.com/Aranclanos) in PR #[7860](https://github.com/unitystation/unitystation/pull/7860)
 * 2022/05/09: **[Fix]** Fixes GlobalCachedBounds being cache'd by mistake on clients when the matrix was moving. by [Aranclanos](https://github.com/Aranclanos) in PR #[7860](https://github.com/unitystation/unitystation/pull/7860)
 * 2022/05/09: **[Fix]** Made radiation work across matrices by [Bod9001](https://github.com/Bod9001) in PR #[7859](https://github.com/unitystation/unitystation/pull/7859)
