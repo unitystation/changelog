@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Fix]** fixed fusion visual effects bug on fallstation by [AtnerNT](https://github.com/AtnerNT) in PR #[8212](https://github.com/unitystation/unitystation/pull/8212)
 * 2022/05/09: **[New]** admins can now set a player limit for servers. by [ThatDan123](https://github.com/ThatDan123) in PR #[8209](https://github.com/unitystation/unitystation/pull/8209)
 * 2022/05/09: **[Fix]** Fixed character customisation is not showing on clients by [Bod9001](https://github.com/Bod9001) in PR #[8202](https://github.com/unitystation/unitystation/pull/8202)
 * 2022/05/09: **[Fix]** fixed clients seeing joining window before the round started,. by [Bod9001](https://github.com/Bod9001) in PR #[8201](https://github.com/unitystation/unitystation/pull/8201)
