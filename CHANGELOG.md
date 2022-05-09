@@ -2,6 +2,8 @@
 ---
 
 
+* 2022/05/09: **[Fix]** Fixed belt defibrillator not working. by [Aranclanos](https://github.com/Aranclanos) in PR #[7349](https://github.com/unitystation/unitystation/pull/7349)
+* 2022/05/09: **[Fix]** Fixed defibrillators not reviving the target. by [Aranclanos](https://github.com/Aranclanos) in PR #[7349](https://github.com/unitystation/unitystation/pull/7349)
 * 2022/05/09: **[Fix]** Fixed ores not being generated on asteroids. by [Aranclanos](https://github.com/Aranclanos) in PR #[7348](https://github.com/unitystation/unitystation/pull/7348)
 * 2022/05/09: **[Fix]** Fixes belt defibrillator not working. by [Aranclanos](https://github.com/Aranclanos) in PR #[7349](https://github.com/unitystation/unitystation/pull/7349)
 * 2022/05/09: **[Fix]** Fixes defibrillators not reviving the target. by [Aranclanos](https://github.com/Aranclanos) in PR #[7349](https://github.com/unitystation/unitystation/pull/7349)
