@@ -2,6 +2,11 @@
 ---
 
 
+* 2022/05/09: **[Fix]** Fixes text rendering behind status displays. by [Aranclanos](https://github.com/Aranclanos) in PR #[7625](https://github.com/unitystation/unitystation/pull/7625)
+* 2022/05/09: **[Fix]** Fixes the joe animation not appearing on the status display. by [Aranclanos](https://github.com/Aranclanos) in PR #[7625](https://github.com/unitystation/unitystation/pull/7625)
+* 2022/05/09: **[Fix]** Links all status displays to its respective cell doors in all maps. by [Aranclanos](https://github.com/Aranclanos) in PR #[7625](https://github.com/unitystation/unitystation/pull/7625)
+* 2022/05/09: **[Fix]** Fixes status display text not hiding when out of sight. by [Aranclanos](https://github.com/Aranclanos) in PR #[7625](https://github.com/unitystation/unitystation/pull/7625)
+* 2022/05/09: **[Fix]** Fixes status display timers not working properly when using right click or AI interactions. by [Aranclanos](https://github.com/Aranclanos) in PR #[7625](https://github.com/unitystation/unitystation/pull/7625)
 * 2022/05/09: **[Improvement]** closets, crates etc. will now allow you to place items with an offset. by [NoooneyDude](https://github.com/NoooneyDude) in PR #[7624](https://github.com/unitystation/unitystation/pull/7624)
 * 2022/05/09: **[Fix]** Fixes random items not being added to cargo crate orders. by [NoooneyDude](https://github.com/NoooneyDude) in PR #[7623](https://github.com/unitystation/unitystation/pull/7623)
 * 2022/05/09: **[Fix]** fixed a bug with space walking by [Bod9001](https://github.com/Bod9001) in PR #[7621](https://github.com/unitystation/unitystation/pull/7621)
