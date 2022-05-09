@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Improvement]** The command shuttle in SquareStation now has a front window so that people can actually see where they're going when they're piloting the darn thing. by [PetMudstone](https://github.com/PetMudstone) in PR #[7353](https://github.com/unitystation/unitystation/pull/7353)
 * 2022/05/09: **[Fix]** Fixed mobs in movable matrixes being in the incorrect position for clients by [Aranclanos](https://github.com/Aranclanos) in PR #[7369](https://github.com/unitystation/unitystation/pull/7369)
 * 2022/05/09: **[Fix]** Fixed the health scanner showing the wrong value for oxy damage by [Aranclanos](https://github.com/Aranclanos) in PR #[7418](https://github.com/unitystation/unitystation/pull/7418)
 * 2022/05/09: **[Fix]** Fixed "catperson" string appearing in the health scanner output by [Aranclanos](https://github.com/Aranclanos) in PR #[7418](https://github.com/unitystation/unitystation/pull/7418)
