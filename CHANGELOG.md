@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Fix]** fixed an issue with station bounced radios causing recursive messages, leading to a lot of lag. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8313](https://github.com/unitystation/unitystation/pull/8313)
 * 2022/05/09: **[Fix]** Fixed characters Underwear not rotating ( being Parented to the wrong thing ) by [Bod9001](https://github.com/Bod9001) in PR #[8316](https://github.com/unitystation/unitystation/pull/8316)
 * 2022/05/09: **[Fix]** Fixed limb sprites not being re-added after being removed (  not being cleaned up on client when removed ) by [Bod9001](https://github.com/Bod9001) in PR #[8316](https://github.com/unitystation/unitystation/pull/8316)
 * 2022/05/09: **[Improvement]** Adds hint to defib description to make it easier to use. by [potatoalienof13](https://github.com/potatoalienof13) in PR #[8326](https://github.com/unitystation/unitystation/pull/8326)
