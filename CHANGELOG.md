@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Fix]** fixed an issue preventing power cells from being placed inside stun prods and batons. by [AtnerNT](https://github.com/AtnerNT) in PR #[8149](https://github.com/unitystation/unitystation/pull/8149)
 * 2022/05/09: **[Improvement]** Ashwalker ghost role will now only appear when lavaland has been visited by [ThatDan123](https://github.com/ThatDan123) in PR #[8228](https://github.com/unitystation/unitystation/pull/8228)
 * 2022/05/09: **[New]** Added Ministation to the map rotation. by [ThatDan123](https://github.com/ThatDan123) in PR #[8227](https://github.com/unitystation/unitystation/pull/8227)
 * 2022/05/09: **[New]** Added Ministation, a low-pop map. by [AtnerNT](https://github.com/AtnerNT) in PR #[8178](https://github.com/unitystation/unitystation/pull/8178)
