@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Fix]** Fixed disposal outlets not working after their first trash release. by [Aranclanos](https://github.com/Aranclanos) in PR #[7407](https://github.com/unitystation/unitystation/pull/7407)
 * 2022/05/09: **[Fix]** fixed server performance issues with objects not stopping processing positioning even after reaching their destination. by [Aranclanos](https://github.com/Aranclanos) in PR #[7405](https://github.com/unitystation/unitystation/pull/7405)
 * 2022/05/09: **[Fix]** fixed mobs attacking once per frame. by [Aranclanos](https://github.com/Aranclanos) in PR #[7405](https://github.com/unitystation/unitystation/pull/7405)
 * 2022/05/09: **[Fix]** Fixed new lavaland scrubbers and vents being uninteractable. by [Aranclanos](https://github.com/Aranclanos) in PR #[7380](https://github.com/unitystation/unitystation/pull/7380)
