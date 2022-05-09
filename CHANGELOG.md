@@ -2,6 +2,10 @@
 ---
 
 
+* 2022/05/09: **[New]** Adds smoke gas by [ThatDan123](https://github.com/ThatDan123) in PR #[8059](https://github.com/unitystation/unitystation/pull/8059)
+* 2022/05/09: **[New]** Burning objects/items produces smoke by [ThatDan123](https://github.com/ThatDan123) in PR #[8059](https://github.com/unitystation/unitystation/pull/8059)
+* 2022/05/09: **[New]** The gas system now allows for a variety of generic gas overlays, differentiated by colour. by [ThatDan123](https://github.com/ThatDan123) in PR #[8059](https://github.com/unitystation/unitystation/pull/8059)
+* 2022/05/09: **[New]** Lavaland now starts with some smoke in its gas mix by [ThatDan123](https://github.com/ThatDan123) in PR #[8059](https://github.com/unitystation/unitystation/pull/8059)
 * 2022/05/09: **[Fix]** fixed random item spawners not despawning correctly when placed inside lockers. by [Bod9001](https://github.com/Bod9001) in PR #[8060](https://github.com/unitystation/unitystation/pull/8060)
 * 2022/05/09: **[Fix]** fixed spears disconnecting client when dropped. by [Bod9001](https://github.com/Bod9001) in PR #[8062](https://github.com/unitystation/unitystation/pull/8062)
 * 2022/05/09: **[Fix]** fixed pushing window tiles around. by [Bod9001](https://github.com/Bod9001) in PR #[8063](https://github.com/unitystation/unitystation/pull/8063)
