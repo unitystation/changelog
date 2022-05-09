@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Fix]** Fixed RCS getting players stuck in position. by [Aranclanos](https://github.com/Aranclanos) in PR #[7933](https://github.com/unitystation/unitystation/pull/7933)
 * 2022/05/09: **[Fix]** fixed status effects not showing for players by [Aranclanos](https://github.com/Aranclanos) in PR #[7934](https://github.com/unitystation/unitystation/pull/7934)
 * 2022/05/09: **[Fix]** Fixes admin panel disconnecting players by [Aranclanos](https://github.com/Aranclanos) in PR #[7938](https://github.com/unitystation/unitystation/pull/7938)
 * 2022/05/09: **[Fix]** fixed assassination objective by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7940](https://github.com/unitystation/unitystation/pull/7940)
