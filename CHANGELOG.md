@@ -2,6 +2,8 @@
 ---
 
 
+* 2022/05/09: **[Fix]** Fixed aHealing from disconnecting the admin if the target was an AI. by [Aranclanos](https://github.com/Aranclanos) in PR #[7607](https://github.com/unitystation/unitystation/pull/7607)
+* 2022/05/09: **[Fix]** aHealing will now return ghosts to their bodies. by [Aranclanos](https://github.com/Aranclanos) in PR #[7607](https://github.com/unitystation/unitystation/pull/7607)
 * 2022/05/09: **[New]** added griddles and ovens by [MoonTheBird](https://github.com/MoonTheBird) in PR #[7605](https://github.com/unitystation/unitystation/pull/7605)
 * 2022/05/09: **[Fix]** fixed going past line 13 on a piece of paper pushing all text up. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7604](https://github.com/unitystation/unitystation/pull/7604)
 * 2022/05/09: **[Fix]** fixed medium to low transformers not actually transforming by [MoonTheBird](https://github.com/MoonTheBird) in PR #[7600](https://github.com/unitystation/unitystation/pull/7600)
