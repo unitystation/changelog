@@ -2,6 +2,10 @@
 ---
 
 
+* 2022/05/09: **[Fix]** fixed player gibbing by [Aranclanos](https://github.com/Aranclanos) in PR #[7291](https://github.com/unitystation/unitystation/pull/7291)
+* 2022/05/09: **[Fix]** fixed blobs not spawning by [Aranclanos](https://github.com/Aranclanos) in PR #[7291](https://github.com/unitystation/unitystation/pull/7291)
+* 2022/05/09: **[Fix]** fixed blob spawn message not appearing by [Aranclanos](https://github.com/Aranclanos) in PR #[7291](https://github.com/unitystation/unitystation/pull/7291)
+* 2022/05/09: **[Fix]** fixed a case of blob UI not initializing by [Aranclanos](https://github.com/Aranclanos) in PR #[7291](https://github.com/unitystation/unitystation/pull/7291)
 * 2022/05/09: **[Fix]** Fixed machine frame and console construction and deconstruction by [Aranclanos](https://github.com/Aranclanos) in PR #[7292](https://github.com/unitystation/unitystation/pull/7292)
 * 2022/05/09: **[Fix]** fixed a case of random item spawners spawning at the center of the map. by [Aranclanos](https://github.com/Aranclanos) in PR #[7302](https://github.com/unitystation/unitystation/pull/7302)
 * 2022/05/09: **[New]** added an assorted fruits crate to the cargo console by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8672](https://github.com/unitystation/unitystation/pull/8672)
