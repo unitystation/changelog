@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Improvement]** players can now put seed packets back into the seed extractor. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[7673](https://github.com/unitystation/unitystation/pull/7673)
 * 2022/05/09: **[Fix]** fixed blob spawning blob structures improperly. by [Bod9001](https://github.com/Bod9001) in PR #[7677](https://github.com/unitystation/unitystation/pull/7677)
 * 2022/05/09: **[Fix]** fixed blob randomized damage actually causing no damage. by [Bod9001](https://github.com/Bod9001) in PR #[7677](https://github.com/unitystation/unitystation/pull/7677)
 * 2022/05/09: **[Fix]** fixed wrapping an already wrapped object. by [Daxam12](https://github.com/Daxam12) in PR #[7679](https://github.com/unitystation/unitystation/pull/7679)
