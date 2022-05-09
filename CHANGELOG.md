@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/09: **[Improvement]** hitting the objective reminder action button now shows traitors and nuclear operatives their uplink codes. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8101](https://github.com/unitystation/unitystation/pull/8101)
 * 2022/05/09: **[New]** you can now pull tails. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8065](https://github.com/unitystation/unitystation/pull/8065)
 * 2022/05/09: **[Fix]** fixed antagonists not getting greentext for objectives if they were hiding in closets. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8031](https://github.com/unitystation/unitystation/pull/8031)
 * 2022/05/09: **[New]** orbiting has been added. As a ghost, Double-click on an object to follow it and the orbit button will show you a list of all players you can orbit. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8032](https://github.com/unitystation/unitystation/pull/8032)
