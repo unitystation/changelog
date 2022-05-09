@@ -2,6 +2,9 @@
 ---
 
 
+* 2022/05/09: **[Fix]** Fixed operating tables teleporting to the middle of space by [Aranclanos](https://github.com/Aranclanos) in PR #[7370](https://github.com/unitystation/unitystation/pull/7370)
+* 2022/05/09: **[Fix]** Fixed objects without pushpull not registering their position properly by [Aranclanos](https://github.com/Aranclanos) in PR #[7370](https://github.com/unitystation/unitystation/pull/7370)
+* 2022/05/09: **[Fix]** Fixed Atmos devices broken on staging by [Aranclanos](https://github.com/Aranclanos) in PR #[7370](https://github.com/unitystation/unitystation/pull/7370)
 * 2022/05/09: **[Fix]** Fallstation Map: Fixes Security Camera Already Instantiated Bug on Fall Station by [DooblyNoobly](https://github.com/DooblyNoobly) in PR #[7447](https://github.com/unitystation/unitystation/pull/7447)
 * 2022/05/09: **[Fix]** Relicta Map: Fixes Fire Closet being parented to Tool Closet by [DooblyNoobly](https://github.com/DooblyNoobly) in PR #[7447](https://github.com/unitystation/unitystation/pull/7447)
 * 2022/05/09: **[Fix]** Fixed clients being unable to interact with pipes by [Aranclanos](https://github.com/Aranclanos) in PR #[7440](https://github.com/unitystation/unitystation/pull/7440)
