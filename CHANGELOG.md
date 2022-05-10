@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/10: **[Fix]** hotfixed glowsticks being on when they shouldn't by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8441](https://github.com/unitystation/unitystation/pull/8441)
 * 2022/05/10: **[Improvement]** Allows AI to interact with consoles that require IDs by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8341](https://github.com/unitystation/unitystation/pull/8341)
 * 2022/05/10: **[Fix]** Fixed objects that were originally on the station being teleported to random coordinates when re-logging by [Bod9001](https://github.com/Bod9001) in PR #[8343](https://github.com/unitystation/unitystation/pull/8343)
 * 2022/05/10: **[Fix]** fixed footsteps not being heard in local play. by [Bod9001](https://github.com/Bod9001) in PR #[8344](https://github.com/unitystation/unitystation/pull/8344)
