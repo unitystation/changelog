@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/10: **[Fix]** Fixed emote sounds being global. No more screams of the damned. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8464](https://github.com/unitystation/unitystation/pull/8464)
 * 2022/05/10: **[New]** Adds in the syndicate bomb, It's a huge bomb that cannot be picked up and must be dragged/pushed around + can be wrenched down to make them immobile. They have a 90 second minimum time for detonation and are much stronger than X4s. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8466](https://github.com/unitystation/unitystation/pull/8466)
 * 2022/05/10: **[Fix]** Fixed a bug related to the timer not displaying correctly on start when the explosive GUI first appears. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8466](https://github.com/unitystation/unitystation/pull/8466)
 * 2022/05/10: **[Fix]** Fixed blurry GUI sprites with explosives. they're much more crispy clean now. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8466](https://github.com/unitystation/unitystation/pull/8466)
