@@ -2,6 +2,8 @@
 ---
 
 
+* 2022/05/10: **[Improvement]** added text feedback to notify that a megaphone is on cooldown. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8486](https://github.com/unitystation/unitystation/pull/8486)
+* 2022/05/10: **[New]** emagging a megaphone removes it's cooldown. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8486](https://github.com/unitystation/unitystation/pull/8486)
 * 2022/05/10: **[Fix]** Fixed a bug causing players to be kicked on opening orbit menu by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8488](https://github.com/unitystation/unitystation/pull/8488)
 * 2022/05/10: **[New]** Working file cabinets are a thing now, mappers can map them in later. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8491](https://github.com/unitystation/unitystation/pull/8491)
 * 2022/05/10: **[Improvement]** Added sounds for when you receive headset messages by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8494](https://github.com/unitystation/unitystation/pull/8494)
