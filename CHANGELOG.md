@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/10: **[Fix]** fixed duplicating firelocks and airlocks by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8453](https://github.com/unitystation/unitystation/pull/8453)
 * 2022/05/10: **[Fix]** Fixed doors not giving cables when hands full #8389 by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8455](https://github.com/unitystation/unitystation/pull/8455)
 * 2022/05/10: **[Fix]** Fixed emote sounds being global. No more screams of the damned. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8464](https://github.com/unitystation/unitystation/pull/8464)
 * 2022/05/10: **[New]** Adds in the syndicate bomb, It's a huge bomb that cannot be picked up and must be dragged/pushed around + can be wrenched down to make them immobile. They have a 90 second minimum time for detonation and are much stronger than X4s. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8466](https://github.com/unitystation/unitystation/pull/8466)
