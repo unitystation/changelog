@@ -2,6 +2,8 @@
 ---
 
 
+* 2022/05/10: **[Fix]** - Fixed machine connectors getting duplicated. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8667](https://github.com/unitystation/unitystation/pull/8667)
+* 2022/05/10: **[Improvement]** - Adds a 1 second progress bar to remove machine connectors. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8667](https://github.com/unitystation/unitystation/pull/8667)
 * 2022/05/10: **[New]** Adds the ability for admins to add, remove and mark bounties complete from their tools. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8557](https://github.com/unitystation/unitystation/pull/8557)
 * 2022/05/10: **[New]** Created Sec Barrier by [mkuppers](https://github.com/mkuppers) in PR #[8580](https://github.com/unitystation/unitystation/pull/8580)
 * 2022/05/10: **[Fix]** fixed missing items in the R&D machines by [AtnerNT](https://github.com/AtnerNT) in PR #[8581](https://github.com/unitystation/unitystation/pull/8581)
