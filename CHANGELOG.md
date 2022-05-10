@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/10: **[New]** added a basic foundation for the ProTips system for educating new players. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8597](https://github.com/unitystation/unitystation/pull/8597)
 * 2022/05/10: **[New]** Added the ability to give base descriptions to tiles for player examination. by [NoooneyDude](https://github.com/NoooneyDude) in PR #[8598](https://github.com/unitystation/unitystation/pull/8598)
 * 2022/05/10: **[Improvement]** Gave the regular window tile a description. by [NoooneyDude](https://github.com/NoooneyDude) in PR #[8598](https://github.com/unitystation/unitystation/pull/8598)
 * 2022/05/10: **[New]** low pop settings can be configured in the gameConfig file and there are announcements that tell the station when low pop in happening by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8599](https://github.com/unitystation/unitystation/pull/8599)
