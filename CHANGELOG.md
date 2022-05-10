@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/10: **[Balance]** Tweaked numbers in milking system to make it easier to produce milk. by [corp-0](https://github.com/corp-0) in PR #[8674](https://github.com/unitystation/unitystation/pull/8674)
 * 2022/05/10: **[Fix]** - Fixed machine connectors getting duplicated. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8667](https://github.com/unitystation/unitystation/pull/8667)
 * 2022/05/10: **[Improvement]** - Adds a 1 second progress bar to remove machine connectors. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8667](https://github.com/unitystation/unitystation/pull/8667)
 * 2022/05/10: **[New]** Adds the ability for admins to add, remove and mark bounties complete from their tools. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8557](https://github.com/unitystation/unitystation/pull/8557)
