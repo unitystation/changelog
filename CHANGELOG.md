@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/10: **[Fix]** fixed the item giver function for admins again. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8570](https://github.com/unitystation/unitystation/pull/8570)
 * 2022/05/10: **[New]** (Research Foundation) Protolathe & Circuit Imprinter science functionality. The recipes they have can now be updated with new recipes researched by scientists. by [AtnerNT](https://github.com/AtnerNT) in PR #[8571](https://github.com/unitystation/unitystation/pull/8571)
 * 2022/05/10: **[Fix]** Fixed radio sounds being played when hitting stuff by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8524](https://github.com/unitystation/unitystation/pull/8524)
 * 2022/05/10: **[New]** Added in an incredibly rare purple drink called "Lean". Consume at your own risk. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8525](https://github.com/unitystation/unitystation/pull/8525)
