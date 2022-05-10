@@ -2,6 +2,9 @@
 ---
 
 
+* 2022/05/10: **[Improvement]** you can now use a knife on bread on table and it will cut it, by [Bod9001](https://github.com/Bod9001) in PR #[8559](https://github.com/unitystation/unitystation/pull/8559)
+* 2022/05/10: **[Fix]** Grills will now respect stacked items more. by [Bod9001](https://github.com/Bod9001) in PR #[8559](https://github.com/unitystation/unitystation/pull/8559)
+* 2022/05/10: **[Improvement]** clicking on windoors will now leave them open, until clicked on again. by [Bod9001](https://github.com/Bod9001) in PR #[8559](https://github.com/unitystation/unitystation/pull/8559)
 * 2022/05/10: **[Fix]** fixed griddle not cooking properly by [Bod9001](https://github.com/Bod9001) in PR #[8561](https://github.com/unitystation/unitystation/pull/8561)
 * 2022/05/10: **[Fix]** fixed the item giver function for admins again. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8570](https://github.com/unitystation/unitystation/pull/8570)
 * 2022/05/10: **[New]** (Research Foundation) Protolathe & Circuit Imprinter science functionality. The recipes they have can now be updated with new recipes researched by scientists. by [AtnerNT](https://github.com/AtnerNT) in PR #[8571](https://github.com/unitystation/unitystation/pull/8571)
