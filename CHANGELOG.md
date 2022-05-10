@@ -2,6 +2,8 @@
 ---
 
 
+* 2022/05/10: **[Fix]** Fixes the missing accesses on ministations windoors by [AtnerNT](https://github.com/AtnerNT) in PR #[8354](https://github.com/unitystation/unitystation/pull/8354)
+* 2022/05/10: **[Improvement]** Moves the xeno queen door buttons in Ministation to be more intuitive as to which controls which doors by [AtnerNT](https://github.com/AtnerNT) in PR #[8354](https://github.com/unitystation/unitystation/pull/8354)
 * 2022/05/10: **[Fix]** Fixes direction signs pointing in wrong direction by [AtnerNT](https://github.com/AtnerNT) in PR #[8355](https://github.com/unitystation/unitystation/pull/8355)
 * 2022/05/10: **[Fix]** fixed hostile mob attack messages always using default body part name. by [raphabigal](https://github.com/raphabigal) in PR #[8356](https://github.com/unitystation/unitystation/pull/8356)
 * 2022/05/10: **[Improvement]** added a button to quick join the last server played in the lobby. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8358](https://github.com/unitystation/unitystation/pull/8358)
