@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/10: **[Fix]** Fixes status tab not updating it's content by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8484](https://github.com/unitystation/unitystation/pull/8484)
 * 2022/05/10: **[Improvement]** added text feedback to notify that a megaphone is on cooldown. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8486](https://github.com/unitystation/unitystation/pull/8486)
 * 2022/05/10: **[New]** emagging a megaphone removes it's cooldown. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8486](https://github.com/unitystation/unitystation/pull/8486)
 * 2022/05/10: **[Fix]** Fixed a bug causing players to be kicked on opening orbit menu by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8488](https://github.com/unitystation/unitystation/pull/8488)
