@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/10: **[Fix]** Fixed admin event cooldowns never cooling down. by [NoooneyDude](https://github.com/NoooneyDude) in PR #[8606](https://github.com/unitystation/unitystation/pull/8606)
 * 2022/05/10: **[New]** Admins can now change the station's budget and change the rewards a bounty gives. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8608](https://github.com/unitystation/unitystation/pull/8608)
 * 2022/05/10: **[New]** Adds a traitor crate in the armory category of an emagged console shuttle titled "Scottish weaponry." Contains 4 X4s and two claymores. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8632](https://github.com/unitystation/unitystation/pull/8632)
 * 2022/05/10: **[Improvement]** Improved lobby UI flow. It now has a more conventional main menu. by [NoooneyDude](https://github.com/NoooneyDude) in PR #[8625](https://github.com/unitystation/unitystation/pull/8625)
