@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/10: **[New]** Working file cabinets are a thing now, mappers can map them in later. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8491](https://github.com/unitystation/unitystation/pull/8491)
 * 2022/05/10: **[Improvement]** Added sounds for when you receive headset messages by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8494](https://github.com/unitystation/unitystation/pull/8494)
 * 2022/05/10: **[Improvement]** added sound for megaphones by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8494](https://github.com/unitystation/unitystation/pull/8494)
 * 2022/05/10: **[New]** instead of instantly appearing or change values, the crit indicator now blinks between it's last value and newest one. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8498](https://github.com/unitystation/unitystation/pull/8498)
