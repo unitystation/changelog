@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/10: **[Improvement]** player list is sorted alphabetically. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8511](https://github.com/unitystation/unitystation/pull/8511)
 * 2022/05/10: **[Improvement]** C4/X4s will now only be put on walls when the user is on harm intent, allowing you to place them on tables without attaching them. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8513](https://github.com/unitystation/unitystation/pull/8513)
 * 2022/05/10: **[Fix]** fixed mob attack cooldowns. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8514](https://github.com/unitystation/unitystation/pull/8514)
 * 2022/05/10: **[Fix]** fixed syndicate bomb beacon sprite not being set up correctly. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8515](https://github.com/unitystation/unitystation/pull/8515)
