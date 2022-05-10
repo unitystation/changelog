@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/10: **[Improvement]** overhauled the admin tools menus to be easier to navigate. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8532](https://github.com/unitystation/unitystation/pull/8532)
 * 2022/05/10: **[New]** Added the "Give Item" ability for admins in the player manager by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8533](https://github.com/unitystation/unitystation/pull/8533)
 * 2022/05/10: **[New]** admins can now call votes for maps and game modes. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8536](https://github.com/unitystation/unitystation/pull/8536)
 * 2022/05/10: **[Fix]** fixed the give item ability for admins. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8541](https://github.com/unitystation/unitystation/pull/8541)
