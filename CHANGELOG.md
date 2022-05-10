@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/10: **[New]** admins can now call votes for maps and game modes. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8536](https://github.com/unitystation/unitystation/pull/8536)
 * 2022/05/10: **[Fix]** fixed the give item ability for admins. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8541](https://github.com/unitystation/unitystation/pull/8541)
 * 2022/05/10: **[Improvement]** Added feedback sounds and messages to bombs and the remote signaler by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8481](https://github.com/unitystation/unitystation/pull/8481)
 * 2022/05/10: **[Fix]** Fixes status tab not updating it's content by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8484](https://github.com/unitystation/unitystation/pull/8484)
