@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/10: **[New]** Added in an incredibly rare purple drink called "Lean". Consume at your own risk. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8525](https://github.com/unitystation/unitystation/pull/8525)
 * 2022/05/10: **[New]** Added in an incredibly rare purple drink called "Lean". by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8525](https://github.com/unitystation/unitystation/pull/8525)
 * 2022/05/10: **[Improvement]** If the radial is opened and there is only one object on the tile, the actions for that object are placed directly on the main ring (no action ring). This includes action bar objects. There is no delay when hovering over items when it is a single ring. by [Copern](https://github.com/Copern) in PR #[8526](https://github.com/unitystation/unitystation/pull/8526)
 * 2022/05/10: **[Fix]** made cloning less susceptible to breaking by [Bod9001](https://github.com/Bod9001) in PR #[8527](https://github.com/unitystation/unitystation/pull/8527)
