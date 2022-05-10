@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/10: **[Fix]** added audio slider for radio message notification by [Bod9001](https://github.com/Bod9001) in PR #[8603](https://github.com/unitystation/unitystation/pull/8603)
 * 2022/05/10: **[Improvement]** Explosives UIs now have an exit button. by [NoooneyDude](https://github.com/NoooneyDude) in PR #[8604](https://github.com/unitystation/unitystation/pull/8604)
 * 2022/05/10: **[Improvement]** Explosives UIs can now be moved around. by [NoooneyDude](https://github.com/NoooneyDude) in PR #[8604](https://github.com/unitystation/unitystation/pull/8604)
 * 2022/05/10: **[Fix]** Gets the pizza bomb somewhat functional. It now detonates on opening it, if armed. by [NoooneyDude](https://github.com/NoooneyDude) in PR #[8604](https://github.com/unitystation/unitystation/pull/8604)
