@@ -2,6 +2,13 @@
 ---
 
 
+* 2022/05/10: **[Improvement]** Explosives UIs now have an exit button. by [NoooneyDude](https://github.com/NoooneyDude) in PR #[8604](https://github.com/unitystation/unitystation/pull/8604)
+* 2022/05/10: **[Improvement]** Explosives UIs can now be moved around. by [NoooneyDude](https://github.com/NoooneyDude) in PR #[8604](https://github.com/unitystation/unitystation/pull/8604)
+* 2022/05/10: **[Fix]** Gets the pizza bomb somewhat functional. It now detonates on opening it, if armed. by [NoooneyDude](https://github.com/NoooneyDude) in PR #[8604](https://github.com/unitystation/unitystation/pull/8604)
+* 2022/05/10: **[Fix]** Fixed a few cases of explosives buttons not working. by [NoooneyDude](https://github.com/NoooneyDude) in PR #[8604](https://github.com/unitystation/unitystation/pull/8604)
+* 2022/05/10: **[Fix]** Fixed a few cases of explosives UI sprites not updating correctly. by [NoooneyDude](https://github.com/NoooneyDude) in PR #[8604](https://github.com/unitystation/unitystation/pull/8604)
+* 2022/05/10: **[Fix]** Fixed a case or two of explosive timer UI oddness. by [NoooneyDude](https://github.com/NoooneyDude) in PR #[8604](https://github.com/unitystation/unitystation/pull/8604)
+* 2022/05/10: **[Improvement]** The powersink now has examination states to assist with usage. by [NoooneyDude](https://github.com/NoooneyDude) in PR #[8604](https://github.com/unitystation/unitystation/pull/8604)
 * 2022/05/10: **[Fix]** Fixed admin event cooldowns never cooling down. by [NoooneyDude](https://github.com/NoooneyDude) in PR #[8606](https://github.com/unitystation/unitystation/pull/8606)
 * 2022/05/10: **[New]** Admins can now change the station's budget and change the rewards a bounty gives. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8608](https://github.com/unitystation/unitystation/pull/8608)
 * 2022/05/10: **[New]** Adds a traitor crate in the armory category of an emagged console shuttle titled "Scottish weaponry." Contains 4 X4s and two claymores. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8632](https://github.com/unitystation/unitystation/pull/8632)
