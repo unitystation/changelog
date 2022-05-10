@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/10: **[Improvement]** Added feedback sounds and messages to bombs and the remote signaler by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8481](https://github.com/unitystation/unitystation/pull/8481)
 * 2022/05/10: **[Fix]** Fixes status tab not updating it's content by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8484](https://github.com/unitystation/unitystation/pull/8484)
 * 2022/05/10: **[Improvement]** added text feedback to notify that a megaphone is on cooldown. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8486](https://github.com/unitystation/unitystation/pull/8486)
 * 2022/05/10: **[New]** emagging a megaphone removes it's cooldown. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8486](https://github.com/unitystation/unitystation/pull/8486)
