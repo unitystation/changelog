@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/10: **[Fix]** fixes a bug causing steal objectives to fail. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8435](https://github.com/unitystation/unitystation/pull/8435)
 * 2022/05/10: **[Fix]** Fixes firelocks preventing doors from closing when activated by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8440](https://github.com/unitystation/unitystation/pull/8440)
 * 2022/05/10: **[Improvement]** Admins now have a toggle to quickly respawn players back to their original job. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8438](https://github.com/unitystation/unitystation/pull/8438)
 * 2022/05/10: **[Fix]** hotfixed glowsticks being on when they shouldn't by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8441](https://github.com/unitystation/unitystation/pull/8441)
