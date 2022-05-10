@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/10: **[New]** Created Sec Barrier by [mkuppers](https://github.com/mkuppers) in PR #[8580](https://github.com/unitystation/unitystation/pull/8580)
 * 2022/05/10: **[Fix]** fixed missing items in the R&D machines by [AtnerNT](https://github.com/AtnerNT) in PR #[8581](https://github.com/unitystation/unitystation/pull/8581)
 * 2022/05/10: **[New]** added a basic foundation for the ProTips system for educating new players. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8597](https://github.com/unitystation/unitystation/pull/8597)
 * 2022/05/10: **[New]** Added the ability to give base descriptions to tiles for player examination. by [NoooneyDude](https://github.com/NoooneyDude) in PR #[8598](https://github.com/unitystation/unitystation/pull/8598)
