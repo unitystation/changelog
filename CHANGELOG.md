@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/10: **[Improvement]** added a button to quick join the last server played in the lobby. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8358](https://github.com/unitystation/unitystation/pull/8358)
 * 2022/05/09: **[Fix]** fixed fire locks not being openable with crowbars by [Bod9001](https://github.com/Bod9001) in PR #[8366](https://github.com/unitystation/unitystation/pull/8366)
 * 2022/05/09: **[Fix]** wrenched down chairs can be rotated. by [Bod9001](https://github.com/Bod9001) in PR #[8368](https://github.com/unitystation/unitystation/pull/8368)
 * 2022/05/09: **[New]** some consumables such as regen meshes start wrapped and must be unwrapped to use them. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8380](https://github.com/unitystation/unitystation/pull/8380)
