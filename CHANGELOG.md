@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/10: **[Fix]** Fixed objects that were originally on the station being teleported to random coordinates when re-logging by [Bod9001](https://github.com/Bod9001) in PR #[8343](https://github.com/unitystation/unitystation/pull/8343)
 * 2022/05/10: **[Fix]** fixed footsteps not being heard in local play. by [Bod9001](https://github.com/Bod9001) in PR #[8344](https://github.com/unitystation/unitystation/pull/8344)
 * 2022/05/10: **[Fix]** Item stacks now have the ability to change sprites based off their amount. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8348](https://github.com/unitystation/unitystation/pull/8348)
 * 2022/05/10: **[Fix]** Fixes the missing accesses on ministations windoors by [AtnerNT](https://github.com/AtnerNT) in PR #[8354](https://github.com/unitystation/unitystation/pull/8354)
