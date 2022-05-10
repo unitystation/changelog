@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/10: **[Fix]** fixed syndicate bomb beacon sprite not being set up correctly. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8515](https://github.com/unitystation/unitystation/pull/8515)
 * 2022/05/10: **[Fix]** Fixed goliath sprites incorrectly being the Ancient goliath sprite and added a proper dead goliath sprite. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8446](https://github.com/unitystation/unitystation/pull/8446)
 * 2022/05/10: **[New]** The Condimaster Neo now has new sprites to set it apart from the ChemMaster 3000 by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8447](https://github.com/unitystation/unitystation/pull/8447)
 * 2022/05/10: **[New]** Photocopiers now consume ink from toner cartridges to print paper. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8448](https://github.com/unitystation/unitystation/pull/8448)
