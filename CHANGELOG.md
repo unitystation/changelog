@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/10: **[New]** Photocopiers now consume ink from toner cartridges to print paper. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8448](https://github.com/unitystation/unitystation/pull/8448)
 * 2022/05/10: **[New]** Added an emote that lists all the possible emotes the player can use at the moment by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8450](https://github.com/unitystation/unitystation/pull/8450)
 * 2022/05/10: **[New]** Added an emote for Felines that allows them to purr, healing 1 brute damage to a random body part as long as they don't have a total brute damage that's above 15. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8450](https://github.com/unitystation/unitystation/pull/8450)
 * 2022/05/10: **[New]** Added the Merp emote, merp around! by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8450](https://github.com/unitystation/unitystation/pull/8450)
