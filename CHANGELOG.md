@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/10: **[Improvement]** If the radial is opened and there is only one object on the tile, the actions for that object are placed directly on the main ring (no action ring). This includes action bar objects. There is no delay when hovering over items when it is a single ring. by [Copern](https://github.com/Copern) in PR #[8526](https://github.com/unitystation/unitystation/pull/8526)
 * 2022/05/10: **[Fix]** made cloning less susceptible to breaking by [Bod9001](https://github.com/Bod9001) in PR #[8527](https://github.com/unitystation/unitystation/pull/8527)
 * 2022/05/10: **[Improvement]** overhauled the admin tools menus to be easier to navigate. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8532](https://github.com/unitystation/unitystation/pull/8532)
 * 2022/05/10: **[New]** Added the "Give Item" ability for admins in the player manager by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8533](https://github.com/unitystation/unitystation/pull/8533)
