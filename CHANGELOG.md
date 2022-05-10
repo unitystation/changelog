@@ -2,6 +2,10 @@
 ---
 
 
+* 2022/05/10: **[New]** Added an emote that lists all the possible emotes the player can use at the moment by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8450](https://github.com/unitystation/unitystation/pull/8450)
+* 2022/05/10: **[New]** Added an emote for Felines that allows them to purr, healing 1 brute damage to a random body part as long as they don't have a total brute damage that's above 15. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8450](https://github.com/unitystation/unitystation/pull/8450)
+* 2022/05/10: **[New]** Added the Merp emote, merp around! by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8450](https://github.com/unitystation/unitystation/pull/8450)
+* 2022/05/10: **[Fix]** Fixed some missing sounds from the bundle because unity addressable shinangins. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8450](https://github.com/unitystation/unitystation/pull/8450)
 * 2022/05/10: **[Fix]** fixed duplicating firelocks and airlocks by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8453](https://github.com/unitystation/unitystation/pull/8453)
 * 2022/05/10: **[Fix]** Fixed doors not giving cables when hands full #8389 by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8455](https://github.com/unitystation/unitystation/pull/8455)
 * 2022/05/10: **[Fix]** Fixed emote sounds being global. No more screams of the damned. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8464](https://github.com/unitystation/unitystation/pull/8464)
