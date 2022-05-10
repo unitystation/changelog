@@ -2,6 +2,8 @@
 ---
 
 
+* 2022/05/10: **[Improvement]** Improved lobby UI flow. It now has a more conventional main menu. by [NoooneyDude](https://github.com/NoooneyDude) in PR #[8625](https://github.com/unitystation/unitystation/pull/8625)
+* 2022/05/10: **[Improvement]** Added disconnect panel when unexpectedly booted from the server, with a rejoin button. by [NoooneyDude](https://github.com/NoooneyDude) in PR #[8625](https://github.com/unitystation/unitystation/pull/8625)
 * 2022/05/10: **[Improvement]** you can now use a knife on bread on table and it will cut it, by [Bod9001](https://github.com/Bod9001) in PR #[8559](https://github.com/unitystation/unitystation/pull/8559)
 * 2022/05/10: **[Fix]** Grills will now respect stacked items more. by [Bod9001](https://github.com/Bod9001) in PR #[8559](https://github.com/unitystation/unitystation/pull/8559)
 * 2022/05/10: **[Improvement]** clicking on windoors will now leave them open, until clicked on again. by [Bod9001](https://github.com/Bod9001) in PR #[8559](https://github.com/unitystation/unitystation/pull/8559)
