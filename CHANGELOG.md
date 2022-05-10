@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/10: **[New]** Added in functionality for lockboxes by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8473](https://github.com/unitystation/unitystation/pull/8473)
 * 2022/05/10: **[New]** Added the NoFruit by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8386](https://github.com/unitystation/unitystation/pull/8386)
 * 2022/05/10: **[New]** Added the NoFruit by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8386](https://github.com/unitystation/unitystation/pull/8386)
 * 2022/05/10: **[Fix]** Fixed being unable to login to security console by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8391](https://github.com/unitystation/unitystation/pull/8391)
