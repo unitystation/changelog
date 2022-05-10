@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/10: **[Fix]** Teleporter menu will now have the correct mob position when they're inside storage by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8468](https://github.com/unitystation/unitystation/pull/8468)
 * 2022/05/10: **[Fix]** fixed a number of bugs with remote signallers, C4, and Pizza bombs by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8469](https://github.com/unitystation/unitystation/pull/8469)
 * 2022/05/10: **[New]** Adds in Megaphones! with three variants for departments. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8471](https://github.com/unitystation/unitystation/pull/8471)
 * 2022/05/10: **[New]** Added in functionality for lockboxes by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8473](https://github.com/unitystation/unitystation/pull/8473)
