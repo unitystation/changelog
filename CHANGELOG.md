@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/10: **[Fix]** Fixes direction signs pointing in wrong direction by [AtnerNT](https://github.com/AtnerNT) in PR #[8355](https://github.com/unitystation/unitystation/pull/8355)
 * 2022/05/10: **[Fix]** fixed hostile mob attack messages always using default body part name. by [raphabigal](https://github.com/raphabigal) in PR #[8356](https://github.com/unitystation/unitystation/pull/8356)
 * 2022/05/10: **[Improvement]** added a button to quick join the last server played in the lobby. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8358](https://github.com/unitystation/unitystation/pull/8358)
 * 2022/05/09: **[Fix]** fixed fire locks not being openable with crowbars by [Bod9001](https://github.com/Bod9001) in PR #[8366](https://github.com/unitystation/unitystation/pull/8366)
