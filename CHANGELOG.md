@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/10: **[Improvement]** attempting to withdraw more sheets from the mineral silo and autolathes will dump all sheets they has now by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8394](https://github.com/unitystation/unitystation/pull/8394)
 * 2022/05/10: **[Improvement]** attempting to withdraw more sheets from the mineral silo and autolathes will dump all sheets they have now by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8394](https://github.com/unitystation/unitystation/pull/8394)
 * 2022/05/10: **[Improvement]** attempting to withdraw more sheets from the mineral silo and autolathes will dump all sheets it has now by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8394](https://github.com/unitystation/unitystation/pull/8394)
 * 2022/05/10: **[Improvement]** attempting to withdraw more sheets from the mineral silo will dump all sheets it has now by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8394](https://github.com/unitystation/unitystation/pull/8394)
