@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/10: **[New]** Added the NoFruit by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8386](https://github.com/unitystation/unitystation/pull/8386)
 * 2022/05/10: **[Fix]** Fixed being unable to login to security console by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8391](https://github.com/unitystation/unitystation/pull/8391)
 * 2022/05/10: **[Fix]** fixed an issue preventing AIs from interacting with ACUs by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8392](https://github.com/unitystation/unitystation/pull/8392)
 * 2022/05/10: **[Improvement]** attempting to withdraw more sheets from the mineral silo and autolathes will dump all sheets they has now by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8394](https://github.com/unitystation/unitystation/pull/8394)
