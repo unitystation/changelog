@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/10: **[New]** Adds a traitor crate in the armory category of an emagged console shuttle titled "Scottish weaponry." Contains 4 X4s and two claymores. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8632](https://github.com/unitystation/unitystation/pull/8632)
 * 2022/05/10: **[Improvement]** Improved lobby UI flow. It now has a more conventional main menu. by [NoooneyDude](https://github.com/NoooneyDude) in PR #[8625](https://github.com/unitystation/unitystation/pull/8625)
 * 2022/05/10: **[Improvement]** Added disconnect panel when unexpectedly booted from the server, with a rejoin button. by [NoooneyDude](https://github.com/NoooneyDude) in PR #[8625](https://github.com/unitystation/unitystation/pull/8625)
 * 2022/05/10: **[Improvement]** you can now use a knife on bread on table and it will cut it, by [Bod9001](https://github.com/Bod9001) in PR #[8559](https://github.com/unitystation/unitystation/pull/8559)
