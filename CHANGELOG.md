@@ -2,6 +2,8 @@
 ---
 
 
+* 2022/05/10: **[Improvement]** Added sounds for when you receive headset messages by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8494](https://github.com/unitystation/unitystation/pull/8494)
+* 2022/05/10: **[Improvement]** added sound for megaphones by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8494](https://github.com/unitystation/unitystation/pull/8494)
 * 2022/05/10: **[New]** instead of instantly appearing or change values, the crit indicator now blinks between it's last value and newest one. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8498](https://github.com/unitystation/unitystation/pull/8498)
 * 2022/05/10: **[Improvement]** player list is sorted alphabetically. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8511](https://github.com/unitystation/unitystation/pull/8511)
 * 2022/05/10: **[Improvement]** C4/X4s will now only be put on walls when the user is on harm intent, allowing you to place them on tables without attaching them. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8513](https://github.com/unitystation/unitystation/pull/8513)
