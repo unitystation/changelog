@@ -2,6 +2,8 @@
 ---
 
 
+* 2022/05/11: **[Fix]** - Fixes NREs on headless servers because they should only be client sided. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8677](https://github.com/unitystation/unitystation/pull/8677)
+* 2022/05/11: **[Fix]** - Made search radius for protips even smaller. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8677](https://github.com/unitystation/unitystation/pull/8677)
 * 2022/05/10: **[Balance]** Tweaked numbers in milking system to make it easier to produce milk. by [corp-0](https://github.com/corp-0) in PR #[8674](https://github.com/unitystation/unitystation/pull/8674)
 * 2022/05/10: **[Fix]** - Fixed machine connectors getting duplicated. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8667](https://github.com/unitystation/unitystation/pull/8667)
 * 2022/05/10: **[Improvement]** - Adds a 1 second progress bar to remove machine connectors. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8667](https://github.com/unitystation/unitystation/pull/8667)
