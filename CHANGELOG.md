@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/11: **[Fix]** - Cargo console UI will now update whenever an admin makes a change on their end. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8679](https://github.com/unitystation/unitystation/pull/8679)
 * 2022/05/11: **[Fix]** - Fixes NREs on headless servers because they should only be client sided. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8677](https://github.com/unitystation/unitystation/pull/8677)
 * 2022/05/11: **[Fix]** - Made search radius for protips even smaller. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8677](https://github.com/unitystation/unitystation/pull/8677)
 * 2022/05/10: **[Balance]** Tweaked numbers in milking system to make it easier to produce milk. by [corp-0](https://github.com/corp-0) in PR #[8674](https://github.com/unitystation/unitystation/pull/8674)
