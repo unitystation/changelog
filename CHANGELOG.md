@@ -2,6 +2,8 @@
 ---
 
 
+* 2022/05/12: **[New]** - Admins can now turn off/on random bounties. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8676](https://github.com/unitystation/unitystation/pull/8676)
+* 2022/05/12: **[Improvement]** - Cargo will no longer receive random bounties while they are disconnected from central communications. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8676](https://github.com/unitystation/unitystation/pull/8676)
 * 2022/05/12: **[Fix]** - Fixes NREs on headless servers because they should only be client sided. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8677](https://github.com/unitystation/unitystation/pull/8677)
 * 2022/05/12: **[Fix]** - Made search radius for protips even smaller. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8677](https://github.com/unitystation/unitystation/pull/8677)
 * 2022/05/11: **[Fix]** - Cargo console UI will now update whenever an admin makes a change on their end. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8679](https://github.com/unitystation/unitystation/pull/8679)
