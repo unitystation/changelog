@@ -2,6 +2,10 @@
 ---
 
 
+* 2022/05/13: **[Fix]** Guns now play audio when firing by [Bod9001](https://github.com/Bod9001) in PR #[8681](https://github.com/unitystation/unitystation/pull/8681)
+* 2022/05/13: **[Fix]** guns now spawn bookcases if they can by [Bod9001](https://github.com/Bod9001) in PR #[8681](https://github.com/unitystation/unitystation/pull/8681)
+* 2022/05/13: **[Fix]** guns now spawn Bullet casings if they can by [Bod9001](https://github.com/Bod9001) in PR #[8681](https://github.com/unitystation/unitystation/pull/8681)
+* 2022/05/13: **[Fix]** guns now have cool down before firing again by [Bod9001](https://github.com/Bod9001) in PR #[8681](https://github.com/unitystation/unitystation/pull/8681)
 * 2022/05/12: **[New]** - Admins can now turn off/on random bounties. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8676](https://github.com/unitystation/unitystation/pull/8676)
 * 2022/05/12: **[Improvement]** - Cargo will no longer receive random bounties while they are disconnected from central communications. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8676](https://github.com/unitystation/unitystation/pull/8676)
 * 2022/05/12: **[Fix]** - Fixes NREs on headless servers because they should only be client sided. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8677](https://github.com/unitystation/unitystation/pull/8677)
