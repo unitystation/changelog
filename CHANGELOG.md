@@ -2,6 +2,17 @@
 ---
 
 
+* 2022/05/14: **[Balance]** reinforced wall now has a damage deflection of 21. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8686](https://github.com/unitystation/unitystation/pull/8686)
+* 2022/05/14: **[Balance]** reinforced wall integrity increased from 100 to 400. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8686](https://github.com/unitystation/unitystation/pull/8686)
+* 2022/05/14: **[Balance]** armor values of the various construction states of reinforced walls are now the same as the complete version. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8686](https://github.com/unitystation/unitystation/pull/8686)
+* 2022/05/14: **[Balance]** admin walls now do not let any radiation pass. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8686](https://github.com/unitystation/unitystation/pull/8686)
+* 2022/05/14: **[Balance]** rusty versions of walls now have the same armor and integrity values as their non-rusty counterparts. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8686](https://github.com/unitystation/unitystation/pull/8686)
+* 2022/05/14: **[Balance]** integrity of all mineral walls has been increased from 100 to 300. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8686](https://github.com/unitystation/unitystation/pull/8686)
+* 2022/05/14: **[Balance]** armor on all mineral walls has been decreased by 10% by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8686](https://github.com/unitystation/unitystation/pull/8686)
+* 2022/05/14: **[Balance]** diamond walls now have 100 melee armor and 400 integrity. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8686](https://github.com/unitystation/unitystation/pull/8686)
+* 2022/05/14: **[Balance]** catwalk integrity increased from 50 to 75. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8686](https://github.com/unitystation/unitystation/pull/8686)
+* 2022/05/14: **[Balance]** plastitanium and all plasma-derived walls have a damage deflection of 11 and 400 integrity. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8686](https://github.com/unitystation/unitystation/pull/8686)
+* 2022/05/14: **[Balance]** wood walls are now significantly less tough, having minimal armor and integrity and they take 30% bonus fire damage. They also pass significantly more radiation. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8686](https://github.com/unitystation/unitystation/pull/8686)
 * 2022/05/13: **[Fix]** Guns now play audio when firing by [Bod9001](https://github.com/Bod9001) in PR #[8681](https://github.com/unitystation/unitystation/pull/8681)
 * 2022/05/13: **[Fix]** guns now spawn bookcases if they can by [Bod9001](https://github.com/Bod9001) in PR #[8681](https://github.com/unitystation/unitystation/pull/8681)
 * 2022/05/13: **[Fix]** guns now spawn Bullet casings if they can by [Bod9001](https://github.com/Bod9001) in PR #[8681](https://github.com/unitystation/unitystation/pull/8681)
