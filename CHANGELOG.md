@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/15: **[New]** - Adds tooltip descriptions for bounties. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8685](https://github.com/unitystation/unitystation/pull/8685)
 * 2022/05/14: **[Balance]** reinforced wall now has a damage deflection of 21. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8686](https://github.com/unitystation/unitystation/pull/8686)
 * 2022/05/14: **[Balance]** reinforced wall integrity increased from 100 to 400. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8686](https://github.com/unitystation/unitystation/pull/8686)
 * 2022/05/14: **[Balance]** armor values of the various construction states of reinforced walls are now the same as the complete version. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8686](https://github.com/unitystation/unitystation/pull/8686)
