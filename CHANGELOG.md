@@ -2,6 +2,9 @@
 ---
 
 
+* 2022/05/18: **[New]** - Added an admin command to quickly test cloning. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8692](https://github.com/unitystation/unitystation/pull/8692)
+* 2022/05/18: **[Fix]** - Fixed issue where antags getting cloned lost their ability to check their objectives by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8692](https://github.com/unitystation/unitystation/pull/8692)
+* 2022/05/18: **[Improvement]** - Duplicate actions now replace old buttons with the most recent change/addition to the player's inventory. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8692](https://github.com/unitystation/unitystation/pull/8692)
 * 2022/05/18: **[Improvement]** - New players are automatically prompted to create a character sheet when first joining a server now. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8693](https://github.com/unitystation/unitystation/pull/8693)
 * 2022/05/15: **[Fix]** fix is guns not reloading and a few other gun related things. by [Bod9001](https://github.com/Bod9001) in PR #[8691](https://github.com/unitystation/unitystation/pull/8691)
 * 2022/05/15: **[Improvement]** Better feedback on interactions with chemistry Dispenser and chemistry master by [Bod9001](https://github.com/Bod9001) in PR #[8691](https://github.com/unitystation/unitystation/pull/8691)
