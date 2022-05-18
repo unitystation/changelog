@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/18: **[New]** - Players can now quickly change equipment by alt-clicking an item slot with an item in-hand. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8694](https://github.com/unitystation/unitystation/pull/8694)
 * 2022/05/18: **[New]** - Added an admin command to quickly test cloning. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8692](https://github.com/unitystation/unitystation/pull/8692)
 * 2022/05/18: **[Fix]** - Fixed issue where antags getting cloned lost their ability to check their objectives by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8692](https://github.com/unitystation/unitystation/pull/8692)
 * 2022/05/18: **[Improvement]** - Duplicate actions now replace old buttons with the most recent change/addition to the player's inventory. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8692](https://github.com/unitystation/unitystation/pull/8692)
