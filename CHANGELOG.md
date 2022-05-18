@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/18: **[Improvement]** - New players are automatically prompted to create a character sheet when first joining a server now. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8693](https://github.com/unitystation/unitystation/pull/8693)
 * 2022/05/15: **[Fix]** fix is guns not reloading and a few other gun related things. by [Bod9001](https://github.com/Bod9001) in PR #[8691](https://github.com/unitystation/unitystation/pull/8691)
 * 2022/05/15: **[Improvement]** Better feedback on interactions with chemistry Dispenser and chemistry master by [Bod9001](https://github.com/Bod9001) in PR #[8691](https://github.com/unitystation/unitystation/pull/8691)
 * 2022/05/15: **[New]** - Adds tooltip descriptions for bounties. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8685](https://github.com/unitystation/unitystation/pull/8685)
