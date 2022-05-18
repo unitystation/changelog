@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/18: **[Fix]** - Admins will no longer get kicked over out of sync data regarding cargo bounties in their tools. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8698](https://github.com/unitystation/unitystation/pull/8698)
 * 2022/05/18: **[Fix]** - Fixed an issue that caused the signal manager to completely break when despawning objects. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8697](https://github.com/unitystation/unitystation/pull/8697)
 * 2022/05/18: **[New]** - Players can now quickly change equipment by alt-clicking an item slot with an item in-hand. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8694](https://github.com/unitystation/unitystation/pull/8694)
 * 2022/05/18: **[New]** - Added an admin command to quickly test cloning. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8692](https://github.com/unitystation/unitystation/pull/8692)
