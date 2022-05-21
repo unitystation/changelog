@@ -2,6 +2,10 @@
 ---
 
 
+* 2022/05/21: **[New]** - Armors now have a parameter to prevent stuns. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8699](https://github.com/unitystation/unitystation/pull/8699)
+* 2022/05/21: **[Improvement]** - Highlanders have full stun immunity on their kilts now, you can no longer cheese fights with stuns anymore. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8699](https://github.com/unitystation/unitystation/pull/8699)
+* 2022/05/21: **[Improvement]** - Highlanders have full bullet immunity now and strong resistance to bombs. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8699](https://github.com/unitystation/unitystation/pull/8699)
+* 2022/05/21: **[Fix]** - Fixes unity un-referencing a ProTip on tasers. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8699](https://github.com/unitystation/unitystation/pull/8699)
 * 2022/05/20: **[Balance]** the PKA and plasma cutter are now affected by rock hardness. PKA has 5, plasma cutter has 5, and advanced cutter has 7. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8696](https://github.com/unitystation/unitystation/pull/8696)
 * 2022/05/20: **[New]** new mineable rock type; igneous rock and composite rock. tools must be researched by the R&D team or purchased from the mining equipment vendor to be able to mine these materials. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8696](https://github.com/unitystation/unitystation/pull/8696)
 * 2022/05/20: **[Balance]** several asteroids, lavaland, and Carverna have had areas covered in igneous or composite rock, making them less accessible unless higher tier tools are brought. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8696](https://github.com/unitystation/unitystation/pull/8696)
