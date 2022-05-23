@@ -2,6 +2,11 @@
 ---
 
 
+* 2022/05/23: **[New]** - Replaced AES encryption placeholder method with a simpler system for station bound radios. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8708](https://github.com/unitystation/unitystation/pull/8708)
+* 2022/05/23: **[New]** - Added Passcodes to the signals system. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8708](https://github.com/unitystation/unitystation/pull/8708)
+* 2022/05/23: **[Improvement]** - Improved UI for frequency tuner by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8708](https://github.com/unitystation/unitystation/pull/8708)
+* 2022/05/23: **[Improvement]** - Some items that have a signal emitter on them can show their frequency when examining them. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8708](https://github.com/unitystation/unitystation/pull/8708)
+* 2022/05/23: **[Fix]** - Added missing UI from remote signalers. You can now adjust the frequency and passcodes of remotes once again. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8708](https://github.com/unitystation/unitystation/pull/8708)
 * 2022/05/23: **[Balance]** ablative trenchcoat, MKIII SWAT armor, champion armor, and reflective vest are now immune to stun effects. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8711](https://github.com/unitystation/unitystation/pull/8711)
 * 2022/05/23: **[Balance]** nerfed captain's SWAT helmet to have the same armor protection as the suit. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8711](https://github.com/unitystation/unitystation/pull/8711)
 * 2022/05/23: **[Balance]** drake armor and bone armor now provide high protection against dismemberment. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8711](https://github.com/unitystation/unitystation/pull/8711)
