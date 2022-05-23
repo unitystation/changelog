@@ -2,6 +2,10 @@
 ---
 
 
+* 2022/05/23: **[Balance]** ablative trenchcoat, MKIII SWAT armor, champion armor, and reflective vest are now immune to stun effects. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8711](https://github.com/unitystation/unitystation/pull/8711)
+* 2022/05/23: **[Balance]** nerfed captain's SWAT helmet to have the same armor protection as the suit. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8711](https://github.com/unitystation/unitystation/pull/8711)
+* 2022/05/23: **[Balance]** drake armor and bone armor now provide high protection against dismemberment. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8711](https://github.com/unitystation/unitystation/pull/8711)
+* 2022/05/23: **[Fix]** Fixed mistake with drake armor that caused it to provide no protection. It is now quite robust. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8711](https://github.com/unitystation/unitystation/pull/8711)
 * 2022/05/21: **[New]** - Armors now have a parameter to prevent stuns. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8699](https://github.com/unitystation/unitystation/pull/8699)
 * 2022/05/21: **[Improvement]** - Highlanders have full stun immunity on their kilts now, you can no longer cheese fights with stuns anymore. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8699](https://github.com/unitystation/unitystation/pull/8699)
 * 2022/05/21: **[Improvement]** - Highlanders have full bullet immunity now and strong resistance to bombs. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8699](https://github.com/unitystation/unitystation/pull/8699)
