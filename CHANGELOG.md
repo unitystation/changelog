@@ -2,6 +2,8 @@
 ---
 
 
+* 2022/05/26: **[Improvement]** - Improves mobs explore objective by [IlinMihail](https://github.com/IlinMihail) in PR #[8703](https://github.com/unitystation/unitystation/pull/8703)
+* 2022/05/26: **[Fix]** - Fixes bots by [IlinMihail](https://github.com/IlinMihail) in PR #[8703](https://github.com/unitystation/unitystation/pull/8703)
 * 2022/05/23: **[Fix]** Clicking the lobby horn will make it HONK! by [Silver-8ce](https://github.com/Silver-8ce) in PR #[8714](https://github.com/unitystation/unitystation/pull/8714)
 * 2022/05/23: **[New]** - Replaced AES encryption placeholder method with a simpler system for station bound radios. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8708](https://github.com/unitystation/unitystation/pull/8708)
 * 2022/05/23: **[New]** - Added Passcodes to the signals system. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8708](https://github.com/unitystation/unitystation/pull/8708)
