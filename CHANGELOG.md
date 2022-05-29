@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/29: **[Fix]** - Fixes NRE with emotes not working on players without an occupation by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8736](https://github.com/unitystation/unitystation/pull/8736)
 * 2022/05/28: **[Fix]** - Stealth shoes no longer emit noise. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8719](https://github.com/unitystation/unitystation/pull/8719)
 * 2022/05/28: **[New]** Added convulsing status effect when electrocuted. by [corp-0](https://github.com/corp-0) in PR #[8705](https://github.com/unitystation/unitystation/pull/8705)
 * 2022/05/26: **[Fix]** killed the kraken , (fixed gun recoil showing for everyone) by [Bod9001](https://github.com/Bod9001) in PR #[8712](https://github.com/unitystation/unitystation/pull/8712)
