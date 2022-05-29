@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/29: **[Fix]** - Fixes stun immunity spawning particle feedback when not needed by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8742](https://github.com/unitystation/unitystation/pull/8742)
 * 2022/05/29: **[Fix]** - Fixed ore generation on lavaland and asteroids. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8726](https://github.com/unitystation/unitystation/pull/8726)
 * 2022/05/29: **[Fix]** - Fixes NRE with emotes not working on players without an occupation by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8736](https://github.com/unitystation/unitystation/pull/8736)
 * 2022/05/28: **[Fix]** - Stealth shoes no longer emit noise. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8719](https://github.com/unitystation/unitystation/pull/8719)
