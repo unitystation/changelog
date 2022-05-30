@@ -2,6 +2,16 @@
 ---
 
 
+* 2022/05/30: **[New]** Added dirty floor decals. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8725](https://github.com/unitystation/unitystation/pull/8725)
+* 2022/05/30: **[Balance]** There is now a meeting room for heads of staff in Fallstation. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8725](https://github.com/unitystation/unitystation/pull/8725)
+* 2022/05/30: **[Balance]** Randomized some of the loot in the Ancientstation. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8725](https://github.com/unitystation/unitystation/pull/8725)
+* 2022/05/30: **[Balance]** reduced the prevalence of reinforced windows in Fallstation where they were not needed. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8725](https://github.com/unitystation/unitystation/pull/8725)
+* 2022/05/30: **[Balance]** added cardboard sheets and wrapping paper to Fallstation's Cargo department. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8725](https://github.com/unitystation/unitystation/pull/8725)
+* 2022/05/30: **[Balance]** added a couple disposal bins to Fall's bridge. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8725](https://github.com/unitystation/unitystation/pull/8725)
+* 2022/05/30: **[Balance]** added lavaland Suit storage units to Fall's mining department. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8725](https://github.com/unitystation/unitystation/pull/8725)
+* 2022/05/30: **[Fix]** Fixed 5 different map mistakes with Fallstation's atmos pipes. Atmos should flow much better now. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8725](https://github.com/unitystation/unitystation/pull/8725)
+* 2022/05/30: **[Fix]** fixed some issues with floor decals in Fallstation and Ancientstation. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8725](https://github.com/unitystation/unitystation/pull/8725)
+* 2022/05/30: **[Fix]** fixed two issues with setting up the singularity and the plasma generator in Ancientstation. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8725](https://github.com/unitystation/unitystation/pull/8725)
 * 2022/05/29: **[Fix]** - Fixes stun immunity spawning particle feedback when not needed by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8742](https://github.com/unitystation/unitystation/pull/8742)
 * 2022/05/29: **[Fix]** - Fixed ore generation on lavaland and asteroids. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8726](https://github.com/unitystation/unitystation/pull/8726)
 * 2022/05/29: **[Fix]** - Fixes NRE with emotes not working on players without an occupation by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8736](https://github.com/unitystation/unitystation/pull/8736)
