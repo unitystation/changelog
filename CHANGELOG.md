@@ -2,6 +2,14 @@
 ---
 
 
+* 2022/05/30: **[Improvement]** Survival boxes now look distinct from regular boxes and show what kind of oxygen tank they come with on the box label. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8746](https://github.com/unitystation/unitystation/pull/8746)
+* 2022/05/30: **[Improvement]** EMP grenade box has an EMP grenade symbol on the label. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8746](https://github.com/unitystation/unitystation/pull/8746)
+* 2022/05/30: **[Improvement]** The AmmoTech now looks distinct from the SecTech, helping communicate it's purpose better. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8746](https://github.com/unitystation/unitystation/pull/8746)
+* 2022/05/30: **[Improvement]** sinks and water coolers have been visually updated. They now look nicer and sinks have proper directionals sprites now. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8746](https://github.com/unitystation/unitystation/pull/8746)
+* 2022/05/30: **[Balance]** Wood planks now spawn in stacks of 25 instead of 50 when drawn as maint loot. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8746](https://github.com/unitystation/unitystation/pull/8746)
+* 2022/05/30: **[Balance]** added sepia, cafeteria, and vaporware floor tile items so players can build those floors now. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8746](https://github.com/unitystation/unitystation/pull/8746)
+* 2022/05/30: **[Balance]** the spawn rate of contraband guns in the evidence lockers in maps has been increased. They should appear very consistently now. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8746](https://github.com/unitystation/unitystation/pull/8746)
+* 2022/05/30: **[Fix]** Sink visuals are no longer broken. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8746](https://github.com/unitystation/unitystation/pull/8746)
 * 2022/05/30: **[New]** Added dirty floor decals. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8725](https://github.com/unitystation/unitystation/pull/8725)
 * 2022/05/30: **[Balance]** There is now a meeting room for heads of staff in Fallstation. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8725](https://github.com/unitystation/unitystation/pull/8725)
 * 2022/05/30: **[Balance]** Randomized some of the loot in the Ancientstation. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8725](https://github.com/unitystation/unitystation/pull/8725)
