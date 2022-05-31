@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/05/31: **[Improvement]** Explosion refactor by [IlinMihail](https://github.com/IlinMihail) in PR #[8724](https://github.com/unitystation/unitystation/pull/8724)
 * 2022/05/31: **[New]** - Added three new threatening diseases that actually harm the player over time. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8720](https://github.com/unitystation/unitystation/pull/8720)
 * 2022/05/31: **[New]** - Some diseases can have random cures assigned when they first appear. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8720](https://github.com/unitystation/unitystation/pull/8720)
 * 2022/05/30: **[Improvement]** Survival boxes now look distinct from regular boxes and show what kind of oxygen tank they come with on the box label. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8746](https://github.com/unitystation/unitystation/pull/8746)
