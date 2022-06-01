@@ -2,6 +2,9 @@
 ---
 
 
+* 2022/06/01: **[New]** players can be thrown by [Bod9001](https://github.com/Bod9001) in PR #[8335](https://github.com/unitystation/unitystation/pull/8335)
+* 2022/06/01: **[Improvement]** Rubber banding should be less severe by [Bod9001](https://github.com/Bod9001) in PR #[8335](https://github.com/unitystation/unitystation/pull/8335)
+* 2022/06/01: **[Improvement]** server performance should be better by [Bod9001](https://github.com/Bod9001) in PR #[8335](https://github.com/unitystation/unitystation/pull/8335)
 * 2022/05/31: **[Improvement]** Explosion refactor by [IlinMihail](https://github.com/IlinMihail) in PR #[8724](https://github.com/unitystation/unitystation/pull/8724)
 * 2022/05/31: **[New]** - Added three new threatening diseases that actually harm the player over time. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8720](https://github.com/unitystation/unitystation/pull/8720)
 * 2022/05/31: **[New]** - Some diseases can have random cures assigned when they first appear. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8720](https://github.com/unitystation/unitystation/pull/8720)
