@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/06/02: **[Fix]** Reverts bad laggy AI code by [IlinMihail](https://github.com/IlinMihail) in PR #[8756](https://github.com/unitystation/unitystation/pull/8756)
 * 2022/06/01: **[New]** - The highlander event now has a timer of 15 minutes so people have a more sense of urgency to get that disk instead of goofing around. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8713](https://github.com/unitystation/unitystation/pull/8713)
 * 2022/06/01: **[New]** players can be thrown by [Bod9001](https://github.com/Bod9001) in PR #[8335](https://github.com/unitystation/unitystation/pull/8335)
 * 2022/06/01: **[Improvement]** Rubber banding should be less severe by [Bod9001](https://github.com/Bod9001) in PR #[8335](https://github.com/unitystation/unitystation/pull/8335)
