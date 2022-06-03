@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/06/03: **[Fix]** - The signal manager will now clear it's receivers list at the end of the round. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8727](https://github.com/unitystation/unitystation/pull/8727)
 * 2022/06/03: **[Fix]** Fixes ghost movement only working in two directions. #8751 by [Bod9001](https://github.com/Bod9001) in PR #[8757](https://github.com/unitystation/unitystation/pull/8757)
 * 2022/06/03: **[Fix]** You are not able to Pushing objects you are dragging  #8755 by [Bod9001](https://github.com/Bod9001) in PR #[8757](https://github.com/unitystation/unitystation/pull/8757)
 * 2022/06/03: **[Fix]** error on start-ups fixed by [Bod9001](https://github.com/Bod9001) in PR #[8757](https://github.com/unitystation/unitystation/pull/8757)
