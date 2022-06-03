@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/06/03: **[Balance]** - A lot of mobs no longer move like snails. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8759](https://github.com/unitystation/unitystation/pull/8759)
 * 2022/06/02: **[Fix]** - Protips will no longer try to trigger when called on other player objects that the player is not controlling. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8737](https://github.com/unitystation/unitystation/pull/8737)
 * 2022/06/02: **[Fix]** - Clamped the magnitude of protips' search radius and switched over strictly to client positions. This should finally solve the NRE spam on clients. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8737](https://github.com/unitystation/unitystation/pull/8737)
 * 2022/06/02: **[Fix]** Reverts bad laggy AI code by [IlinMihail](https://github.com/IlinMihail) in PR #[8756](https://github.com/unitystation/unitystation/pull/8756)
