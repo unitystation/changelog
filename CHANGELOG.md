@@ -2,6 +2,14 @@
 ---
 
 
+* 2022/06/04: **[Improvement]** Survival boxes now look distinct from regular boxes and show what kind of oxygen tank they come with on the box label. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8746](https://github.com/unitystation/unitystation/pull/8746)
+* 2022/06/04: **[Improvement]** EMP grenade box has an EMP grenade symbol on the label. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8746](https://github.com/unitystation/unitystation/pull/8746)
+* 2022/06/04: **[Improvement]** The AmmoTech now looks distinct from the SecTech, helping communicate it's purpose better. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8746](https://github.com/unitystation/unitystation/pull/8746)
+* 2022/06/04: **[Improvement]** sinks and water coolers have been visually updated. They now look nicer and sinks have proper directionals sprites now. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8746](https://github.com/unitystation/unitystation/pull/8746)
+* 2022/06/04: **[Balance]** Wood planks now spawn in stacks of 25 instead of 50 when drawn as maint loot. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8746](https://github.com/unitystation/unitystation/pull/8746)
+* 2022/06/04: **[Balance]** added sepia, cafeteria, and vaporware floor tile items so players can build those floors now. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8746](https://github.com/unitystation/unitystation/pull/8746)
+* 2022/06/04: **[Balance]** the spawn rate of contraband guns in the evidence lockers in maps has been increased. They should appear very consistently now. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8746](https://github.com/unitystation/unitystation/pull/8746)
+* 2022/06/04: **[Fix]** Sink visuals are no longer broken. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8746](https://github.com/unitystation/unitystation/pull/8746)
 * 2022/06/03: **[Fix]** - The signal manager will now clear it's receivers list at the end of the round. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8727](https://github.com/unitystation/unitystation/pull/8727)
 * 2022/06/03: **[Fix]** Fixes ghost movement only working in two directions. #8751 by [Bod9001](https://github.com/Bod9001) in PR #[8757](https://github.com/unitystation/unitystation/pull/8757)
 * 2022/06/03: **[Fix]** You are not able to Pushing objects you are dragging  #8755 by [Bod9001](https://github.com/Bod9001) in PR #[8757](https://github.com/unitystation/unitystation/pull/8757)
