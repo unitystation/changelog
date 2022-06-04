@@ -2,6 +2,12 @@
 ---
 
 
+* 2022/06/04: **[New]** added three new medical kits; oxygen deprivation treatment kit, toxin treatment kit, and surgery kit. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8768](https://github.com/unitystation/unitystation/pull/8768)
+* 2022/06/04: **[Balance]** the chemistry closet now comes with chemistry goodies instead of generic medical supplies. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8768](https://github.com/unitystation/unitystation/pull/8768)
+* 2022/06/04: **[Balance]** randomized some of the contents of the medicine closet. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8768](https://github.com/unitystation/unitystation/pull/8768)
+* 2022/06/04: **[Balance]** the NanoMed+ vendor has had most of it's chemistry supplies moved to the NanoDrug+ vendor. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8768](https://github.com/unitystation/unitystation/pull/8768)
+* 2022/06/04: **[Balance]** the basic NanoMed has had some of it's stock reduced. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8768](https://github.com/unitystation/unitystation/pull/8768)
+* 2022/06/04: **[Fix]** fixed a typo with the radiation treatment kit name. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8768](https://github.com/unitystation/unitystation/pull/8768)
 * 2022/06/04: **[Improvement]** Survival boxes now look distinct from regular boxes and show what kind of oxygen tank they come with on the box label. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8746](https://github.com/unitystation/unitystation/pull/8746)
 * 2022/06/04: **[Improvement]** EMP grenade box has an EMP grenade symbol on the label. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8746](https://github.com/unitystation/unitystation/pull/8746)
 * 2022/06/04: **[Improvement]** The AmmoTech now looks distinct from the SecTech, helping communicate it's purpose better. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8746](https://github.com/unitystation/unitystation/pull/8746)
