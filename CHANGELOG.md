@@ -2,6 +2,8 @@
 ---
 
 
+* 2022/06/06: **[Fix]** - Fixed issue where Jukeboxes would play more than two tracks at once. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8749](https://github.com/unitystation/unitystation/pull/8749)
+* 2022/06/06: **[Improvement]** - The Jukebox now has it's own audio bus and audio effect. No longer will you listen to muffled music. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8749](https://github.com/unitystation/unitystation/pull/8749)
 * 2022/06/04: **[New]** added three new medical kits; oxygen deprivation treatment kit, toxin treatment kit, and surgery kit. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8768](https://github.com/unitystation/unitystation/pull/8768)
 * 2022/06/04: **[Balance]** the chemistry closet now comes with chemistry goodies instead of generic medical supplies. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8768](https://github.com/unitystation/unitystation/pull/8768)
 * 2022/06/04: **[Balance]** randomized some of the contents of the medicine closet. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8768](https://github.com/unitystation/unitystation/pull/8768)
