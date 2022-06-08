@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/06/08: **[New]** - Ghosts can now change their movement speeds to move around the map much more quickly. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8799](https://github.com/unitystation/unitystation/pull/8799)
 * 2022/06/07: **[New]** Fallstation's chemistry room has gained a NanoDrug+ vendor and a chemistry closet stocked with basic medicines. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8798](https://github.com/unitystation/unitystation/pull/8798)
 * 2022/06/07: **[Balance]** Fallstation's medical department has been reworked. The department battery is now inside an engineering maintenance room. The CMO's office has been moved to the center and been given window shutters for privacy. Virology has been expanded and rearranged. An extra medical storage room has been added to the back. The Morge was shrunken slightly and has gained a medical supplies closet. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8798](https://github.com/unitystation/unitystation/pull/8798)
 * 2022/06/06: **[Fix]** - Fixed issue where Jukeboxes would play more than two tracks at once. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8749](https://github.com/unitystation/unitystation/pull/8749)
