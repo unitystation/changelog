@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/06/11: **[Fix]** Removed 18 alien eggs from Caverna, reducing performance drain for that map significantly. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8819](https://github.com/unitystation/unitystation/pull/8819)
 * 2022/06/10: **[Fix]** - Admins can no longer get kicked when experiencing lag while editing the cargo bounties. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8806](https://github.com/unitystation/unitystation/pull/8806)
 * 2022/06/10: **[Fix]** - When the cargo console goes back online it will now switch pages to a the cart instead of staying on the offline page. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8806](https://github.com/unitystation/unitystation/pull/8806)
 * 2022/06/10: **[Improvement]** - Admins have more logs now when using the cargo manager tool. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8806](https://github.com/unitystation/unitystation/pull/8806)
