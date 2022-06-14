@@ -2,6 +2,8 @@
 ---
 
 
+* 2022/06/14: **[New]** Adds Public Terminals and there ability to send and recieve departmental requests by [AtnerNT](https://github.com/AtnerNT) in PR #[8808](https://github.com/unitystation/unitystation/pull/8808)
+* 2022/06/14: **[New]** Maps Public Terminals to Ministation by [AtnerNT](https://github.com/AtnerNT) in PR #[8808](https://github.com/unitystation/unitystation/pull/8808)
 * 2022/06/14: **[Balance]** Outpost has gained functional ACUs. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8818](https://github.com/unitystation/unitystation/pull/8818)
 * 2022/06/14: **[Balance]** Outpost, Box, Square, and Ministation have gained Nanodrug+ vendors and chemistry closets in their chem departments by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8818](https://github.com/unitystation/unitystation/pull/8818)
 * 2022/06/14: **[Balance]** starting medbay medical supplies in square, box, and outpost station has been 50% more randomized. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8818](https://github.com/unitystation/unitystation/pull/8818)
