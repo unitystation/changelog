@@ -2,6 +2,10 @@
 ---
 
 
+* 2022/06/14: **[Balance]** Outpost has gained functional ACUs. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8818](https://github.com/unitystation/unitystation/pull/8818)
+* 2022/06/14: **[Balance]** Outpost, Box, Square, and Ministation have gained Nanodrug+ vendors and chemistry closets in their chem departments by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8818](https://github.com/unitystation/unitystation/pull/8818)
+* 2022/06/14: **[Balance]** starting medbay medical supplies in square, box, and outpost station has been 50% more randomized. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8818](https://github.com/unitystation/unitystation/pull/8818)
+* 2022/06/14: **[Fix]** fixed depowered HoP's office in squarestation. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8818](https://github.com/unitystation/unitystation/pull/8818)
 * 2022/06/12: **[Balance]** - Highlander is now an event only and not a gamemode. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8827](https://github.com/unitystation/unitystation/pull/8827)
 * 2022/06/12: **[Fix]** - Fixed ghost speed change feedback text appearing for alive players by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8825](https://github.com/unitystation/unitystation/pull/8825)
 * 2022/06/11: **[Fix]** hopefully makes dynamic UI actually clear properly by [Bod9001](https://github.com/Bod9001) in PR #[8821](https://github.com/unitystation/unitystation/pull/8821)
