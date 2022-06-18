@@ -2,6 +2,9 @@
 ---
 
 
+* 2022/06/18: **[New]** - The chat background is now animated when focusing/unfocusing. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8866](https://github.com/unitystation/unitystation/pull/8866)
+* 2022/06/18: **[Improvement]** - Hovering your mouse over the chat will now show the background to allow players to more easily read text. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8866](https://github.com/unitystation/unitystation/pull/8866)
+* 2022/06/18: **[Improvement]** - You can configure how transparent the chat background should be when unfocused. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8866](https://github.com/unitystation/unitystation/pull/8866)
 * 2022/06/14: **[New]** - Adds a new command for admins/testers (and soon mappers) to build conveyor belts quickly. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8805](https://github.com/unitystation/unitystation/pull/8805)
 * 2022/06/14: **[New]** Adds Public Terminals and there ability to send and recieve departmental requests by [AtnerNT](https://github.com/AtnerNT) in PR #[8808](https://github.com/unitystation/unitystation/pull/8808)
 * 2022/06/14: **[New]** Maps Public Terminals to Ministation by [AtnerNT](https://github.com/AtnerNT) in PR #[8808](https://github.com/unitystation/unitystation/pull/8808)
