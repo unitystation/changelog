@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/06/19: **[Improvement]** - Increases conveyor belt speed from 0.8 to 4 by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8873](https://github.com/unitystation/unitystation/pull/8873)
 * 2022/06/18: **[New]** - The chat background is now animated when focusing/unfocusing. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8866](https://github.com/unitystation/unitystation/pull/8866)
 * 2022/06/18: **[Improvement]** - Hovering your mouse over the chat will now show the background to allow players to more easily read text. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8866](https://github.com/unitystation/unitystation/pull/8866)
 * 2022/06/18: **[Improvement]** - You can configure how transparent the chat background should be when unfocused. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8866](https://github.com/unitystation/unitystation/pull/8866)
