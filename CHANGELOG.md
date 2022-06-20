@@ -2,6 +2,12 @@
 ---
 
 
+* 2022/06/20: **[Fix]** Fixes wind movement by [Bod9001](https://github.com/Bod9001) in PR #[8871](https://github.com/unitystation/unitystation/pull/8871)
+* 2022/06/20: **[Fix]** fixes conveyor belts being funny by [Bod9001](https://github.com/Bod9001) in PR #[8871](https://github.com/unitystation/unitystation/pull/8871)
+* 2022/06/20: **[Fix]** Fixes space walking not updating momentum on client by [Bod9001](https://github.com/Bod9001) in PR #[8871](https://github.com/unitystation/unitystation/pull/8871)
+* 2022/06/20: **[Fix]** fixes surgical table  you can put people on it now by [Bod9001](https://github.com/Bod9001) in PR #[8871](https://github.com/unitystation/unitystation/pull/8871)
+* 2022/06/20: **[Fix]** fixes  heal organ procedure, was buggy out with the usual interaction by [Bod9001](https://github.com/Bod9001) in PR #[8871](https://github.com/unitystation/unitystation/pull/8871)
+* 2022/06/20: **[Fix]** fixes extra lag from lots of failing move messages, causing the server to lag more by [Bod9001](https://github.com/Bod9001) in PR #[8871](https://github.com/unitystation/unitystation/pull/8871)
 * 2022/06/19: **[Improvement]** - Increases conveyor belt speed from 0.8 to 4 by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8873](https://github.com/unitystation/unitystation/pull/8873)
 * 2022/06/18: **[New]** - The chat background is now animated when focusing/unfocusing. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8866](https://github.com/unitystation/unitystation/pull/8866)
 * 2022/06/18: **[Improvement]** - Hovering your mouse over the chat will now show the background to allow players to more easily read text. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8866](https://github.com/unitystation/unitystation/pull/8866)
