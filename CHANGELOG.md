@@ -2,6 +2,10 @@
 ---
 
 
+* 2022/06/21: **[Improvement]** when removing a magazine from a gun, the magazine will be put in the player's empty hand if they have one. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8870](https://github.com/unitystation/unitystation/pull/8870)
+* 2022/06/21: **[Improvement]** guns have sound effects for when they load and unload magazines. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8870](https://github.com/unitystation/unitystation/pull/8870)
+* 2022/06/21: **[Balance]** Stalker SMG is now a smart weapon; it ejects empty magazines automatically onto the floor. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8870](https://github.com/unitystation/unitystation/pull/8870)
+* 2022/06/21: **[Balance]** tactical energy carbine has double the energy capacity and fires 20% faster than the standard energy carbine. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8870](https://github.com/unitystation/unitystation/pull/8870)
 * 2022/06/20: **[Fix]** Fixes wind movement by [Bod9001](https://github.com/Bod9001) in PR #[8871](https://github.com/unitystation/unitystation/pull/8871)
 * 2022/06/20: **[Fix]** fixes conveyor belts being funny by [Bod9001](https://github.com/Bod9001) in PR #[8871](https://github.com/unitystation/unitystation/pull/8871)
 * 2022/06/20: **[Fix]** Fixes space walking not updating momentum on client by [Bod9001](https://github.com/Bod9001) in PR #[8871](https://github.com/unitystation/unitystation/pull/8871)
