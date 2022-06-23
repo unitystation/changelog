@@ -2,6 +2,8 @@
 ---
 
 
+* 2022/06/23: **[Fix]** - Fixes chat background appearing again without user input. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8885](https://github.com/unitystation/unitystation/pull/8885)
+* 2022/06/23: **[Fix]** - Chat background is now hidden on startup as some people have seen it as a bug rather than intended desgin. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8885](https://github.com/unitystation/unitystation/pull/8885)
 * 2022/06/21: **[Improvement]** when removing a magazine from a gun, the magazine will be put in the player's empty hand if they have one. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8870](https://github.com/unitystation/unitystation/pull/8870)
 * 2022/06/21: **[Improvement]** guns have sound effects for when they load and unload magazines. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8870](https://github.com/unitystation/unitystation/pull/8870)
 * 2022/06/21: **[Balance]** Stalker SMG is now a smart weapon; it ejects empty magazines automatically onto the floor. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8870](https://github.com/unitystation/unitystation/pull/8870)
