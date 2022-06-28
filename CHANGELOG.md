@@ -2,6 +2,9 @@
 ---
 
 
+* 2022/06/28: **[Balance]** the medical kits crate now comes with an oxygen deprivation kit and a toxins treatment kit. The price of the crate has been increased from 800 to 1000. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8890](https://github.com/unitystation/unitystation/pull/8890)
+* 2022/06/28: **[Balance]** the medical peripherals crate now comes with a roller bed. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8890](https://github.com/unitystation/unitystation/pull/8890)
+* 2022/06/28: **[Fix]** Many pipes, pumps and connector port problems have been fixed in boxstation. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8890](https://github.com/unitystation/unitystation/pull/8890)
 * 2022/06/27: **[New]** Fallstation's chemistry room has gained a NanoDrug+ vendor and a chemistry closet stocked with basic medicines. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8798](https://github.com/unitystation/unitystation/pull/8798)
 * 2022/06/27: **[Balance]** Fallstation's medical department has been reworked. The department battery is now inside an engineering maintenance room. The CMO's office has been moved to the center and been given window shutters for privacy. Virology has been expanded and rearranged. An extra medical storage room has been added to the back. The Morgue was shrunken slightly and has gained a medical supplies closet. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8798](https://github.com/unitystation/unitystation/pull/8798)
 * 2022/06/23: **[Improvement]** Makes the code use the cached version of matrix bounds by [Bod9001](https://github.com/Bod9001) in PR #[8883](https://github.com/unitystation/unitystation/pull/8883)
