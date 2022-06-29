@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/06/29: **[Improvement]** chat background will also display chat now by [Bod9001](https://github.com/Bod9001) in PR #[8888](https://github.com/unitystation/unitystation/pull/8888)
 * 2022/06/28: **[Balance]** the medical kits crate now comes with an oxygen deprivation kit and a toxins treatment kit. The price of the crate has been increased from 800 to 1000. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8890](https://github.com/unitystation/unitystation/pull/8890)
 * 2022/06/28: **[Balance]** the medical peripherals crate now comes with a roller bed. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8890](https://github.com/unitystation/unitystation/pull/8890)
 * 2022/06/28: **[Fix]** Many pipes, pumps and connector port problems have been fixed in boxstation. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8890](https://github.com/unitystation/unitystation/pull/8890)
