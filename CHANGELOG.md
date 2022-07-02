@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/07/02: **[Fix]** Fixes job-ban logic inverted. Ghost roles work again. Non-job-banned players can now be selected for antagonism and banned players aren't. by [NoooneyDude](https://github.com/NoooneyDude) in PR #[8894](https://github.com/unitystation/unitystation/pull/8894)
 * 2022/06/30: **[Fix]** mobs being AFK by [Bod9001](https://github.com/Bod9001) in PR #[8891](https://github.com/unitystation/unitystation/pull/8891)
 * 2022/06/29: **[Improvement]** chat background will also display chat now by [Bod9001](https://github.com/Bod9001) in PR #[8888](https://github.com/unitystation/unitystation/pull/8888)
 * 2022/06/28: **[Balance]** the medical kits crate now comes with an oxygen deprivation kit and a toxins treatment kit. The price of the crate has been increased from 800 to 1000. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[8890](https://github.com/unitystation/unitystation/pull/8890)
