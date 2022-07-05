@@ -2,6 +2,17 @@
 ---
 
 
+* 2022/07/05: **[Fix]** fixed on station nuke Being pullble by [Bod9001](https://github.com/Bod9001) in PR #[8897](https://github.com/unitystation/unitystation/pull/8897)
+* 2022/07/05: **[Fix]** fixes cases where medicine would apply NaN by [Bod9001](https://github.com/Bod9001) in PR #[8897](https://github.com/unitystation/unitystation/pull/8897)
+* 2022/07/05: **[Fix]** you will no longer die from one packet of crisps by [Bod9001](https://github.com/Bod9001) in PR #[8897](https://github.com/unitystation/unitystation/pull/8897)
+* 2022/07/05: **[Fix]** medicine wasn't working correctly due to kidneys filtering out the reagent that is now fixed by [Bod9001](https://github.com/Bod9001) in PR #[8897](https://github.com/unitystation/unitystation/pull/8897)
+* 2022/07/05: **[Fix]** random item spawners in lockers should not appear any more by [Bod9001](https://github.com/Bod9001) in PR #[8897](https://github.com/unitystation/unitystation/pull/8897)
+* 2022/07/05: **[Improvement]** grinder has better interactions and has appropriate sprites for state by [Bod9001](https://github.com/Bod9001) in PR #[8897](https://github.com/unitystation/unitystation/pull/8897)
+* 2022/07/05: **[Fix]** fixes disconnected cable in command in fallstation by [Bod9001](https://github.com/Bod9001) in PR #[8897](https://github.com/unitystation/unitystation/pull/8897)
+* 2022/07/05: **[Fix]** fixes low oxygen warning not appearing by [Bod9001](https://github.com/Bod9001) in PR #[8897](https://github.com/unitystation/unitystation/pull/8897)
+* 2022/07/05: **[Fix]** Fixes issues with diagonal movement by [Bod9001](https://github.com/Bod9001) in PR #[8897](https://github.com/unitystation/unitystation/pull/8897)
+* 2022/07/05: **[Fix]** Fixes hydroponics running on clients by [Bod9001](https://github.com/Bod9001) in PR #[8897](https://github.com/unitystation/unitystation/pull/8897)
+* 2022/07/05: **[Fix]** fixes fat not filling up by [Bod9001](https://github.com/Bod9001) in PR #[8897](https://github.com/unitystation/unitystation/pull/8897)
 * 2022/07/02: **[Fix]** Fixes job-ban logic inverted. Ghost roles work again. Non-job-banned players can now be selected for antagonism and banned players aren't. by [NoooneyDude](https://github.com/NoooneyDude) in PR #[8894](https://github.com/unitystation/unitystation/pull/8894)
 * 2022/06/30: **[Fix]** mobs being AFK by [Bod9001](https://github.com/Bod9001) in PR #[8891](https://github.com/unitystation/unitystation/pull/8891)
 * 2022/06/29: **[Improvement]** chat background will also display chat now by [Bod9001](https://github.com/Bod9001) in PR #[8888](https://github.com/unitystation/unitystation/pull/8888)
