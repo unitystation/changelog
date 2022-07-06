@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/07/06: **[Fix]** - Players will no longer be shoved around by weak wind by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8901](https://github.com/unitystation/unitystation/pull/8901)
 * 2022/07/05: **[Fix]** fixed on station nuke Being pullble by [Bod9001](https://github.com/Bod9001) in PR #[8897](https://github.com/unitystation/unitystation/pull/8897)
 * 2022/07/05: **[Fix]** fixes cases where medicine would apply NaN by [Bod9001](https://github.com/Bod9001) in PR #[8897](https://github.com/unitystation/unitystation/pull/8897)
 * 2022/07/05: **[Fix]** you will no longer die from one packet of crisps by [Bod9001](https://github.com/Bod9001) in PR #[8897](https://github.com/unitystation/unitystation/pull/8897)
