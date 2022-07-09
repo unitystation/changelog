@@ -2,6 +2,16 @@
 ---
 
 
+* 2022/07/09: **[Fix]** - Fixed sicknesses getting random cures for the same contagious zone spawned. Now they all share the same cure. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8903](https://github.com/unitystation/unitystation/pull/8903)
+* 2022/07/09: **[Improvement]** - Some species can now be immune to specfic sicknesses. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8903](https://github.com/unitystation/unitystation/pull/8903)
+* 2022/07/09: **[Improvement]** - Sickness stages have been re-implemented and now are tick dependent. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8903](https://github.com/unitystation/unitystation/pull/8903)
+* 2022/07/09: **[Improvement]** - Sicknesses that physically harm the player now are much more threatening with each additonal stage. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8903](https://github.com/unitystation/unitystation/pull/8903)
+* 2022/07/09: **[Improvement]** - Syringes can now spread sicknesses. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8903](https://github.com/unitystation/unitystation/pull/8903)
+* 2022/07/09: **[Improvement]** - Made sickness event annoucement clearer so people stop getting confused about it being blob. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8903](https://github.com/unitystation/unitystation/pull/8903)
+* 2022/07/09: **[Improvement]** - All sicknesses have cooldowns by default now. They can be disabled by setting the amount of tickrate needed to progress stages to something below 2 seconds. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8903](https://github.com/unitystation/unitystation/pull/8903)
+* 2022/07/09: **[New]** - The Paranoia sickness now actually has some functionality. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8903](https://github.com/unitystation/unitystation/pull/8903)
+* 2022/07/09: **[New]** - Added the ability for players to lose the ability to recognize faces. Marking all players that talk infront of them as "Unknown". by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8903](https://github.com/unitystation/unitystation/pull/8903)
+* 2022/07/09: **[New]** - Added a new machine for virology, the BioChem Scanner. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8903](https://github.com/unitystation/unitystation/pull/8903)
 * 2022/07/09: **[Improvement]** - Players will now receive text explaining why they died when getting transported on the cargo shuttle. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8902](https://github.com/unitystation/unitystation/pull/8902)
 * 2022/07/09: **[Improvement]** - Cargo will now recycle worthless items and award 5, 10 or 15 credits per item. (value is random) by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8902](https://github.com/unitystation/unitystation/pull/8902)
 * 2022/07/09: **[Improvement]** - Centeral Communications will now charge 5, 10 or 15 credits per item that contains the trash trait that is thrown in cargo shuttle. (value is random) by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8902](https://github.com/unitystation/unitystation/pull/8902)
