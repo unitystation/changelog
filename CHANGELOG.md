@@ -2,6 +2,9 @@
 ---
 
 
+* 2022/07/09: **[Balance]** - Bombs have had their explosive radi tweaked. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8904](https://github.com/unitystation/unitystation/pull/8904)
+* 2022/07/09: **[Balance]** -  X4 strength has been nerfed from 7200 to 3000. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8904](https://github.com/unitystation/unitystation/pull/8904)
+* 2022/07/09: **[Balance]** - C4 strength has been buffed from 1750 to 1950 for easier airlock breaching. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8904](https://github.com/unitystation/unitystation/pull/8904)
 * 2022/07/09: **[New]** Detective now has forensics scanner by [Bod9001](https://github.com/Bod9001) in PR #[8900](https://github.com/unitystation/unitystation/pull/8900)
 * 2022/07/09: **[Improvement]** better system for fingerprints by [Bod9001](https://github.com/Bod9001) in PR #[8900](https://github.com/unitystation/unitystation/pull/8900)
 * 2022/07/06: **[Fix]** - Players will no longer be shoved around by weak wind by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8901](https://github.com/unitystation/unitystation/pull/8901)
