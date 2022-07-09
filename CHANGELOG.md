@@ -2,6 +2,13 @@
 ---
 
 
+* 2022/07/09: **[Improvement]** - Players will now receive text explaining why they died when getting transported on the cargo shuttle. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8902](https://github.com/unitystation/unitystation/pull/8902)
+* 2022/07/09: **[Improvement]** - Cargo will now recycle worthless items and award 5, 10 or 15 credits per item. (value is random) by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8902](https://github.com/unitystation/unitystation/pull/8902)
+* 2022/07/09: **[Improvement]** - Centeral Communications will now charge 5, 10 or 15 credits per item that contains the trash trait that is thrown in cargo shuttle. (value is random) by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8902](https://github.com/unitystation/unitystation/pull/8902)
+* 2022/07/09: **[Improvement]** - Cargo will now only sell gases in containers that are cargo approved (Like gas canisters). by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8902](https://github.com/unitystation/unitystation/pull/8902)
+* 2022/07/09: **[Fix]** - Fixed cargo randomly refusing to sell some items for no reason. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8902](https://github.com/unitystation/unitystation/pull/8902)
+* 2022/07/09: **[Fix]** - Fixed cargo refusing to sell bounty items if they were considered worthless. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8902](https://github.com/unitystation/unitystation/pull/8902)
+* 2022/07/09: **[Fix]** - Fixed cargo selling gas outside containers. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8902](https://github.com/unitystation/unitystation/pull/8902)
 * 2022/07/09: **[Balance]** - Bombs have had their explosive radi tweaked. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8904](https://github.com/unitystation/unitystation/pull/8904)
 * 2022/07/09: **[Balance]** -  X4 strength has been nerfed from 7200 to 3000. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8904](https://github.com/unitystation/unitystation/pull/8904)
 * 2022/07/09: **[Balance]** - C4 strength has been buffed from 1750 to 1950 for easier airlock breaching. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8904](https://github.com/unitystation/unitystation/pull/8904)
