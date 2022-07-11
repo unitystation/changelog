@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/07/11: **[Fix]** Players no longer are pushed by mobs by [Bod9001](https://github.com/Bod9001) in PR #[8905](https://github.com/unitystation/unitystation/pull/8905)
 * 2022/07/09: **[Fix]** - Fixed sicknesses getting random cures for the same contagious zone spawned. Now they all share the same cure. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8903](https://github.com/unitystation/unitystation/pull/8903)
 * 2022/07/09: **[Improvement]** - Some species can now be immune to specfic sicknesses. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8903](https://github.com/unitystation/unitystation/pull/8903)
 * 2022/07/09: **[Improvement]** - Sickness stages have been re-implemented and now are tick dependent. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8903](https://github.com/unitystation/unitystation/pull/8903)
