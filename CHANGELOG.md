@@ -2,6 +2,8 @@
 ---
 
 
+* 2022/07/12: **[Fix]** Players can no longer give birth to Xenos when dead, also meaning they cannot give birth to multiple Xenos by [AtnerNT](https://github.com/AtnerNT) in PR #[8911](https://github.com/unitystation/unitystation/pull/8911)
+* 2022/07/12: **[Improvement]** Facehuggers now implant a larvae organ instead of directly spawning the chestburster by [AtnerNT](https://github.com/AtnerNT) in PR #[8911](https://github.com/unitystation/unitystation/pull/8911)
 * 2022/07/11: **[Fix]** Players no longer are pushed by mobs by [Bod9001](https://github.com/Bod9001) in PR #[8905](https://github.com/unitystation/unitystation/pull/8905)
 * 2022/07/09: **[Fix]** - Fixed sicknesses getting random cures for the same contagious zone spawned. Now they all share the same cure. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8903](https://github.com/unitystation/unitystation/pull/8903)
 * 2022/07/09: **[Improvement]** - Some species can now be immune to specfic sicknesses. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8903](https://github.com/unitystation/unitystation/pull/8903)
