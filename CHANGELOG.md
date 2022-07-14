@@ -2,6 +2,8 @@
 ---
 
 
+* 2022/07/14: **[New]** Adds Implant explosives, Minibomb implants and Macrobomb implants by [AtnerNT](https://github.com/AtnerNT) in PR #[8913](https://github.com/unitystation/unitystation/pull/8913)
+* 2022/07/14: **[New]** Adds cyber lungs and cyber hearts by [AtnerNT](https://github.com/AtnerNT) in PR #[8913](https://github.com/unitystation/unitystation/pull/8913)
 * 2022/07/14: **[Fix]** players not taking damage when walking of the glass by [Bod9001](https://github.com/Bod9001) in PR #[8907](https://github.com/unitystation/unitystation/pull/8907)
 * 2022/07/14: **[Fix]** fixes  stomach fat not spawning in the correct organ by [Bod9001](https://github.com/Bod9001) in PR #[8907](https://github.com/unitystation/unitystation/pull/8907)
 * 2022/07/14: **[Fix]** fixes Bullets not doing any damage by [Bod9001](https://github.com/Bod9001) in PR #[8907](https://github.com/unitystation/unitystation/pull/8907)
