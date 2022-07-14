@@ -2,6 +2,11 @@
 ---
 
 
+* 2022/07/14: **[Fix]** players not taking damage when walking of the glass by [Bod9001](https://github.com/Bod9001) in PR #[8907](https://github.com/unitystation/unitystation/pull/8907)
+* 2022/07/14: **[Fix]** fixes  stomach fat not spawning in the correct organ by [Bod9001](https://github.com/Bod9001) in PR #[8907](https://github.com/unitystation/unitystation/pull/8907)
+* 2022/07/14: **[Fix]** fixes Bullets not doing any damage by [Bod9001](https://github.com/Bod9001) in PR #[8907](https://github.com/unitystation/unitystation/pull/8907)
+* 2022/07/14: **[Fix]** hopefully fixes range check on turret by [Bod9001](https://github.com/Bod9001) in PR #[8907](https://github.com/unitystation/unitystation/pull/8907)
+* 2022/07/14: **[Fix]** fixes jerky movement of chat bubble by [Bod9001](https://github.com/Bod9001) in PR #[8907](https://github.com/unitystation/unitystation/pull/8907)
 * 2022/07/14: **[Fix]** Fixes healing procedures leaving surgery UI on a blank screen by [AtnerNT](https://github.com/AtnerNT) in PR #[8915](https://github.com/unitystation/unitystation/pull/8915)
 * 2022/07/12: **[Fix]** Players can no longer give birth to Xenos when dead, also meaning they cannot give birth to multiple Xenos by [AtnerNT](https://github.com/AtnerNT) in PR #[8911](https://github.com/unitystation/unitystation/pull/8911)
 * 2022/07/12: **[Improvement]** Facehuggers now implant a larvae organ instead of directly spawning the chestburster by [AtnerNT](https://github.com/AtnerNT) in PR #[8911](https://github.com/unitystation/unitystation/pull/8911)
