@@ -2,6 +2,8 @@
 ---
 
 
+* 2022/07/15: **[Fix]** - The Jukebox will no longer play multiple songs at the same time. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8914](https://github.com/unitystation/unitystation/pull/8914)
+* 2022/07/15: **[Improvement]** - The Jukebox will now loopback to the first song once it reached the end of the playlist in autoplay and in navigating. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8914](https://github.com/unitystation/unitystation/pull/8914)
 * 2022/07/15: **[Fix]** Makes Turrets and Gateway unable to be pushed and pulled. by [AtnerNT](https://github.com/AtnerNT) in PR #[8916](https://github.com/unitystation/unitystation/pull/8916)
 * 2022/07/15: **[Fix]** Fixes disposalbin construction/deconstruction by [AtnerNT](https://github.com/AtnerNT) in PR #[8916](https://github.com/unitystation/unitystation/pull/8916)
 * 2022/07/15: **[Balance]** increases the amount of hunger gives/takes by [Bod9001](https://github.com/Bod9001) in PR #[8918](https://github.com/unitystation/unitystation/pull/8918)
