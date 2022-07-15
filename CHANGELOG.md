@@ -2,6 +2,8 @@
 ---
 
 
+* 2022/07/15: **[Fix]** Makes Turrets and Gateway unable to be pushed and pulled. by [AtnerNT](https://github.com/AtnerNT) in PR #[8916](https://github.com/unitystation/unitystation/pull/8916)
+* 2022/07/15: **[Fix]** Fixes disposalbin construction/deconstruction by [AtnerNT](https://github.com/AtnerNT) in PR #[8916](https://github.com/unitystation/unitystation/pull/8916)
 * 2022/07/15: **[Balance]** increases the amount of hunger gives/takes by [Bod9001](https://github.com/Bod9001) in PR #[8918](https://github.com/unitystation/unitystation/pull/8918)
 * 2022/07/15: **[Fix]** Fix some UI elements not showing up after loading. by [Copern](https://github.com/Copern) in PR #[8922](https://github.com/unitystation/unitystation/pull/8922)
 * 2022/07/14: **[New]** Adds Implant explosives, Minibomb implants and Macrobomb implants by [AtnerNT](https://github.com/AtnerNT) in PR #[8913](https://github.com/unitystation/unitystation/pull/8913)
