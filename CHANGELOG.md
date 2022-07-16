@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/07/16: **[Fix]** - Fixes lava tiles acting as walls. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8926](https://github.com/unitystation/unitystation/pull/8926)
 * 2022/07/16: **[Fix]** fixes guns doing no damage by [Bod9001](https://github.com/Bod9001) in PR #[8924](https://github.com/unitystation/unitystation/pull/8924)
 * 2022/07/16: **[Fix]** fixes  spawning in naked and suffocating by [Bod9001](https://github.com/Bod9001) in PR #[8924](https://github.com/unitystation/unitystation/pull/8924)
 * 2022/07/16: **[Fix]** fixes a few actions that would kick you from the server by [Bod9001](https://github.com/Bod9001) in PR #[8924](https://github.com/unitystation/unitystation/pull/8924)
