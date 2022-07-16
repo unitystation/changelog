@@ -2,6 +2,10 @@
 ---
 
 
+* 2022/07/16: **[Fix]** fixes guns doing no damage by [Bod9001](https://github.com/Bod9001) in PR #[8924](https://github.com/unitystation/unitystation/pull/8924)
+* 2022/07/16: **[Fix]** fixes  spawning in naked and suffocating by [Bod9001](https://github.com/Bod9001) in PR #[8924](https://github.com/unitystation/unitystation/pull/8924)
+* 2022/07/16: **[Fix]** fixes a few actions that would kick you from the server by [Bod9001](https://github.com/Bod9001) in PR #[8924](https://github.com/unitystation/unitystation/pull/8924)
+* 2022/07/16: **[Fix]** fixes syndicate outpost being incorrectly mapped by [Bod9001](https://github.com/Bod9001) in PR #[8924](https://github.com/unitystation/unitystation/pull/8924)
 * 2022/07/16: **[New]** - Adds the ability for station command to vote for an emergancy launch for the shuttle. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8912](https://github.com/unitystation/unitystation/pull/8912)
 * 2022/07/16: **[Improvement]** - Emagged shuttles depart in 5 seconds now instead of 10. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8912](https://github.com/unitystation/unitystation/pull/8912)
 * 2022/07/16: **[Fix]** - Dead bodies will no longer trigger sickness logic. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8925](https://github.com/unitystation/unitystation/pull/8925)
