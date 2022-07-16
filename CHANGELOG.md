@@ -2,6 +2,12 @@
 ---
 
 
+* 2022/07/16: **[Fix]** - Dead bodies will no longer trigger sickness logic. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8925](https://github.com/unitystation/unitystation/pull/8925)
+* 2022/07/16: **[Fix]** - Sickness will only check for players when trying to spread it now. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8925](https://github.com/unitystation/unitystation/pull/8925)
+* 2022/07/16: **[Fix]** - Replaced possible cures for some sicknesses using reagents that can be actually made in-game rather than placeholder ones that can't be obtained. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8925](https://github.com/unitystation/unitystation/pull/8925)
+* 2022/07/16: **[Balance]** - Sickness cure hints uses reactions now to more correctly get the cure. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8925](https://github.com/unitystation/unitystation/pull/8925)
+* 2022/07/16: **[Balance]** - The body will now check for the cure when consuming nutriant reagents. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8925](https://github.com/unitystation/unitystation/pull/8925)
+* 2022/07/16: **[Balance]** - The paranoia sickness now has a cooldown of 25 seconds instead of 10, requires 40 ticks to progress now rather than 50. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8925](https://github.com/unitystation/unitystation/pull/8925)
 * 2022/07/15: **[Fix]** - The Jukebox will no longer play multiple songs at the same time. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8914](https://github.com/unitystation/unitystation/pull/8914)
 * 2022/07/15: **[Improvement]** - The Jukebox will now loopback to the first song once it reached the end of the playlist in autoplay and in navigating. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8914](https://github.com/unitystation/unitystation/pull/8914)
 * 2022/07/15: **[Fix]** Makes Turrets and Gateway unable to be pushed and pulled. by [AtnerNT](https://github.com/AtnerNT) in PR #[8916](https://github.com/unitystation/unitystation/pull/8916)
