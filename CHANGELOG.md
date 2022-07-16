@@ -2,6 +2,8 @@
 ---
 
 
+* 2022/07/16: **[New]** - Adds the ability for station command to vote for an emergancy launch for the shuttle. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8912](https://github.com/unitystation/unitystation/pull/8912)
+* 2022/07/16: **[Improvement]** - Emagged shuttles depart in 5 seconds now instead of 10. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8912](https://github.com/unitystation/unitystation/pull/8912)
 * 2022/07/16: **[Fix]** - Dead bodies will no longer trigger sickness logic. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8925](https://github.com/unitystation/unitystation/pull/8925)
 * 2022/07/16: **[Fix]** - Sickness will only check for players when trying to spread it now. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8925](https://github.com/unitystation/unitystation/pull/8925)
 * 2022/07/16: **[Fix]** - Replaced possible cures for some sicknesses using reagents that can be actually made in-game rather than placeholder ones that can't be obtained. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8925](https://github.com/unitystation/unitystation/pull/8925)
