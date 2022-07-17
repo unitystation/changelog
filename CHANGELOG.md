@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/07/17: **[New]** Adds a tool for taking high res images of sections of the game world. by [AtnerNT](https://github.com/AtnerNT) in PR #[8944](https://github.com/unitystation/unitystation/pull/8944)
 * 2022/07/17: **[Fix]** Fix chat and profile screen scrollbars by [ThatDan123](https://github.com/ThatDan123) in PR #[8943](https://github.com/unitystation/unitystation/pull/8943)
 * 2022/07/17: **[Balance]** Cyborg Lungs and Hearts have had there EMP resistance reduced by [AtnerNT](https://github.com/AtnerNT) in PR #[8940](https://github.com/unitystation/unitystation/pull/8940)
 * 2022/07/17: **[Balance]** EMPs now do direct damage to cyborg organs with a chance of trauma by [AtnerNT](https://github.com/AtnerNT) in PR #[8940](https://github.com/unitystation/unitystation/pull/8940)
