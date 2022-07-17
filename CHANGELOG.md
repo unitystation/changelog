@@ -2,6 +2,11 @@
 ---
 
 
+* 2022/07/17: **[Balance]** Cyborg Lungs and Hearts have had there EMP resistance reduced by [AtnerNT](https://github.com/AtnerNT) in PR #[8940](https://github.com/unitystation/unitystation/pull/8940)
+* 2022/07/17: **[Balance]** EMPs now do direct damage to cyborg organs with a chance of trauma by [AtnerNT](https://github.com/AtnerNT) in PR #[8940](https://github.com/unitystation/unitystation/pull/8940)
+* 2022/07/17: **[Balance]** EMP damage to cybernetic organs increased by [AtnerNT](https://github.com/AtnerNT) in PR #[8940](https://github.com/unitystation/unitystation/pull/8940)
+* 2022/07/17: **[Balance]** Lungs had recently been buffed in terms of tox damage, cyborg lungs were still using old stats making them worse than regular lungs, this has been fixed and they are better again. by [AtnerNT](https://github.com/AtnerNT) in PR #[8940](https://github.com/unitystation/unitystation/pull/8940)
+* 2022/07/17: **[Fix]** Players can no longer choose to start with cyborg hearts or lungs by [AtnerNT](https://github.com/AtnerNT) in PR #[8940](https://github.com/unitystation/unitystation/pull/8940)
 * 2022/07/17: **[New]** - Adds in the mining scanner. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8920](https://github.com/unitystation/unitystation/pull/8920)
 * 2022/07/16: **[New]** Allow admins to set a max server frame rate by [ThatDan123](https://github.com/ThatDan123) in PR #[8937](https://github.com/unitystation/unitystation/pull/8937)
 * 2022/07/16: **[Fix]** Fixes some client side NRE spamming by [ThatDan123](https://github.com/ThatDan123) in PR #[8935](https://github.com/unitystation/unitystation/pull/8935)
