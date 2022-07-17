@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/07/17: **[New]** - Adds in the mining scanner. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8920](https://github.com/unitystation/unitystation/pull/8920)
 * 2022/07/16: **[New]** Allow admins to set a max server frame rate by [ThatDan123](https://github.com/ThatDan123) in PR #[8937](https://github.com/unitystation/unitystation/pull/8937)
 * 2022/07/16: **[Fix]** Fixes some client side NRE spamming by [ThatDan123](https://github.com/ThatDan123) in PR #[8935](https://github.com/unitystation/unitystation/pull/8935)
 * 2022/07/16: **[Fix]** - Fixes lava tiles acting as walls. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8926](https://github.com/unitystation/unitystation/pull/8926)
