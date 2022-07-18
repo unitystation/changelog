@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/07/18: **[Fix]** Fixes Chat bubble Jitter by [Bod9001](https://github.com/Bod9001) in PR #[8945](https://github.com/unitystation/unitystation/pull/8945)
 * 2022/07/18: **[New]** Adds per player OOC mute for Admins by [ThatDan123](https://github.com/ThatDan123) in PR #[8941](https://github.com/unitystation/unitystation/pull/8941)
 * 2022/07/18: **[Fix]** Exit to main menu not working - #8832 by [Copern](https://github.com/Copern) in PR #[8948](https://github.com/unitystation/unitystation/pull/8948)
 * 2022/07/17: **[New]** Adds a tool for taking high res images of sections of the game world. by [AtnerNT](https://github.com/AtnerNT) in PR #[8944](https://github.com/unitystation/unitystation/pull/8944)
