@@ -2,6 +2,9 @@
 ---
 
 
+* 2022/07/18: **[New]** Adds teleporter hub, console and station by [ThatDan123](https://github.com/ThatDan123) in PR #[8946](https://github.com/unitystation/unitystation/pull/8946)
+* 2022/07/18: **[New]** Adds hand teleporter by [ThatDan123](https://github.com/ThatDan123) in PR #[8946](https://github.com/unitystation/unitystation/pull/8946)
+* 2022/07/18: **[New]** Adds tracking beacons by [ThatDan123](https://github.com/ThatDan123) in PR #[8946](https://github.com/unitystation/unitystation/pull/8946)
 * 2022/07/18: **[New]** Blobs can now rally their spores to a tile, click on the Rally Ui button or middle click by [ThatDan123](https://github.com/ThatDan123) in PR #[8951](https://github.com/unitystation/unitystation/pull/8951)
 * 2022/07/18: **[Fix]** Fixes Chat bubble Jitter by [Bod9001](https://github.com/Bod9001) in PR #[8945](https://github.com/unitystation/unitystation/pull/8945)
 * 2022/07/18: **[New]** Adds per player OOC mute for Admins by [ThatDan123](https://github.com/ThatDan123) in PR #[8941](https://github.com/unitystation/unitystation/pull/8941)
