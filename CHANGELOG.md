@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/07/19: **[Fix]** Fixes adminhandtele's placing players between tiles by [AtnerNT](https://github.com/AtnerNT) in PR #[8960](https://github.com/unitystation/unitystation/pull/8960)
 * 2022/07/19: **[New]** Players can now prayer to admins. by [AtnerNT](https://github.com/AtnerNT) in PR #[8955](https://github.com/unitystation/unitystation/pull/8955)
 * 2022/07/19: **[Improvement]** Candles can now be lit and burn out over time by [AtnerNT](https://github.com/AtnerNT) in PR #[8955](https://github.com/unitystation/unitystation/pull/8955)
 * 2022/07/18: **[New]** Adds teleporter hub, console and station by [ThatDan123](https://github.com/ThatDan123) in PR #[8946](https://github.com/unitystation/unitystation/pull/8946)
