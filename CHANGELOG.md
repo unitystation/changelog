@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/07/19: **[Improvement]** the alt key can now be rebind to a different key by [Bod9001](https://github.com/Bod9001) in PR #[8962](https://github.com/unitystation/unitystation/pull/8962)
 * 2022/07/19: **[Fix]** Fixes adminhandtele's placing players between tiles by [AtnerNT](https://github.com/AtnerNT) in PR #[8960](https://github.com/unitystation/unitystation/pull/8960)
 * 2022/07/19: **[New]** Players can now prayer to admins. by [AtnerNT](https://github.com/AtnerNT) in PR #[8955](https://github.com/unitystation/unitystation/pull/8955)
 * 2022/07/19: **[Improvement]** Candles can now be lit and burn out over time by [AtnerNT](https://github.com/AtnerNT) in PR #[8955](https://github.com/unitystation/unitystation/pull/8955)
