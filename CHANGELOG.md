@@ -2,6 +2,8 @@
 ---
 
 
+* 2022/07/20: **[Fix]** Now face directions when holding ctrl by [ThatDan123](https://github.com/ThatDan123) in PR #[8963](https://github.com/unitystation/unitystation/pull/8963)
+* 2022/07/20: **[Fix]** Now face directions when bumping into stuff by [ThatDan123](https://github.com/ThatDan123) in PR #[8963](https://github.com/unitystation/unitystation/pull/8963)
 * 2022/07/20: **[Fix]** Fix highlander disk objective by [ThatDan123](https://github.com/ThatDan123) in PR #[8965](https://github.com/unitystation/unitystation/pull/8965)
 * 2022/07/19: **[Improvement]** the alt key can now be rebind to a different key by [Bod9001](https://github.com/Bod9001) in PR #[8962](https://github.com/unitystation/unitystation/pull/8962)
 * 2022/07/19: **[Fix]** Fixes adminhandtele's placing players between tiles by [AtnerNT](https://github.com/AtnerNT) in PR #[8960](https://github.com/unitystation/unitystation/pull/8960)
