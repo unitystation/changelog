@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/07/20: **[New]** Directional Windows can now be built by [ThatDan123](https://github.com/ThatDan123) in PR #[8970](https://github.com/unitystation/unitystation/pull/8970)
 * 2022/07/20: **[Fix]** Now face directions when holding ctrl by [ThatDan123](https://github.com/ThatDan123) in PR #[8963](https://github.com/unitystation/unitystation/pull/8963)
 * 2022/07/20: **[Fix]** Now face directions when bumping into stuff by [ThatDan123](https://github.com/ThatDan123) in PR #[8963](https://github.com/unitystation/unitystation/pull/8963)
 * 2022/07/20: **[Fix]** Fix highlander disk objective by [ThatDan123](https://github.com/ThatDan123) in PR #[8965](https://github.com/unitystation/unitystation/pull/8965)
