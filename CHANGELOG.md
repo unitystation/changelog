@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/07/20: **[Fix]** Action buttons should disappear for storages by [ThatDan123](https://github.com/ThatDan123) in PR #[8974](https://github.com/unitystation/unitystation/pull/8974)
 * 2022/07/20: **[New]** Windoors and Directional Windows now block atmos by [ThatDan123](https://github.com/ThatDan123) in PR #[8961](https://github.com/unitystation/unitystation/pull/8961)
 * 2022/07/20: **[New]** Directional Windows can now be built by [ThatDan123](https://github.com/ThatDan123) in PR #[8970](https://github.com/unitystation/unitystation/pull/8970)
 * 2022/07/20: **[Fix]** Now face directions when holding ctrl by [ThatDan123](https://github.com/ThatDan123) in PR #[8963](https://github.com/unitystation/unitystation/pull/8963)
