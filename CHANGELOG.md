@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/07/21: **[Fix]** Lobby music not playing after round restart by [ThatDan123](https://github.com/ThatDan123) in PR #[8984](https://github.com/unitystation/unitystation/pull/8984)
 * 2022/07/21: **[Fix]** Black Screen on Round Restart by [ThatDan123](https://github.com/ThatDan123) in PR #[8983](https://github.com/unitystation/unitystation/pull/8983)
 * 2022/07/21: **[New]** Adds teleporters to maps by [ThatDan123](https://github.com/ThatDan123) in PR #[8982](https://github.com/unitystation/unitystation/pull/8982)
 * 2022/07/21: **[New]** Adds a visual wind effect by [ThatDan123](https://github.com/ThatDan123) in PR #[8981](https://github.com/unitystation/unitystation/pull/8981)
