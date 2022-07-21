@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/07/21: **[New]** Adds a visual wind effect by [ThatDan123](https://github.com/ThatDan123) in PR #[8981](https://github.com/unitystation/unitystation/pull/8981)
 * 2022/07/21: **[Fix]** fixer temperature for a few reactions by [Bod9001](https://github.com/Bod9001) in PR #[8942](https://github.com/unitystation/unitystation/pull/8942)
 * 2022/07/21: **[Fix]** chemistry dispenser now displays proper units by [Bod9001](https://github.com/Bod9001) in PR #[8942](https://github.com/unitystation/unitystation/pull/8942)
 * 2022/07/21: **[Balance]** Buffs scrubbers effectiveness by [ThatDan123](https://github.com/ThatDan123) in PR #[8980](https://github.com/unitystation/unitystation/pull/8980)
