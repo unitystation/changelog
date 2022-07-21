@@ -2,6 +2,8 @@
 ---
 
 
+* 2022/07/21: **[Fix]** fixer temperature for a few reactions by [Bod9001](https://github.com/Bod9001) in PR #[8942](https://github.com/unitystation/unitystation/pull/8942)
+* 2022/07/21: **[Fix]** chemistry dispenser now displays proper units by [Bod9001](https://github.com/Bod9001) in PR #[8942](https://github.com/unitystation/unitystation/pull/8942)
 * 2022/07/21: **[Balance]** Buffs scrubbers effectiveness by [ThatDan123](https://github.com/ThatDan123) in PR #[8980](https://github.com/unitystation/unitystation/pull/8980)
 * 2022/07/21: **[Fix]** No longer breathe out water vapour as a gas by [ThatDan123](https://github.com/ThatDan123) in PR #[8980](https://github.com/unitystation/unitystation/pull/8980)
 * 2022/07/21: **[Fix]** No longer breathe out water vapour as a gas by [ThatDan123](https://github.com/ThatDan123) in PR #[8980](https://github.com/unitystation/unitystation/pull/8980)
