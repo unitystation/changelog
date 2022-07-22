@@ -2,6 +2,17 @@
 ---
 
 
+* 2022/07/22: **[Fix]** Ghosts teleporting loop issue by [ThatDan123](https://github.com/ThatDan123) in PR #[8991](https://github.com/unitystation/unitystation/pull/8991)
+* 2022/07/22: **[Fix]** Wind effect for ghosts by [ThatDan123](https://github.com/ThatDan123) in PR #[8991](https://github.com/unitystation/unitystation/pull/8991)
+* 2022/07/22: **[Fix]** Firelocks not being shut when behind doors by [ThatDan123](https://github.com/ThatDan123) in PR #[8991](https://github.com/unitystation/unitystation/pull/8991)
+* 2022/07/22: **[Improvement]** Closed firelocks will now be in front of doors by [ThatDan123](https://github.com/ThatDan123) in PR #[8991](https://github.com/unitystation/unitystation/pull/8991)
+* 2022/07/22: **[Fix]** Crowbar not working on firelocks by [ThatDan123](https://github.com/ThatDan123) in PR #[8991](https://github.com/unitystation/unitystation/pull/8991)
+* 2022/07/22: **[Fix]** Fire alarm sprites by [ThatDan123](https://github.com/ThatDan123) in PR #[8991](https://github.com/unitystation/unitystation/pull/8991)
+* 2022/07/22: **[Fix]** Fire alarm sound not playing correctly by [ThatDan123](https://github.com/ThatDan123) in PR #[8991](https://github.com/unitystation/unitystation/pull/8991)
+* 2022/07/22: **[Fix]** Fire alarms activating at round start as gas nodes not set up by [ThatDan123](https://github.com/ThatDan123) in PR #[8991](https://github.com/unitystation/unitystation/pull/8991)
+* 2022/07/22: **[Fix]** Hand teleporter interaction by [ThatDan123](https://github.com/ThatDan123) in PR #[8991](https://github.com/unitystation/unitystation/pull/8991)
+* 2022/07/22: **[Fix]** Door closing animation playing after manual close twice by [ThatDan123](https://github.com/ThatDan123) in PR #[8991](https://github.com/unitystation/unitystation/pull/8991)
+* 2022/07/22: **[Fix]** Hand teleporter random coords not allowing negative values by [ThatDan123](https://github.com/ThatDan123) in PR #[8991](https://github.com/unitystation/unitystation/pull/8991)
 * 2022/07/21: **[Fix]** Lobby music not playing after round restart by [ThatDan123](https://github.com/ThatDan123) in PR #[8984](https://github.com/unitystation/unitystation/pull/8984)
 * 2022/07/21: **[Fix]** Black Screen on Round Restart by [ThatDan123](https://github.com/ThatDan123) in PR #[8983](https://github.com/unitystation/unitystation/pull/8983)
 * 2022/07/21: **[New]** Adds teleporters to maps by [ThatDan123](https://github.com/ThatDan123) in PR #[8982](https://github.com/unitystation/unitystation/pull/8982)
