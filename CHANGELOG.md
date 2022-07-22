@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/07/22: **[Balance]** - Mining scanner price decreased to 500 from 2000 by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8989](https://github.com/unitystation/unitystation/pull/8989)
 * 2022/07/22: **[Fix]** Ghosts teleporting loop issue by [ThatDan123](https://github.com/ThatDan123) in PR #[8991](https://github.com/unitystation/unitystation/pull/8991)
 * 2022/07/22: **[Fix]** Wind effect for ghosts by [ThatDan123](https://github.com/ThatDan123) in PR #[8991](https://github.com/unitystation/unitystation/pull/8991)
 * 2022/07/22: **[Fix]** Firelocks not being shut when behind doors by [ThatDan123](https://github.com/ThatDan123) in PR #[8991](https://github.com/unitystation/unitystation/pull/8991)
