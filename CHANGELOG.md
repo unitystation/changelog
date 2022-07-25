@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/07/25: **[Improvement]** - Players who have no legs will be forced to crawl on the ground and cannot stand up until they get a new pair. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8986](https://github.com/unitystation/unitystation/pull/8986)
 * 2022/07/24: **[Improvement]** - You can now crawl under players without swapping places or getting blocked. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8971](https://github.com/unitystation/unitystation/pull/8971)
 * 2022/07/22: **[Fix]** Window Deconstruct Fix by [ThatDan123](https://github.com/ThatDan123) in PR #[8993](https://github.com/unitystation/unitystation/pull/8993)
 * 2022/07/22: **[Balance]** - Mining scanner price decreased to 500 from 2000 by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8989](https://github.com/unitystation/unitystation/pull/8989)
