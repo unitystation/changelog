@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/07/27: **[Fix]** You are now allowed to close the mentor tab by [Silver-8ce](https://github.com/Silver-8ce) in PR #[9007](https://github.com/unitystation/unitystation/pull/9007)
 * 2022/07/27: **[Fix]** fixes player being sent to NaN space when using fire extinguisher in space by [Bod9001](https://github.com/Bod9001) in PR #[9006](https://github.com/unitystation/unitystation/pull/9006)
 * 2022/07/27: **[Balance]** add circuit imprint a board to Cargo by [Bod9001](https://github.com/Bod9001) in PR #[9006](https://github.com/unitystation/unitystation/pull/9006)
 * 2022/07/27: **[Fix]** Fixes disposal bins not transporting gases properly by [Bod9001](https://github.com/Bod9001) in PR #[9006](https://github.com/unitystation/unitystation/pull/9006)
