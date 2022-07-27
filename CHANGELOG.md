@@ -2,6 +2,9 @@
 ---
 
 
+* 2022/07/27: **[Fix]** fixes player being sent to NaN space when using fire extinguisher in space by [Bod9001](https://github.com/Bod9001) in PR #[9006](https://github.com/unitystation/unitystation/pull/9006)
+* 2022/07/27: **[Balance]** add circuit imprint a board to Cargo by [Bod9001](https://github.com/Bod9001) in PR #[9006](https://github.com/unitystation/unitystation/pull/9006)
+* 2022/07/27: **[Fix]** Fixes disposal bins not transporting gases properly by [Bod9001](https://github.com/Bod9001) in PR #[9006](https://github.com/unitystation/unitystation/pull/9006)
 * 2022/07/26: **[Fix]** You can once again edit details of the ~~criminal scum~~ crew and their crimes by [Silver-8ce](https://github.com/Silver-8ce) in PR #[9003](https://github.com/unitystation/unitystation/pull/9003)
 * 2022/07/25: **[Improvement]** - Players who have no legs will be forced to crawl on the ground and cannot stand up until they get a new pair. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8986](https://github.com/unitystation/unitystation/pull/8986)
 * 2022/07/24: **[Improvement]** - You can now crawl under players without swapping places or getting blocked. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[8971](https://github.com/unitystation/unitystation/pull/8971)
