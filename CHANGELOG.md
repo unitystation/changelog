@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/07/28: **[New]** Adds touch-based medicine by [Bod9001](https://github.com/Bod9001) in PR #[8996](https://github.com/unitystation/unitystation/pull/8996)
 * 2022/07/27: **[Fix]** Fix ghost teleport by [ThatDan123](https://github.com/ThatDan123) in PR #[9010](https://github.com/unitystation/unitystation/pull/9010)
 * 2022/07/27: **[New]** Aliens are now playable by [ThatDan123](https://github.com/ThatDan123) in PR #[9009](https://github.com/unitystation/unitystation/pull/9009)
 * 2022/07/27: **[Fix]** You are now allowed to close the mentor tab by [Silver-8ce](https://github.com/Silver-8ce) in PR #[9007](https://github.com/unitystation/unitystation/pull/9007)
