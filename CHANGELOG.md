@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/08/01: **[Improvement]** walk in disposals now grabs a piece of air when closing by [Bod9001](https://github.com/Bod9001) in PR #[9013](https://github.com/unitystation/unitystation/pull/9013)
 * 2022/08/01: **[Fix]** - Fixed issue that caused gib logic to get interrupted by an NRE. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[9017](https://github.com/unitystation/unitystation/pull/9017)
 * 2022/07/28: **[New]** Adds touch-based medicine by [Bod9001](https://github.com/Bod9001) in PR #[8996](https://github.com/unitystation/unitystation/pull/8996)
 * 2022/07/27: **[Fix]** Fix ghost teleport by [ThatDan123](https://github.com/ThatDan123) in PR #[9010](https://github.com/unitystation/unitystation/pull/9010)
