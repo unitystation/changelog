@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/08/01: **[New]** Adds the side effects of the laughter chemical by [Silver-8ce](https://github.com/Silver-8ce) in PR #[9020](https://github.com/unitystation/unitystation/pull/9020)
 * 2022/08/01: **[Fix]** - Admins deleting a player now won't cause the server to break, as they will directly gib the player instead. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[9016](https://github.com/unitystation/unitystation/pull/9016)
 * 2022/08/01: **[Improvement]** walk in disposals now grabs a piece of air when closing by [Bod9001](https://github.com/Bod9001) in PR #[9013](https://github.com/unitystation/unitystation/pull/9013)
 * 2022/08/01: **[Fix]** - Fixed issue that caused gib logic to get interrupted by an NRE. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[9017](https://github.com/unitystation/unitystation/pull/9017)
