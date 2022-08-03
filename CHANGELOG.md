@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/08/03: **[Fix]** Fixes Item Giver tool by [ThatDan123](https://github.com/ThatDan123) in PR #[9030](https://github.com/unitystation/unitystation/pull/9030)
 * 2022/08/03: **[Fix]** - Floor hazards now update their positions when picked up. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[9026](https://github.com/unitystation/unitystation/pull/9026)
 * 2022/08/01: **[New]** Adds the side effects of the laughter chemical by [Silver-8ce](https://github.com/Silver-8ce) in PR #[9020](https://github.com/unitystation/unitystation/pull/9020)
 * 2022/08/01: **[Fix]** - Admins deleting a player now won't cause the server to break, as they will directly gib the player instead. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[9016](https://github.com/unitystation/unitystation/pull/9016)
