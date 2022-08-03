@@ -2,6 +2,9 @@
 ---
 
 
+* 2022/08/03: **[New]** Adds Blast Yield Detector by [pyrosshade](https://github.com/pyrosshade) in PR #[9027](https://github.com/unitystation/unitystation/pull/9027)
+* 2022/08/03: **[New]** Adds Blast Yield Detector circuitboard by [pyrosshade](https://github.com/pyrosshade) in PR #[9027](https://github.com/unitystation/unitystation/pull/9027)
+* 2022/08/03: **[New]** Adds ResearchServer circuitboard by [pyrosshade](https://github.com/pyrosshade) in PR #[9027](https://github.com/unitystation/unitystation/pull/9027)
 * 2022/08/03: **[Improvement]** Larva sprite can hide behind objects, Queen sprite  will be above most objects by [ThatDan123](https://github.com/ThatDan123) in PR #[9029](https://github.com/unitystation/unitystation/pull/9029)
 * 2022/08/03: **[Balance]** Hit chance increased to 80% for most aliens by [ThatDan123](https://github.com/ThatDan123) in PR #[9029](https://github.com/unitystation/unitystation/pull/9029)
 * 2022/08/03: **[Fix]** Fixes Item Giver tool by [ThatDan123](https://github.com/ThatDan123) in PR #[9030](https://github.com/unitystation/unitystation/pull/9030)
