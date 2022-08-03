@@ -2,6 +2,8 @@
 ---
 
 
+* 2022/08/03: **[Improvement]** Larva sprite can hide behind objects, Queen sprite  will be above most objects by [ThatDan123](https://github.com/ThatDan123) in PR #[9029](https://github.com/unitystation/unitystation/pull/9029)
+* 2022/08/03: **[Balance]** Hit chance increased to 80% for most aliens by [ThatDan123](https://github.com/ThatDan123) in PR #[9029](https://github.com/unitystation/unitystation/pull/9029)
 * 2022/08/03: **[Fix]** Fixes Item Giver tool by [ThatDan123](https://github.com/ThatDan123) in PR #[9030](https://github.com/unitystation/unitystation/pull/9030)
 * 2022/08/03: **[Fix]** - Floor hazards now update their positions when picked up. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[9026](https://github.com/unitystation/unitystation/pull/9026)
 * 2022/08/01: **[New]** Adds the side effects of the laughter chemical by [Silver-8ce](https://github.com/Silver-8ce) in PR #[9020](https://github.com/unitystation/unitystation/pull/9020)
