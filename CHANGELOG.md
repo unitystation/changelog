@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/08/04: **[Fix]** Teleporters will now transport throw items and objects push in by [ThatDan123](https://github.com/ThatDan123) in PR #[9039](https://github.com/unitystation/unitystation/pull/9039)
 * 2022/08/04: **[Fix]** Fix Ai and blob being pushed by [ThatDan123](https://github.com/ThatDan123) in PR #[9041](https://github.com/unitystation/unitystation/pull/9041)
 * 2022/08/04: **[Fix]** Aliens can now walk over eggs by [ThatDan123](https://github.com/ThatDan123) in PR #[9044](https://github.com/unitystation/unitystation/pull/9044)
 * 2022/08/04: **[Fix]** Ai can now see electrified doors by [ThatDan123](https://github.com/ThatDan123) in PR #[9045](https://github.com/unitystation/unitystation/pull/9045)
