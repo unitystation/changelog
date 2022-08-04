@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/08/04: **[Fix]** You can now use punctuation when commanding Ian by [ThatDan123](https://github.com/ThatDan123) in PR #[9037](https://github.com/unitystation/unitystation/pull/9037)
 * 2022/08/04: **[Fix]** Face huggers will attack players again by [ThatDan123](https://github.com/ThatDan123) in PR #[9038](https://github.com/unitystation/unitystation/pull/9038)
 * 2022/08/04: **[Fix]** Teleporters will now transport throw items and objects push in by [ThatDan123](https://github.com/ThatDan123) in PR #[9039](https://github.com/unitystation/unitystation/pull/9039)
 * 2022/08/04: **[Fix]** Fix Ai and blob being pushed by [ThatDan123](https://github.com/ThatDan123) in PR #[9041](https://github.com/unitystation/unitystation/pull/9041)
