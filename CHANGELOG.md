@@ -2,6 +2,8 @@
 ---
 
 
+* 2022/08/04: **[New]** - Added in a new suicide emote. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[9033](https://github.com/unitystation/unitystation/pull/9033)
+* 2022/08/04: **[New]** - You can now kill yourself while in critical condition to avoid long, boring waits of nobody finding your body. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[9033](https://github.com/unitystation/unitystation/pull/9033)
 * 2022/08/04: **[Fix]** You can now use punctuation when commanding Ian by [ThatDan123](https://github.com/ThatDan123) in PR #[9037](https://github.com/unitystation/unitystation/pull/9037)
 * 2022/08/04: **[Fix]** Face huggers will attack players again by [ThatDan123](https://github.com/ThatDan123) in PR #[9038](https://github.com/unitystation/unitystation/pull/9038)
 * 2022/08/04: **[Fix]** Teleporters will now transport throw items and objects push in by [ThatDan123](https://github.com/ThatDan123) in PR #[9039](https://github.com/unitystation/unitystation/pull/9039)
