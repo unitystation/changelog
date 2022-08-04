@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/08/04: **[Fix]** Aliens can now walk over eggs by [ThatDan123](https://github.com/ThatDan123) in PR #[9044](https://github.com/unitystation/unitystation/pull/9044)
 * 2022/08/04: **[Fix]** Ai can now see electrified doors by [ThatDan123](https://github.com/ThatDan123) in PR #[9045](https://github.com/unitystation/unitystation/pull/9045)
 * 2022/08/03: **[New]** Adds Blast Yield Detector by [pyrosshade](https://github.com/pyrosshade) in PR #[9027](https://github.com/unitystation/unitystation/pull/9027)
 * 2022/08/03: **[New]** Adds Blast Yield Detector circuitboard by [pyrosshade](https://github.com/pyrosshade) in PR #[9027](https://github.com/unitystation/unitystation/pull/9027)
