@@ -2,6 +2,8 @@
 ---
 
 
+* 2022/08/06: **[New]** smoke reaction now causes smoke by [Bod9001](https://github.com/Bod9001) in PR #[9046](https://github.com/unitystation/unitystation/pull/9046)
+* 2022/08/06: **[New]** Foam reaction now causes foam by [Bod9001](https://github.com/Bod9001) in PR #[9046](https://github.com/unitystation/unitystation/pull/9046)
 * 2022/08/05: **[New]** Adds the holosign projector tools for engineering, atmospherics, janitor and security by [ThatDan123](https://github.com/ThatDan123) in PR #[9036](https://github.com/unitystation/unitystation/pull/9036)
 * 2022/08/04: **[New]** - Added in a new suicide emote. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[9033](https://github.com/unitystation/unitystation/pull/9033)
 * 2022/08/04: **[New]** - You can now kill yourself while in critical condition to avoid long, boring waits of nobody finding your body. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[9033](https://github.com/unitystation/unitystation/pull/9033)
