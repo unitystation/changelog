@@ -2,6 +2,8 @@
 ---
 
 
+* 2022/08/07: **[Fix]** Shuttle console now updates position properly by [Bod9001](https://github.com/Bod9001) in PR #[9069](https://github.com/unitystation/unitystation/pull/9069)
+* 2022/08/07: **[Fix]** foam doesn't go into space matrix randomly by [Bod9001](https://github.com/Bod9001) in PR #[9069](https://github.com/unitystation/unitystation/pull/9069)
 * 2022/08/07: **[New]** Adds language books by [ThatDan123](https://github.com/ThatDan123) in PR #[9068](https://github.com/unitystation/unitystation/pull/9068)
 * 2022/08/07: **[New]** Languages! by [ThatDan123](https://github.com/ThatDan123) in PR #[9032](https://github.com/unitystation/unitystation/pull/9032)
 * 2022/08/07: **[New]** Aliens can now vent crawl by [ThatDan123](https://github.com/ThatDan123) in PR #[9061](https://github.com/unitystation/unitystation/pull/9061)
