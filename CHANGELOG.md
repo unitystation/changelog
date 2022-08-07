@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/08/07: **[New]** Adds T-ray Scanners which can show the underfloor pipes and wires by [ThatDan123](https://github.com/ThatDan123) in PR #[9062](https://github.com/unitystation/unitystation/pull/9062)
 * 2022/08/07: **[Fix]** Pipes and wires should now render on top of each other correctly by [ThatDan123](https://github.com/ThatDan123) in PR #[9049](https://github.com/unitystation/unitystation/pull/9049)
 * 2022/08/07: **[Fix]** Fixes slippery not being synchronised  to client  With foam. by [Bod9001](https://github.com/Bod9001) in PR #[9065](https://github.com/unitystation/unitystation/pull/9065)
 * 2022/08/06: **[Balance]** - Nerfed running speed for limbs by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[9063](https://github.com/unitystation/unitystation/pull/9063)
