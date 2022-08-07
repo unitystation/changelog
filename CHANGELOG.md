@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/08/07: **[New]** Languages! by [ThatDan123](https://github.com/ThatDan123) in PR #[9032](https://github.com/unitystation/unitystation/pull/9032)
 * 2022/08/07: **[New]** Aliens can now vent crawl by [ThatDan123](https://github.com/ThatDan123) in PR #[9061](https://github.com/unitystation/unitystation/pull/9061)
 * 2022/08/07: **[New]** Adds T-ray Scanners which can show the underfloor pipes and wires by [ThatDan123](https://github.com/ThatDan123) in PR #[9062](https://github.com/unitystation/unitystation/pull/9062)
 * 2022/08/07: **[Fix]** Pipes and wires should now render on top of each other correctly by [ThatDan123](https://github.com/ThatDan123) in PR #[9049](https://github.com/unitystation/unitystation/pull/9049)
