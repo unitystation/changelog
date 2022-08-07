@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/08/07: **[Fix]** Fixes slippery not being synchronised  to client  With foam. by [Bod9001](https://github.com/Bod9001) in PR #[9065](https://github.com/unitystation/unitystation/pull/9065)
 * 2022/08/06: **[Balance]** - Nerfed running speed for limbs by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[9063](https://github.com/unitystation/unitystation/pull/9063)
 * 2022/08/06: **[New]** smoke reaction now causes smoke by [Bod9001](https://github.com/Bod9001) in PR #[9046](https://github.com/unitystation/unitystation/pull/9046)
 * 2022/08/06: **[New]** Foam reaction now causes foam by [Bod9001](https://github.com/Bod9001) in PR #[9046](https://github.com/unitystation/unitystation/pull/9046)
