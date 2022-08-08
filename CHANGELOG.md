@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/08/08: **[New]** - Adds in Access Remotes for head of departments. Item can be found in their lockers. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[9035](https://github.com/unitystation/unitystation/pull/9035)
 * 2022/08/08: **[New]** - Added the ability for servers to display their own rules. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[9048](https://github.com/unitystation/unitystation/pull/9048)
 * 2022/08/08: **[Fix]** - Timed events will properly show up in the correct place this time. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[9048](https://github.com/unitystation/unitystation/pull/9048)
 * 2022/08/07: **[Fix]** Shuttle console now updates position properly by [Bod9001](https://github.com/Bod9001) in PR #[9069](https://github.com/unitystation/unitystation/pull/9069)
