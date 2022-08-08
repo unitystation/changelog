@@ -2,6 +2,8 @@
 ---
 
 
+* 2022/08/08: **[New]** - Added the ability for servers to display their own rules. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[9048](https://github.com/unitystation/unitystation/pull/9048)
+* 2022/08/08: **[Fix]** - Timed events will properly show up in the correct place this time. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[9048](https://github.com/unitystation/unitystation/pull/9048)
 * 2022/08/07: **[Fix]** Shuttle console now updates position properly by [Bod9001](https://github.com/Bod9001) in PR #[9069](https://github.com/unitystation/unitystation/pull/9069)
 * 2022/08/07: **[Fix]** foam doesn't go into space matrix randomly by [Bod9001](https://github.com/Bod9001) in PR #[9069](https://github.com/unitystation/unitystation/pull/9069)
 * 2022/08/07: **[New]** Adds language books by [ThatDan123](https://github.com/ThatDan123) in PR #[9068](https://github.com/unitystation/unitystation/pull/9068)
