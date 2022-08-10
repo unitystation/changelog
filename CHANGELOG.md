@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/08/10: **[New]** - Add Propulsion from Handheld canisters. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[9034](https://github.com/unitystation/unitystation/pull/9034)
 * 2022/08/09: **[New]** - Players will now crawl when slipped and are no longer stunned. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[9047](https://github.com/unitystation/unitystation/pull/9047)
 * 2022/08/08: **[New]** - Adds in Access Remotes for head of departments. Item can be found in their lockers. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[9035](https://github.com/unitystation/unitystation/pull/9035)
 * 2022/08/08: **[New]** - Added the ability for servers to display their own rules. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[9048](https://github.com/unitystation/unitystation/pull/9048)
