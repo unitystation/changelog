@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/08/12: **[Improvement]** - You'll get a message explaining that lockers can indeed be welded open now. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[9113](https://github.com/unitystation/unitystation/pull/9113)
 * 2022/08/12: **[New]** Adds the Artifact research console and the ability to sell research artifact data to cargo by [AtnerNT](https://github.com/AtnerNT) in PR #[9075](https://github.com/unitystation/unitystation/pull/9075)
 * 2022/08/12: **[New]** Adds artifact sampling and the artifact analyser by [AtnerNT](https://github.com/AtnerNT) in PR #[9075](https://github.com/unitystation/unitystation/pull/9075)
 * 2022/08/12: **[New]** Adds the sample container and handpick by [AtnerNT](https://github.com/AtnerNT) in PR #[9075](https://github.com/unitystation/unitystation/pull/9075)
