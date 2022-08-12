@@ -2,6 +2,13 @@
 ---
 
 
+* 2022/08/12: **[New]** Adds the Artifact research console and the ability to sell research artifact data to cargo by [AtnerNT](https://github.com/AtnerNT) in PR #[9075](https://github.com/unitystation/unitystation/pull/9075)
+* 2022/08/12: **[New]** Adds artifact sampling and the artifact analyser by [AtnerNT](https://github.com/AtnerNT) in PR #[9075](https://github.com/unitystation/unitystation/pull/9075)
+* 2022/08/12: **[New]** Adds the sample container and handpick by [AtnerNT](https://github.com/AtnerNT) in PR #[9075](https://github.com/unitystation/unitystation/pull/9075)
+* 2022/08/12: **[New]** Adds an anomaly armour property, as well as 2 new armour sets (AP hardsuit and anomaly suit) to accompany by [AtnerNT](https://github.com/AtnerNT) in PR #[9075](https://github.com/unitystation/unitystation/pull/9075)
+* 2022/08/12: **[Improvement]** Mining hardsuit and RD hardsuit have gained anomaly armour by [AtnerNT](https://github.com/AtnerNT) in PR #[9075](https://github.com/unitystation/unitystation/pull/9075)
+* 2022/08/12: **[Improvement]** Artifacts have been reworked to have composition dependent effects and use scriptable objects. by [AtnerNT](https://github.com/AtnerNT) in PR #[9075](https://github.com/unitystation/unitystation/pull/9075)
+* 2022/08/12: **[Improvement]** Artifacts now have dormancy by [AtnerNT](https://github.com/AtnerNT) in PR #[9075](https://github.com/unitystation/unitystation/pull/9075)
 * 2022/08/12: **[Fix]** - Fixes clearance for door's remotes. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[9111](https://github.com/unitystation/unitystation/pull/9111)
 * 2022/08/10: **[New]** - Add Propulsion from Handheld canisters. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[9034](https://github.com/unitystation/unitystation/pull/9034)
 * 2022/08/09: **[New]** - Players will now crawl when slipped and are no longer stunned. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[9047](https://github.com/unitystation/unitystation/pull/9047)
