@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/08/14: **[Fix]** Fixes missing pipes,disposals and wires in various swaurestation departments by [AtnerNT](https://github.com/AtnerNT) in PR #[9125](https://github.com/unitystation/unitystation/pull/9125)
 * 2022/08/13: **[Improvement]** Maps Xenoarcheology onto Mini & squarestation. Also adds a protolathe to square by [AtnerNT](https://github.com/AtnerNT) in PR #[9117](https://github.com/unitystation/unitystation/pull/9117)
 * 2022/08/12: **[Fix]** - Sickness gets the right cure now. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[9110](https://github.com/unitystation/unitystation/pull/9110)
 * 2022/08/12: **[Fix]** Fixes desync that could occur with the Artifact Research Console on high ping by [AtnerNT](https://github.com/AtnerNT) in PR #[9115](https://github.com/unitystation/unitystation/pull/9115)
