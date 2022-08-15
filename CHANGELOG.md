@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/08/15: **[Improvement]** UI should now be a bit more resilient when re-logging by [Bod9001](https://github.com/Bod9001) in PR #[9126](https://github.com/unitystation/unitystation/pull/9126)
 * 2022/08/14: **[Fix]** Fixes missing pipes,disposals and wires in various swaurestation departments by [AtnerNT](https://github.com/AtnerNT) in PR #[9125](https://github.com/unitystation/unitystation/pull/9125)
 * 2022/08/13: **[Improvement]** Maps Xenoarcheology onto Mini & squarestation. Also adds a protolathe to square by [AtnerNT](https://github.com/AtnerNT) in PR #[9117](https://github.com/unitystation/unitystation/pull/9117)
 * 2022/08/12: **[Fix]** - Sickness gets the right cure now. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[9110](https://github.com/unitystation/unitystation/pull/9110)
