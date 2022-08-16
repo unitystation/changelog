@@ -2,6 +2,8 @@
 ---
 
 
+* 2022/08/16: **[Improvement]** remove the pog and box station, due to how outdated they are by [Bod9001](https://github.com/Bod9001) in PR #[9133](https://github.com/unitystation/unitystation/pull/9133)
+* 2022/08/16: **[Improvement]** Tweaked what counts is high and medium pop medPopMinLimit:25 highPopMinLimit:40 by [Bod9001](https://github.com/Bod9001) in PR #[9133](https://github.com/unitystation/unitystation/pull/9133)
 * 2022/08/15: **[Fix]** - Gibbed players will no longer have their ghosts spawn in the void of space. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[9128](https://github.com/unitystation/unitystation/pull/9128)
 * 2022/08/15: **[Improvement]** UI should now be a bit more resilient when re-logging by [Bod9001](https://github.com/Bod9001) in PR #[9126](https://github.com/unitystation/unitystation/pull/9126)
 * 2022/08/14: **[Fix]** Fixes missing pipes,disposals and wires in various swaurestation departments by [AtnerNT](https://github.com/AtnerNT) in PR #[9125](https://github.com/unitystation/unitystation/pull/9125)
