@@ -2,6 +2,8 @@
 ---
 
 
+* 2022/08/18: **[New]** - Admins will now receive logs when someone emags any shuttle console including the emergency shuttle console. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[9138](https://github.com/unitystation/unitystation/pull/9138)
+* 2022/08/18: **[New]** - Admins will now receive logs when someone votes for the emergency shuttle to leave early. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[9138](https://github.com/unitystation/unitystation/pull/9138)
 * 2022/08/16: **[Improvement]** remove the pog and box station, due to how outdated they are by [Bod9001](https://github.com/Bod9001) in PR #[9133](https://github.com/unitystation/unitystation/pull/9133)
 * 2022/08/16: **[Improvement]** Tweaked what counts is high and medium pop medPopMinLimit:25 highPopMinLimit:40 by [Bod9001](https://github.com/Bod9001) in PR #[9133](https://github.com/unitystation/unitystation/pull/9133)
 * 2022/08/15: **[Fix]** - Gibbed players will no longer have their ghosts spawn in the void of space. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[9128](https://github.com/unitystation/unitystation/pull/9128)
