@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/08/20: **[Improvement]** added some more chemistry Medicine by [Bod9001](https://github.com/Bod9001) in PR #[9141](https://github.com/unitystation/unitystation/pull/9141)
 * 2022/08/18: **[Fix]** - Fixes a server kick that would happen when the player has invalid/corrupt addressables. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[9136](https://github.com/unitystation/unitystation/pull/9136)
 * 2022/08/18: **[Improvement]** add Tray scanners to stuff by [Bod9001](https://github.com/Bod9001) in PR #[9134](https://github.com/unitystation/unitystation/pull/9134)
 * 2022/08/18: **[New]** - Admins will now receive logs when someone emags any shuttle console including the emergency shuttle console. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[9138](https://github.com/unitystation/unitystation/pull/9138)
