@@ -2,6 +2,10 @@
 ---
 
 
+* 2022/08/21: **[Improvement]** - Conveyor Belts now move things faster. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[9137](https://github.com/unitystation/unitystation/pull/9137)
+* 2022/08/21: **[Fix]** - You can now interact with items and players again that are moving on the conveyor belt. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[9137](https://github.com/unitystation/unitystation/pull/9137)
+* 2022/08/21: **[Fix]** - Items now no longer bounce off walls and solid objects while moving on the conveyor belt. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[9137](https://github.com/unitystation/unitystation/pull/9137)
+* 2022/08/21: **[Fix]** - Items will no longer go out of sync when pushed slowly for too long on conveyor belts. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[9137](https://github.com/unitystation/unitystation/pull/9137)
 * 2022/08/21: **[Fix]** Windows should no longer disappear outside view by [ThatDan123](https://github.com/ThatDan123) in PR #[9149](https://github.com/unitystation/unitystation/pull/9149)
 * 2022/08/21: **[Fix]** Aliens can now survive in space by [ThatDan123](https://github.com/ThatDan123) in PR #[9150](https://github.com/unitystation/unitystation/pull/9150)
 * 2022/08/20: **[New]** - Added the ability to create more detailed parallax backgrounds. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[9143](https://github.com/unitystation/unitystation/pull/9143)
