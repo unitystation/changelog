@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/08/21: **[New]** - Status displays have their text color update when the alert level changes. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[9129](https://github.com/unitystation/unitystation/pull/9129)
 * 2022/08/21: **[Improvement]** - Conveyor Belts now move things faster. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[9137](https://github.com/unitystation/unitystation/pull/9137)
 * 2022/08/21: **[Fix]** - You can now interact with items and players again that are moving on the conveyor belt. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[9137](https://github.com/unitystation/unitystation/pull/9137)
 * 2022/08/21: **[Fix]** - Items now no longer bounce off walls and solid objects while moving on the conveyor belt. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[9137](https://github.com/unitystation/unitystation/pull/9137)
