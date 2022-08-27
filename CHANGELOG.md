@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/08/27: **[Balance]** Implant explosives will now blow off legs and arms if placed in them by [AtnerNT](https://github.com/AtnerNT) in PR #[9132](https://github.com/unitystation/unitystation/pull/9132)
 * 2022/08/23: **[Improvement]** Smaller hollow projector by [Bod9001](https://github.com/Bod9001) in PR #[9153](https://github.com/unitystation/unitystation/pull/9153)
 * 2022/08/23: **[Improvement]** Stop throwing stuff on yourself by [Bod9001](https://github.com/Bod9001) in PR #[9153](https://github.com/unitystation/unitystation/pull/9153)
 * 2022/08/23: **[New]** Admins can now place and remove tiles by [ThatDan123](https://github.com/ThatDan123) in PR #[9156](https://github.com/unitystation/unitystation/pull/9156)
