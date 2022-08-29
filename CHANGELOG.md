@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/08/29: **[Improvement]** Re-added boxstation to the high population map pool. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[9175](https://github.com/unitystation/unitystation/pull/9175)
 * 2022/08/29: **[Fix]** - Fixes empty MOTD window that doesn't get updated in esc menu by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[9177](https://github.com/unitystation/unitystation/pull/9177)
 * 2022/08/28: **[Fix]** removed duplicate, non-functioning scalpel from all maps. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[9176](https://github.com/unitystation/unitystation/pull/9176)
 * 2022/08/28: **[Fix]** fixed the scalpel's item description. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[9176](https://github.com/unitystation/unitystation/pull/9176)
