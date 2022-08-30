@@ -2,6 +2,12 @@
 ---
 
 
+* 2022/08/30: **[Fix]** Fixes an issue with implanters and an issue with implant explosives introduced in the same pr by [AtnerNT](https://github.com/AtnerNT) in PR #[9182](https://github.com/unitystation/unitystation/pull/9182)
+* 2022/08/30: **[Fix]** Clamps GasMix temperature to be a minimum of 0K. No more below absolute 0 temps! by [AtnerNT](https://github.com/AtnerNT) in PR #[9182](https://github.com/unitystation/unitystation/pull/9182)
+* 2022/08/30: **[Fix]** Rest button now respects the players current laydown state, you no longer have to lay down in order to stand up by [AtnerNT](https://github.com/AtnerNT) in PR #[9182](https://github.com/unitystation/unitystation/pull/9182)
+* 2022/08/30: **[Improvement]** Adds captains jetpack to the SSUcaptain spawn list by [AtnerNT](https://github.com/AtnerNT) in PR #[9182](https://github.com/unitystation/unitystation/pull/9182)
+* 2022/08/30: **[Improvement]** Adds magboots to the SSUengineer spawn list by [AtnerNT](https://github.com/AtnerNT) in PR #[9182](https://github.com/unitystation/unitystation/pull/9182)
+* 2022/08/30: **[Improvement]** Adds Welding Fuel to mini engineering aswell has addition export scanners/hand labelers to ministation cargo by [AtnerNT](https://github.com/AtnerNT) in PR #[9182](https://github.com/unitystation/unitystation/pull/9182)
 * 2022/08/29: **[Improvement]** Re-added boxstation to the high population map pool. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[9175](https://github.com/unitystation/unitystation/pull/9175)
 * 2022/08/29: **[Fix]** - Fixes empty MOTD window that doesn't get updated in esc menu by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[9177](https://github.com/unitystation/unitystation/pull/9177)
 * 2022/08/28: **[Fix]** removed duplicate, non-functioning scalpel from all maps. by [PerfectTangent](https://github.com/PerfectTangent) in PR #[9176](https://github.com/unitystation/unitystation/pull/9176)
