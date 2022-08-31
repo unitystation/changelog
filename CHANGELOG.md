@@ -2,6 +2,8 @@
 ---
 
 
+* 2022/08/31: **[Fix]** Admin tile placer now correctly places electrical cables by [AtnerNT](https://github.com/AtnerNT) in PR #[9187](https://github.com/unitystation/unitystation/pull/9187)
+* 2022/08/31: **[Fix]** Fixes an issue in the tile placer UI were all sprites were rotated incorrectly, leading to much confusion with asymmetrical tiles by [AtnerNT](https://github.com/AtnerNT) in PR #[9187](https://github.com/unitystation/unitystation/pull/9187)
 * 2022/08/30: **[Fix]** Fixes an issue with implanters and an issue with implant explosives introduced in the same pr by [AtnerNT](https://github.com/AtnerNT) in PR #[9182](https://github.com/unitystation/unitystation/pull/9182)
 * 2022/08/30: **[Fix]** Clamps GasMix temperature to be a minimum of 0K. No more below absolute 0 temps! by [AtnerNT](https://github.com/AtnerNT) in PR #[9182](https://github.com/unitystation/unitystation/pull/9182)
 * 2022/08/30: **[Fix]** Rest button now respects the players current laydown state, you no longer have to lay down in order to stand up by [AtnerNT](https://github.com/AtnerNT) in PR #[9182](https://github.com/unitystation/unitystation/pull/9182)
