@@ -2,6 +2,9 @@
 ---
 
 
+* 2022/08/31: **[New]** Adds carbon monoxide and its relevant canister by [AtnerNT](https://github.com/AtnerNT) in PR #[9174](https://github.com/unitystation/unitystation/pull/9174)
+* 2022/08/31: **[New]** Adds metallic hydrogen reaction by [AtnerNT](https://github.com/AtnerNT) in PR #[9174](https://github.com/unitystation/unitystation/pull/9174)
+* 2022/08/31: **[New]** Steam reforming reaction to produce hydrogen and carbon monoxide by [AtnerNT](https://github.com/AtnerNT) in PR #[9174](https://github.com/unitystation/unitystation/pull/9174)
 * 2022/08/31: **[Fix]** Admin tile placer now correctly places electrical cables by [AtnerNT](https://github.com/AtnerNT) in PR #[9187](https://github.com/unitystation/unitystation/pull/9187)
 * 2022/08/31: **[Fix]** Fixes an issue in the tile placer UI were all sprites were rotated incorrectly, leading to much confusion with asymmetrical tiles by [AtnerNT](https://github.com/AtnerNT) in PR #[9187](https://github.com/unitystation/unitystation/pull/9187)
 * 2022/08/30: **[Fix]** Fixes an issue with implanters and an issue with implant explosives introduced in the same pr by [AtnerNT](https://github.com/AtnerNT) in PR #[9182](https://github.com/unitystation/unitystation/pull/9182)
