@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/09/03: **[Fix]** - Mobs can be hit by thrown objects again. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[9193](https://github.com/unitystation/unitystation/pull/9193)
 * 2022/09/03: **[New]** Adds manual and digital valves by [ThatDan123](https://github.com/ThatDan123) in PR #[9165](https://github.com/unitystation/unitystation/pull/9165)
 * 2022/09/03: **[New]** Adds heat exchange by [ThatDan123](https://github.com/ThatDan123) in PR #[9165](https://github.com/unitystation/unitystation/pull/9165)
 * 2022/09/03: **[Fix]** - MOTD will no longer open again when a player joins a round. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[9192](https://github.com/unitystation/unitystation/pull/9192)
