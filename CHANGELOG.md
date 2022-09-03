@@ -2,6 +2,8 @@
 ---
 
 
+* 2022/09/03: **[New]** Adds manual and digital valves by [ThatDan123](https://github.com/ThatDan123) in PR #[9165](https://github.com/unitystation/unitystation/pull/9165)
+* 2022/09/03: **[New]** Adds heat exchange by [ThatDan123](https://github.com/ThatDan123) in PR #[9165](https://github.com/unitystation/unitystation/pull/9165)
 * 2022/09/03: **[Fix]** - MOTD will no longer open again when a player joins a round. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[9192](https://github.com/unitystation/unitystation/pull/9192)
 * 2022/08/31: **[New]** Adds carbon monoxide and its relevant canister by [AtnerNT](https://github.com/AtnerNT) in PR #[9174](https://github.com/unitystation/unitystation/pull/9174)
 * 2022/08/31: **[New]** Adds metallic hydrogen reaction by [AtnerNT](https://github.com/AtnerNT) in PR #[9174](https://github.com/unitystation/unitystation/pull/9174)
