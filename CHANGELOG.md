@@ -2,6 +2,8 @@
 ---
 
 
+* 2022/09/03: **[Fix]** - Attacking someone with a welding tool now works again. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[9194](https://github.com/unitystation/unitystation/pull/9194)
+* 2022/09/03: **[Improvement]** - Pouring reagents onto things now requires you to hold the alt-key. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[9194](https://github.com/unitystation/unitystation/pull/9194)
 * 2022/09/03: **[Fix]** - Mobs can be hit by thrown objects again. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[9193](https://github.com/unitystation/unitystation/pull/9193)
 * 2022/09/03: **[New]** Adds manual and digital valves by [ThatDan123](https://github.com/ThatDan123) in PR #[9165](https://github.com/unitystation/unitystation/pull/9165)
 * 2022/09/03: **[New]** Adds heat exchange by [ThatDan123](https://github.com/ThatDan123) in PR #[9165](https://github.com/unitystation/unitystation/pull/9165)
