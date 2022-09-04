@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/09/04: **[Fix]** Fixed being unable to join servers if you have not previously connected to any server. by [NoooneyDude](https://github.com/NoooneyDude) in PR #[9200](https://github.com/unitystation/unitystation/pull/9200)
 * 2022/09/04: **[Fix]** fixes glitchy FOV on moving shuttles on  Client by [Bod9001](https://github.com/Bod9001) in PR #[9199](https://github.com/unitystation/unitystation/pull/9199)
 * 2022/09/04: **[Improvement]** - players now have a minimum movement speed. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[9201](https://github.com/unitystation/unitystation/pull/9201)
 * 2022/09/03: **[Fix]** - Players will no longer get kicked after getting cuffed. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[9195](https://github.com/unitystation/unitystation/pull/9195)
