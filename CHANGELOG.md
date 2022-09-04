@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/09/04: **[Improvement]** - players now have a minimum movement speed. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[9201](https://github.com/unitystation/unitystation/pull/9201)
 * 2022/09/03: **[Fix]** - Players will no longer get kicked after getting cuffed. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[9195](https://github.com/unitystation/unitystation/pull/9195)
 * 2022/09/03: **[Fix]** - Attacking someone with a welding tool now works again. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[9194](https://github.com/unitystation/unitystation/pull/9194)
 * 2022/09/03: **[Improvement]** - Pouring reagents onto things now requires you to hold the alt-key. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[9194](https://github.com/unitystation/unitystation/pull/9194)
