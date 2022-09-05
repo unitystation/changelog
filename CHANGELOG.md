@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/09/05: **[New]** - Added the End-Of-Round score screen. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[9173](https://github.com/unitystation/unitystation/pull/9173)
 * 2022/09/04: **[Fix]** Fixed being unable to join servers if you have not previously connected to any server. by [NoooneyDude](https://github.com/NoooneyDude) in PR #[9200](https://github.com/unitystation/unitystation/pull/9200)
 * 2022/09/04: **[Fix]** fixes glitchy FOV on moving shuttles on  Client by [Bod9001](https://github.com/Bod9001) in PR #[9199](https://github.com/unitystation/unitystation/pull/9199)
 * 2022/09/04: **[Improvement]** - players now have a minimum movement speed. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[9201](https://github.com/unitystation/unitystation/pull/9201)
