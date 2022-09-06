@@ -2,6 +2,10 @@
 ---
 
 
+* 2022/09/06: **[Improvement]** better tracking of nightvision state by [Bod9001](https://github.com/Bod9001) in PR #[9203](https://github.com/unitystation/unitystation/pull/9203)
+* 2022/09/06: **[Fix]** Movement debuffs should properly apply now and  deApply by [Bod9001](https://github.com/Bod9001) in PR #[9203](https://github.com/unitystation/unitystation/pull/9203)
+* 2022/09/06: **[Fix]** WearableSpeechMod should properly apply now and  deApply by [Bod9001](https://github.com/Bod9001) in PR #[9203](https://github.com/unitystation/unitystation/pull/9203)
+* 2022/09/06: **[Fix]** Dynamic item storage actually returns itemSlotTree now by [Bod9001](https://github.com/Bod9001) in PR #[9203](https://github.com/unitystation/unitystation/pull/9203)
 * 2022/09/05: **[New]** - Added the End-Of-Round score screen. by [MaxIsJoe](https://github.com/MaxIsJoe) in PR #[9173](https://github.com/unitystation/unitystation/pull/9173)
 * 2022/09/04: **[Fix]** Fixed being unable to join servers if you have not previously connected to any server. by [NoooneyDude](https://github.com/NoooneyDude) in PR #[9200](https://github.com/unitystation/unitystation/pull/9200)
 * 2022/09/04: **[Fix]** fixes glitchy FOV on moving shuttles on  Client by [Bod9001](https://github.com/Bod9001) in PR #[9199](https://github.com/unitystation/unitystation/pull/9199)
