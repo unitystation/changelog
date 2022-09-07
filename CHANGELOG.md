@@ -2,6 +2,7 @@
 ---
 
 
+* 2022/09/07: **[Fix]** Fixes ordering by [Bod9001](https://github.com/Bod9001) in PR #[9208](https://github.com/unitystation/unitystation/pull/9208)
 * 2022/09/06: **[Improvement]** better tracking of nightvision state by [Bod9001](https://github.com/Bod9001) in PR #[9203](https://github.com/unitystation/unitystation/pull/9203)
 * 2022/09/06: **[Fix]** Movement debuffs should properly apply now and  deApply by [Bod9001](https://github.com/Bod9001) in PR #[9203](https://github.com/unitystation/unitystation/pull/9203)
 * 2022/09/06: **[Fix]** WearableSpeechMod should properly apply now and  deApply by [Bod9001](https://github.com/Bod9001) in PR #[9203](https://github.com/unitystation/unitystation/pull/9203)
